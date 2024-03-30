@@ -1,0 +1,253 @@
+added filter note in material.js
+comment 182 line in material.js
+modified 389 line in material.js
+modified 423 line in material.js
+modified 62 line in material.js
+replaced error with .info in line nu. 134
+modified 447 line
+
+
+modified 782 number line code in script.js
+
+function.js line number 123 modified
+function.js line number 29 modified
+
+in 1st_Semester_Notes line no. 262 added class "pdfModalDialog" & removed style from that class
+in 212 line added new subjects
+
+
+in video page removed modal 
+
+
+in 223 line added  topic input field
+added autocomplete="off" in title input field
+from table remove text-center
+
+renamed resetbutton to noteResetbutton in notes page
+
+
+
+in style.css line no. 263 added new style
+321 = justify-content : space-between;
+
+
+add title <developed by bibek> in every body tag
+add short key for nav, bot, 
+make favicon rounded
+
+2013
+
+make sure that 1st sem pyq contains only that js file 
+
+show jpg , txt  image in pdf preview
+
+add other to solution option
+Mid Semester in value
+
+
+extract the name form this json "
+put each name in this format "
+
+pdf toast not showing
+
+
+
+
+subject: BD,
+year: 2022,
+exam: Mid Semester
+question: Spring End Semester
+question-value: BD_PYQs_2022_Spring_End_Semester
+solution: Not Available
+
+
+solution: Available
+solution-value: BD_PYQs_2022_Spring_End_Semester_Sol
+
+
+
+subject = Cloud Computing
+topic = Full Slides
+topicValue = CC_Full_Slides
+
+
+
+semester = 3rd
+img_src =  assets/image/Books/Data_Structure_and_Algorithm.webp
+alt = Data Structure Algorithm
+subjectName  = Data Structure Algorithm
+author = Narasimha Karumanchi
+subjectBookValue = Data_Structure_Algorithm
+
+
+subjectNameFilter = IOT
+subjectName = Internet of Things
+youtubeLink = https://www.youtube.com/playlist?list=PLdaj4mrS1BKBKic8N5CcipttgvfHiX_vg
+youtubeLinkImage = https://img.youtube.com/vi/EteKRIzju90/maxresdefault.jpg
+videoAuthor = Bindu Agarwalla
+videoDescription = subject name + "by" + videoAuthor
+videoAlt = subject name + "by" + videoAuthor
+
+
+
+    position: absolute;
+    display: flex;
+    right: 20%;
+    top: 50%;
+    color: red;
+
+
+
+<iframe src="https://docs.google.com/gview?url=https%3A%2F%2Fgithub.com%2Fbibek10550%2Ffiles%2Fraw%2Fmain%2Ftrash%2Fbin%2Fdownload%2FKIIT%25202022%2FB.Tech%25201st%2520semester%2FBio-Medical%2520Engineering%2FBook%2FBook.pdf&amp;embedded=true" width="100%" height="100%" id="myframe"></iframe>
+
+
+
+
+
+<=====1st Semester Books=====>
+C Lab
+Bio-Medical
+ED and Graph
+Environmental Science
+Life Science
+Diff Eqn and Linear Alg
+Optimization Tehnique
+Physics
+
+<=====2nd Semester Books=====>
+Chemistry
+BEE (Basic Electrical Engineering)
+Electronics(BETC)
+English
+Calculus (Transform Calculus and Numerical Analysis)
+Workshop
+Yoga
+
+<=====3rd Semester Books=====>
+AFL (Automata Theory and Formal Language)
+DS (Data Structure)
+DS(Lab)
+DSD (Digital System Design)
+DSD(Lab)
+IEC (International Engineering Economics)
+IND4 (Industry 4.0 Technologies)
+PS (Probability and Statics)
+
+<=====4th Semester Books=====>
+STW (Scientific and Technical Writing)
+DBMS (Database Management System)
+DBMS Lab (Database Management System Lab)
+OS (Operating System)
+OS Lab (Operating System Lab)
+COA (Computer Organization and Architecture)
+OOP Java (Object Oriented Program - Java)
+OOP Java Lab (Object Oriented Program - Java Lab)
+Discrete Structure
+VT Lab (Vocational Training Lab)
+
+<=====5th Semester Books=====>
+CN = Computer Network
+DAA = Design & Analysis of Algo
+SE = Software Engineering
+DMDW = Data Mining and Data Warehousing
+HPC = High Performance Computer
+AI = Artificial Intelligence
+CI = Computational Intelligence
+Cryptography
+Big Data
+
+<=====6th Semester Books=====>
+IOT = Internet of Things
+Compiler Design
+Cloud Computing
+Data Analysis
+SPM = Software Project Management
+Machine Learning
+NLP = Natural Language Processing
+
+
+
+
+
+if in solution column it contains "Not Available" text then in table it doesn't show preview and download option
+
+
+preview : button
+<button type="button" class="clickLink btn btn-primary btn-sm modalToast-trigger" data-toggle="modal" href="#myModal" data-id="2022_autumn_mid_sem_question">Preview</button>
+modalToast-trigger : shows the toast regarding preview
+data-toggle="modal" : show pdf preview
+2022_autumn_mid_sem_question : title name from js
+
+
+download file : button
+<button type="button" class="btn btn-primary btn-sm download-file toast-trigger" onclick="downloadFiles(['2022_autumn_mid_sem_question'], this)">Download</button>
+download-file : download file 
+toast-trigger : download toast trigger
+onclick="downloadFiles(['2022_autumn_mid_sem_question'], this) : download file contain file name in js file 
+
+
+download folder : button
+<button type="button" class="btn btn-primary btn-sm download-folder toast-trigger" data-folder="sap_lab_notes">Download</button>
+download-folder : download folder
+toast-trigger : download toast trigger
+data-folder="sap_lab_notes" : download folder contain folder name in js file 
+
+
+data filter : in table
+<tr data-subject="Bio-Medical" data-year="2022" data-exam="mid" data-paper="">
+data-subject="Bio-Medical" : subject name from drop down list
+data-year="2022" : year from drop down list
+data-exam="mid" : mid or end from drop down list
+data-paper="" : solution or "" from drop down list
+
+
+
+
+< ====== user snip for notes ======>
+	"Custom HTML Table Row": {
+		"prefix": "notes",
+		"body": [
+			"<tr data-subject=\"Diff Eqn and Linear Alg\">",
+			"\t<th scope=\"row\">Diff Eqn and Linear Alg</th>",
+			"\t<td class=\"download_section align-middle\">$3 <div class=\"btn-group\" role=\"group\" aria-label=\"Download Section\">",
+			"\t\t<button type=\"button\" class=\"clickLink btn btn-primary btn-sm modalToast-trigger\" data-toggle=\"modal\" href=\"#myModal\" data-id=\"$2\">Preview</button>",
+			"\t\t<button type=\"button\" class=\"btn btn-primary btn-sm download-file toast-trigger\" onclick=\"downloadFiles(['$2'], this)\">Download</button>",
+			"\t</div>",
+			"\t</td>",
+			"</tr>"
+		],
+		"description": "Custom HTML table row with download links"
+	},
+
+< ====== user snip for PYQs ======>
+	"Custom PYQs for KIITCSE": {
+		"prefix": "pyqs",
+		"body": [
+			"<tr data-subject=\"$3\" data-year=\"$4\" data-exam=\"$5\" data-paper=\"$6\">",
+			"\t<th scope=\"row\"></th>",
+			"\t<td></td>",
+			"\t<td></td>",
+			"\t<td class=\"download_section align-middle\">$2 <div class=\"btn-group\" role=\"group\" aria-label=\"Download Section\">",
+			"\t\t<button type=\"button\" class=\"clickLink btn btn-primary btn-sm modalToast-trigger\" data-toggle=\"modal\" href=\"#myModal\" data-id=\"$1\">Preview</button>",
+			"\t\t<button type=\"button\" class=\"btn btn-primary btn-sm download-file toast-trigger\" onclick=\"downloadFiles(['$1'], this)\">Download</button>",
+			"\t</div>",
+			"\t</td>",
+			"\t<td class=\"solution_sections text-center\">",
+			"\t\t<span>Not Available</span>",
+			"\t\t<div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">",
+			"\t\t\t<button type=\"button\" class=\"clickLink btn btn-primary btn-sm modalToast-trigger\" data-toggle=\"modal\" href=\"#myModal\" data-id=\"$1\">Preview</button>",
+			"\t\t\t<button type=\"button\" class=\"btn btn-primary btn-sm download-file toast-trigger\" onclick=\"downloadFiles(['$1'], this)\">Download</button>",
+			"\t\t</div>",
+			"\t</td>",
+			"</tr>"
+		],
+		"description": "Custom HTML table row with exam data"
+	},
+
+
+PYQs js to html = https://chat.openai.com/c/a132433c-42f6-4ad2-8754-d0f6448b18a0
+note js to html = https://chat.openai.com/c/dad9b3e1-c65e-4d83-8377-03ba3d9b4a27
+user snippet = https://chat.openai.com/c/8c9600db-071b-49aa-b26e-523169507212
+
+
+
