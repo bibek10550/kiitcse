@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KIIT CSE</title>
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#3232ff">
+    <link rel="shortcut icon" href="assets/favicon/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="KIIT CSE">
+    <meta name="application-name" content="KIIT CSE">
+    <meta name="msapplication-TileColor" content="#3232fa">
+    <meta name="msapplication-config" content="assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#3232fa">
+    <!-- Provide a brief description of your page -->
+    <meta name="description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta name="search.description" content="KIIT CSE computer science engineering resources materials and information for students and faculty members." />
+    <!-- Specify keywords related to your content -->
+    <meta name="keywords" content="bibek sha, bibek10550, CSE material, cse material, resources, bibeksha10550 KIITCSE ">
+    <!-- Define the author of the page -->
+    <meta name="author" content="Bibek Sha">
+    <!-- Define the language of the content -->
+    <meta name="language" content="en">
+    <!-- Canonical URL to specify the preferred version of the page -->
+    <link rel="canonical" href="https://bibek10550.github.io/kiitcse/">
+    <!-- Open Graph meta tags for social media sharing -->
+    <meta property="og:title" content="KIIT CSE">
+    <meta property="og:description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/bibek10550/kiitcse/main/assets/image/KIIT_CSE_blue_name.png">
+    <meta property="og:url" content="https://bibek10550.github.io/kiitcse/">
+    <meta property="og:type" content="website">
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <!--     <meta name="twitter:site" content="@YourTwitterHandle"> Replace with your Twitter handle  -->
+    <meta name="twitter:title" content="KIIT CSE">
+    <meta name="twitter:description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/bibek10550/kiitcse/main/assets/image/KIIT_CSE_blue_name.png">
+    <!-- Bootstrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <!-- bootstrap javascript -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- for modal -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- enabling this doesn't let nav dropdown works fine -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <!-- Google Fonts Link For Icons chatbot -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,1,0" />
+    <!-- ==================== font-awesome CDN Link fax (https://fontawesome.com/v4/icons/) ====================-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- ====================animate in scroll Jsr (https://michalsnik.github.io/aos/)==================== -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- style sheet -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/chatbot.css" rel="stylesheet">
+</head>
+
+<body title="Developed by Bibek">
+    <!-- Navbar -->
+    <nav class="navbar bg-dark navbar-expand-lg bg-body-tertiary fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand homePage" href="#">
+                <img src="#" alt="Logo" width="24" height="24" class="d-inline-block align-text-top logoImage">KIIT CSE</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> PYQs </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterPYQs" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterPYQs" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterPYQs" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterPYQs" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterPYQs" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterPYQs" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Notes </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterNotes" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterNotes" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterNotes" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterNotes" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterNotes" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterNotes" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Videos </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterVideos" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterVideos" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterVideos" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterVideos" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterVideos" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterVideos" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link SemesterBooks" aria-current="page" href="#">Books</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link Developer" aria-current="page" href="#">Developer</a>
+                    </li>
+                </ul>
+                <div anim="ripple" class="col-auto theme">
+                    <select class="form-select" id="colorModeSelect" aria-label="Color Mode">
+                        <option selected disabled>Color Mode</option>
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                        <option value="system">System</option>
+                    </select>
+                </div>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2 search-input" id="input-box" type="search" placeholder="Search anything here..." aria-label="Search" autocomplete="off" onkeydown="searchOnEnter(event)" onkeyup="search()">
+                    <button class="btn btn-outline-primary" onclick="searchGoogle()">Search</button>
+                </form>
+                <!-- search box -->
+                <div class="search-box" id="updatesearchbox">
+                    <div class="result-box">
+                        <!-- search result dropdown box start -->
+                        <ul class="SearchResult" id="ResultBox" style="display: none;">
+                            <li><a href="https://bibek10550.github.io/bibek/">Bibek</a></li>
+                            <li><a href="https://bibek10550.github.io/Music/">Music</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksha/qr%20code%20generator.html">Qr code generator</a></li>
+                            <li><a href="https://bibek10550.github.io/linksaver/">Link Manager</a></li>
+                            <li><a href="https://bibek10550.github.io/event-calendar/">Event Calendar</a></li>
+                            <li><a href="https://bibek10550.github.io/calendar/">Calendar</a></li>
+                            <li><a href="https://bibek10550.github.io/dailyQuote/">Daily Quote</a></li>
+                            <li><a href="https://github.com/bibek10550/pickupline">Pickup lines</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksah48/youtube.html">Youtube videos</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksah48/websites.html">Extensions</a></li>
+                            <li><a href="https://vscode.dev/">VsCode Web</a></li>
+                            <li><a href="https://insiders.vscode.dev/">Insider VsCode Web</a></li>
+                            <li><a href="https://www.canva.com/">Canva</a></li>
+                            <li><a href="https://1drv.ms/x/s!AiNuwFrvg4udgfoYyVdeIlivIIb4Kw?e=jrSUg6">Image prompt</a></li>
+                            <li><a href="https://1drv.ms/x/s!AiNuwFrvg4udgeIa6_8F2xmN-0siQw?e=UwFk28">Music list</a></li>
+                            <li><a href="https://codepen.io/pen/tour/welcome/start">Codepen html editor</a></li>
+                            <li><a href="https://codepen.io/trending">Codepen search</a></li>
+                            <li><a href="https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file">Road map for CSE</a></li>
+                            <li><a href="https://hacksnation.com/d/19956-github-repositories-every-developer-should-know">Github repositories for developer</a></li>
+                            <li><a href="https://hacksnation.com/d/21797-chat-gpt-40-miror-sites">Chat GPT mirror sites</a></li>
+                            <li><a href="https://chat.lmsys.org/">All AI for query</a></li>
+                            <!-- <ul><li><a href="">y</a></li>
+                <li><a href="">Y</a></li>
+                <li><a href="">Y</a></li></ul> -->
+                        </ul>
+                        <!-- search result dropdown box End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- modal -->
+    <div class="modal updateModals" id="myModals" tabindex="-1" aria-labelledby="exampleModalScrollableTitle" aria-modal=" true" role="dialog">
+        <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h1 class="modal-title fs-5" id="exampleModalScrollableTitle">!!! What's new !!!</h1>
+                    <button type="button" class="btn-close closeUpdateModal" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="assets/image/developer.jpg" height="450" width="450" class="rounded img-fluid" alt="...">
+                    </div>
+                    <br>
+                    <p class="text-center">This page contains lots of study material which helps to make your CSE journey easy and fun. You can find lots of PYQs, Notes and Videos which is related to CSE.</p>
+                    <div class="list-group list-group-flush list-group-numbered">
+                        <button type="button" class="list-group-item list-group-item-action" aria-current="true"> <b>Alt + S</b> search box </button>
+                        <button type="button" class="list-group-item list-group-item-action"> <b>Alt + B</b> Chat bot </button>
+                        <button type="button" class="list-group-item list-group-item-action"> <b>Alt + C</b> Calendar </button>
+                    </div>
+                    <p class="text-center">Your feedback is very useful to improve this page. Please consider providing the feedback <a href="Feedback_Form.html">here</a></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-danger closeUpdateModal" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Show</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button type="button" class="clickLink btn btn-primary btn-sm UpdateModalTrigger" data-toggle="modal" href="#myModals" data-id="" style="position: relative; top: 0px;">Preview</button>
+    <!-- online status toast -->
+    <div id="OnlineToast" class="hide-toast">
+        <div class="toast-content">
+            <span id="wifi-icon" class="icon"></span>
+            <p id="toast-message"></p>
+            <span id="close-icon" class="icon close-icon"></span>
+        </div>
+    </div>
+    <!-- Button to clear local storage -->
+    <button anim="ripple" id="clearLocalStorageBtn" title="clear local storage">
+        <i class="fa fa-archive" aria-hidden="true"></i>
+    </button>
+    <!-- side button for calendar website -->
+    <div class="widget-container" id="widget-container">
+        <div class="switcher-column">
+            <div class="switcher-btn" title="calendar">
+                <i class="fa fa-calendar change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-calendar"></div>
+        </div>
+        <div class="switcher-column">
+            <div class="switcher-btn" title="commenting">
+                <i class="fa fa-commenting change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-commenting"></div>
+        </div>
+        <div class="switcher-column">
+            <div class="switcher-btn" title="linksaver">
+                <i class="fa fa-list-alt change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-linksaver"></div>
+        </div>
+    </div>
+    <!-- greeting text -->
+    <h1 class="pt-5 mt-lg-5" id="greeting"></h1>
+    <div id="username-input" style="display: none;">
+        <label for="username">Enter your name:</label>
+        <input type="text" id="username" />
+        <button onclick="saveUsername()">Submit</button>
+    </div>
+    <!-- drop down -->
+    <form class="row gy-4 gx-5 mt-1 align-items-center justify-content-center">
+        <div class="col-auto">
+            <label class="visually-hidden" for="semesterSelect">Semester</label>
+            <select class="form-select" id="semesterSelect">
+                <option value="">Choose Semester</option>
+                <option value="">1st Semester</option>
+                <option value="">2nd Semester</option>
+                <option value="">3rd Semester</option>
+                <option value="">4th Semester</option>
+                <option value="">5th Semester</option>
+                <option value="">6th Semester</option>
+            </select>
+        </div>
+        <div class="col-auto dropdown-center">
+            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"> Choose PYQs </button>
+            <ul class="dropdown-menu p-2">
+                <li><a class="dropdown-item rounded-2 FirstSemesterPYQs" href="#">1st semester</a></li>
+                <li><a class="dropdown-item rounded-2 SecondSemesterPYQs" href="#">2nd semester</a></li>
+                <li><a class="dropdown-item rounded-2 ThirdSemesterPYQs" href="#">3rd semester</a></li>
+                <li><a class="dropdown-item rounded-2 FourthSemesterPYQs" href="#">4th semester</a></li>
+                <li><a class="dropdown-item rounded-2 FifthSemesterPYQs" href="#">5th semester</a></li>
+                <li><a class="dropdown-item rounded-2 SixthSemesterPYQs" href="#">6th semester</a></li>
+            </ul>
+        </div>
+        <div class="col-auto dropdown-center">
+            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"> Choose Notes </button>
+            <ul class="dropdown-menu p-2">
+                <li><a class="dropdown-item rounded-2 FirstSemesterNotes" href="#">1st semester</a></li>
+                <li><a class="dropdown-item rounded-2 SecondSemesterNotes" href="#">2nd semester</a></li>
+                <li><a class="dropdown-item rounded-2 ThirdSemesterNotes" href="#">3rd semester</a></li>
+                <li><a class="dropdown-item rounded-2 FourthSemesterNotes" href="#">4th semester</a></li>
+                <li><a class="dropdown-item rounded-2 FifthSemesterNotes" href="#">5th semester</a></li>
+                <li><a class="dropdown-item rounded-2 SixthSemesterNotes" href="#">6th semester</a></li>
+            </ul>
+        </div>
+        <div class="col-auto dropdown-center">
+            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"> Choose Videos </button>
+            <ul class="dropdown-menu p-2">
+                <li><a class="dropdown-item rounded-2 FirstSemesterVideos" href="#">1st semester</a></li>
+                <li><a class="dropdown-item rounded-2 SecondSemesterVideos" href="#">2nd semester</a></li>
+                <li><a class="dropdown-item rounded-2 ThirdSemesterVideos" href="#">3rd semester</a></li>
+                <li><a class="dropdown-item rounded-2 FourthSemesterVideos" href="#">4th semester</a></li>
+                <li><a class="dropdown-item rounded-2 FifthSemesterVideos" href="#">5th semester</a></li>
+                <li><a class="dropdown-item rounded-2 SixthSemesterVideos" href="#">6th semester</a></li>
+            </ul>
+        </div>
+    </form>
+    <!-- Welcome Section-->
+    <div data-aos="zoom-in" class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src="assets\image\KIIT_CSE_blue_name_transparent.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="700" loading="lazy">
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Myself <a href="https://bibek10550.github.io/bibek">Bibek</a> Welcome you all to KIIT CSE</h1>
+                <p class="lead">This resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start dropdown-menu border-0" style="background-color: transparent;">
+                    <a class="Developer" href="#"><button class="btn btn-lg btn-outline-primary rounded-pill px-5" type="button">Developer</button></a>
+                    <a class="FeedbackForm" href="#"><button class="btn btn-lg btn-outline-primary rounded-pill px-5" type="button">Feedback</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- tool section -->
+    <div data-aos="fade-up" class="container my-5">
+        <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
+            <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
+                <h1 class="display-4 fw-bold lh-1 text-body-emphasis">Life gets easier with this helpful tools</h1>
+                <p class="lead">This essential tools for a smoother CSE journey. A calendar with deadlines highlighted ensures you never miss a project due date. Upbeat music with headphones can help you focus on coding challenges. Stuck on a bug? A friendly robot assistant might point you to helpful resources. Finally, detailed checklists keep track of coding tasks, functions, and tests, ensuring a well-organized and completed project.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3 toolBadge">
+                    <a href="https://bibek10550.github.io/Music" title="Music"><span class="badge d-flex align-items-center p-lg-2 pe-lg-4 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill"><img class="rounded-circle me-1" width="24" height="24" src="https://bibek10550.github.io/Music/favicon_io/apple-touch-icon.png" alt="Music logo">Music </span></a>
+                    <a href="https://bibek10550.github.io/event-calendar/" title="Calendar"><span class="badge d-flex align-items-center p-lg-2 pe-lg-4 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill"><img class="rounded-circle me-1" width="24" height="24" src="https://bibek10550.github.io/event-calendar/favicon_io/apple-touch-icon.png" alt="Calendar logo">Calendar </span></a>
+                    <a href="https://bibek10550.github.io/dailyQuote/" title="Daily Quote"><span class="badge d-flex align-items-center p-lg-2 pe-lg-4 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill"><img class="rounded-circle me-1" width="24" height="24" src="https://bibek10550.github.io/dailyQuote/favicon_io/apple-touch-icon.png" alt="Daily Quote logo">Daily Quote </span></a>
+                    <a href="https://bibek10550.github.io/Homepage/" title="Homepage"><span class="badge d-flex align-items-center p-lg-2 pe-lg-4 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill"><img class="rounded-circle me-1" width="24" height="24" src="https://bibek10550.github.io/Homepage/favicon_io/apple-touch-icon.png" alt="Homepage logo">Homepage </span></a>
+                    <a href="https://bibek10550.github.io/linksaver/" title="Link Saver"><span class="badge d-flex align-items-center p-lg-2 pe-lg-4 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill"><img class="rounded-circle me-1" width="24" height="24" src="https://bibek10550.github.io/linksaver/apple-touch-icon.png" alt="Homepage logo">Link Saver </span></a>
+                </div>
+            </div>
+            <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
+                <img class="rounded-lg-3" src="assets/image/helpful_tools.jpeg" alt="helpful tool" width="720">
+            </div>
+        </div>
+    </div>
+    <!-- Description -->
+    <div data-aos="fade-up" class="container px-4 py-5" id="featured-3">
+        <h2 class="pb-2 border-bottom">Your belongings for CSE journey</h2>
+        <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+            <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3">
+                    <img class="bi" width="1em" height="1em" src="assets/image/pyqs.png">
+                    </img>
+                </div>
+                <h3 class="fs-2 text-body-emphasis">Previous Year Questions (PYQs)</h3>
+                <p>Dive into a curated collection of topic-wise CSE Prelims questions from the last years. These PYQs provide valuable insights into exam patterns, reasoning, and favorite themes.</p>
+            </div>
+            <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3">
+                    <img class="bi" width="1em" height="1em" src="assets/image/notes.png">
+                    </img>
+                </div>
+                <h3 class="fs-2 text-body-emphasis">Notes</h3>
+                <p>Access concise and well-organized study notes on various CSE subjects. From algorithms to data structures, these notes simplify complex concepts and enhance your understanding.</p>
+            </div>
+            <div class="feature col">
+                <div class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3">
+                    <img class="bi" width="1em" height="1em" src="assets/image/video.png">
+                    </img>
+                </div>
+                <h3 class="fs-2 text-body-emphasis">Video Lectures</h3>
+                <p>Engage with video content that complements your learning. Visualize abstract ideas, follow step-by-step explanations, and reinforce your understanding through expert-led videos.</p>
+            </div>
+        </div>
+    </div>
+    <!-- footer -->
+    <div data-aos="fade-up" class="container border-top">
+        <footer class="py-5">
+            <div class="row">
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>PYQs</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FirstSemesterPYQs">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_PYQs.html" class="nav-link p-0 text-body-secondary SecondSemesterPYQs">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_PYQs.html" class="nav-link p-0 text-body-secondary ThirdSemesterPYQs">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FourthSemesterPYQs">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FifthSemesterPYQs">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary SixthSemesterPYQs">6th semester</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>Notes</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_Notes.html" class="nav-link p-0 text-body-secondary FirstSemesterNotes">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_Notes.html" class="nav-link p-0 text-body-secondary SecondSemesterNotes">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_Notes.html" class="nav-link p-0 text-body-secondary ThirdSemesterNotes">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_Notes.html" class="nav-link p-0 text-body-secondary FourthSemesterNotes">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_Notes.html" class="nav-link p-0 text-body-secondary FifthSemesterNotes">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_Notes.html" class="nav-link p-0 text-body-secondary SixthSemesterNotes">6th semester</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>Videos</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_Videos.html" class="nav-link p-0 text-body-secondary FirstSemesterVideos">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_Videos.html" class="nav-link p-0 text-body-secondary SecondSemesterVideos">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_Videos.html" class="nav-link p-0 text-body-secondary ThirdSemesterVideos">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_Videos.html" class="nav-link p-0 text-body-secondary FourthSemesterVideos">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_Videos.html" class="nav-link p-0 text-body-secondary FifthSemesterVideos">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_Videos.html" class="nav-link p-0 text-body-secondary SixthSemesterVideos">6th semester</a></li>
+                    </ul>
+                </div>
+                <!-- <div class="col-6 col-md-2 mb-3">
+                    <h5>Books</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="Semester_Books.html" class="nav-link p-0 text-body-secondary SemesterBooks">Semester Books</a></li>
+                    </ul>
+                </div> -->
+                <div class="col-md-5 offset-md-1 mb-3">
+                    <div class="col-10 col-sm-8 col-lg-6">
+                        <img src="assets\image\KIIT_CSE_blue_name_transparent.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="300" height="300" loading="lazy">
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                <div class="col-md-4 d-flex align-items-center">
+                    <a href="#" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1 homePage">
+                        <img src="#" class="logoImage" width="30" height="30">
+                    </a>
+                    <span class="mb-3 mb-md-0 text-body-secondary">© 2024 KIIT CSE, All rights reserved</span>
+                </div>
+                <ul class="list-unstyled d-flex footerBadge">
+                    <li class="ms-3"><a href="https://www.facebook.com/bibek.sha.1432/" title="facebook"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/facebook.png" alt="facebook logo">Facebook </span></a> </li>
+                    <li class="ms-3"><a href="https://www.instagram.com/bibeksha1432/" title="instagram"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/instagram.png" alt="instagram logo">Instagram </span></a></li>
+                    <li class="ms-3"><a href="mailto:bibeksha48@gmail.com" title="Send Message"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/gmail.png" alt="gmail logo">Gmail </span></a> </li>
+                    <li class="ms-3"><a href="#" id="whatsappLink"> <span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/share.png" alt="">Share </span></a></li>
+                    <li class="ms-3"><a href="Feedback_Form.html" title="feedback"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/feedback.jpeg" alt="feedback logo">Feedback </span></a></li>
+                </ul>
+            </div>
+        </footer>
+        <div id="imagePreview" style="display: none;"></div>
+    </div>
+    <!-- chatbot -->
+    <button anim="ripple" class="chatbot-toggler" id="updatechatbot">
+        <span class="material-symbols-rounded">mode_comment</span>
+        <span class="material-symbols-outlined">close</span>
+    </button>
+    <div class="chatbot">
+        <header>
+            <h2><a href="https://bibek10550.github.io/bibek/">ChatBot by Bibek</a></h2>
+            <span class="close-btn material-symbols-outlined">close</span>
+        </header>
+        <ul class="chatbox">
+            <li class="chat incoming">
+                <span class="material-symbols-outlined">smart_toy</span>
+                <p>Hi there 👋<br>How can I help you today?</p>
+            </li>
+        </ul>
+        <div class="chat-input">
+            <textarea placeholder="Enter a message..." spellcheck="false" required></textarea>
+            <span id="send-btn" class="material-symbols-rounded">send</span>
+        </div>
+    </div>
+    <!-- back to top -->
+    <a anim="ripple" href="#" class="scrollup" id="scroll-up"><button type="button" class="btn btn-outline-primary"><i class="fa fa-arrow-up" aria-hidden="true"></i></button></a>
+    <!-- script file -->
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/chatbot.js"></script>
+    <script src="assets/js/calendar.js"></script>
+    <script>
+    </script>
+</body>
+
+</html>
