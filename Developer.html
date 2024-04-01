@@ -62,6 +62,13 @@
     <!-- style sheet -->
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/chatbot.css" rel="stylesheet">
+    <style>
+        .visitcount {
+            position: absolute;
+            clip: rect(0, 103px, 50px, 79px);
+            /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
+        }
+    </style>
 </head>
 
 <body title="Developed by Bibek">
@@ -323,11 +330,17 @@
                                 <img class="rounded-circle me-1" width="24" height="24" src="assets/image/share.png" alt="">Share </span></a></li>
                     <li class="ms-3"><a href="Feedback_Form.html" title="feedback"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
                                 <img class="rounded-circle me-1" width="24" height="24" src="assets/image/feedback.jpeg" alt="feedback logo">Feedback </span></a></li>
-                    <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84bdcfa5148f0fc536b0f424276422b9a86d4d99e89372ac217dca4ffd9cdab8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626962656b3130353530266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/84bdcfa5148f0fc536b0f424276422b9a86d4d99e89372ac217dca4ffd9cdab8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626962656b3130353530266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="kiitcse" data-canonical-src="https://komarev.com/ghpvc/?username=kiitcse&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
                 </ul>
             </div>
         </footer>
         <div id="imagePreview" style="display: none;"></div>
+        <!-- Total Visit Count -->
+        <h3 class="text-center">Total Visitors</h3>
+        <hr>
+        <div class="d-flex gap-2 justify-content-center py-2 mb-lg-5 toolBadge">
+            <span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                <img class="me-1 visitcount" src="https://camo.githubusercontent.com/1139c54d23621aac4c6422e9cdec37ffd8341f677005bd21fd124c4cd465b6ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b696974637365266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="kiitcse" data-canonical-src="https://komarev.com/ghpvc/?username=kiitcse&amp;label=Total%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;" alt="visitcount logo">Total Visit </span>
+        </div>
     </div>
     <!-- chatbot -->
     <button anim="ripple" class="chatbot-toggler" id="updatechatbot">
