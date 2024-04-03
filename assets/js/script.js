@@ -28,36 +28,125 @@ logoImages.forEach(function (logoImage) {
 
 
 
+// more section in nav bar
+document.addEventListener('DOMContentLoaded', function () {
+    // Find the parent element where you want to insert the new HTML code
+    var navbar = document.querySelector('.navbar-nav');
+    // Define the HTML code to be inserted
+    var newHTML = `
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> More tools </a>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item nav-link SGPA_Calculator" href="#">SGPA Calculator</a></li>
+                <li><a class="dropdown-item nav-link" href="#">Comming Soon</a></li>
+                <li>
+                    <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+            </ul>
+        </li>
+    `;
+    // Insert the new HTML code after the last child of the navbar
+    navbar.insertAdjacentHTML('beforeend', newHTML);
 
-// Update dropdown menu links to open the corresponding page when clicked according to its class name
-function setDropdownMenuHrefs(selector, href) {
-    var dropdownMenus = document.querySelectorAll(selector);
-    dropdownMenus.forEach(function (dropdownMenu) {
-        dropdownMenu.href = href;
-    });
-}
-setDropdownMenuHrefs('.dropdown-menu .FirstSemesterPYQs', '1st_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .FirstSemesterNotes', '1st_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .FirstSemesterVideos', '1st_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .SecondSemesterPYQs', '2nd_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .SecondSemesterNotes', '2nd_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .SecondSemesterVideos', '2nd_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterPYQs', '3rd_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterNotes', '3rd_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterVideos', '3rd_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .FourthSemesterPYQs', '4th_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .FourthSemesterNotes', '4th_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .FourthSemesterVideos', '4th_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .FifthSemesterPYQs', '5th_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .FifthSemesterNotes', '5th_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .FifthSemesterVideos', '5th_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .SixthSemesterPYQs', '6th_Semester_PYQs.html');
-setDropdownMenuHrefs('.dropdown-menu .SixthSemesterNotes', '6th_Semester_Notes.html');
-setDropdownMenuHrefs('.dropdown-menu .SixthSemesterVideos', '6th_Semester_Videos.html');
-setDropdownMenuHrefs('.dropdown-menu .FeedbackForm', 'Feedback_Form.html');
-setDropdownMenuHrefs('.SemesterBooks', 'Semester_Books.html');
-setDropdownMenuHrefs('.Developer', 'Developer.html');
-setDropdownMenuHrefs('.homePage', 'index.html');
+
+
+    
+
+
+    // Update dropdown menu links to open the corresponding page when clicked according to its class name
+    function setDropdownMenuHrefs(selector, href) {
+        var dropdownMenus = document.querySelectorAll(selector);
+        dropdownMenus.forEach(function (dropdownMenu) {
+            dropdownMenu.href = href;
+        });
+    }
+    setDropdownMenuHrefs('.dropdown-menu .FirstSemesterPYQs', '1st_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .FirstSemesterNotes', '1st_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .FirstSemesterVideos', '1st_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .SecondSemesterPYQs', '2nd_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .SecondSemesterNotes', '2nd_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .SecondSemesterVideos', '2nd_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterPYQs', '3rd_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterNotes', '3rd_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .ThirdSemesterVideos', '3rd_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .FourthSemesterPYQs', '4th_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .FourthSemesterNotes', '4th_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .FourthSemesterVideos', '4th_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .FifthSemesterPYQs', '5th_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .FifthSemesterNotes', '5th_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .FifthSemesterVideos', '5th_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .SixthSemesterPYQs', '6th_Semester_PYQs.html');
+    setDropdownMenuHrefs('.dropdown-menu .SixthSemesterNotes', '6th_Semester_Notes.html');
+    setDropdownMenuHrefs('.dropdown-menu .SixthSemesterVideos', '6th_Semester_Videos.html');
+    setDropdownMenuHrefs('.dropdown-menu .FeedbackForm', 'Feedback_Form.html');
+    setDropdownMenuHrefs('.dropdown-menu .SGPA_Calculator', 'SGPA_Calculator.html');
+    setDropdownMenuHrefs('.SemesterBooks', 'Semester_Books.html');
+    setDropdownMenuHrefs('.Developer', 'Developer.html');
+    setDropdownMenuHrefs('.homePage', 'index.html');
+
+
+
+
+
+
+    // make nav element active dynamically according to its page name and class name
+    // Mapping between page names and corresponding classes
+    var pageClassMap = {
+        "1st_Semester_PYQs.html": "FirstSemesterPYQs",
+        "2nd_Semester_PYQs.html": "SecondSemesterPYQs",
+        "3rd_Semester_PYQs.html": "ThirdSemesterPYQs",
+        "4th_Semester_PYQs.html": "FourthSemesterPYQs",
+        "5th_Semester_PYQs.html": "FifthSemesterPYQs",
+        "6th_Semester_PYQs.html": "SixthSemesterPYQs",
+        "1st_Semester_Notes.html": "FirstSemesterNotes",
+        "2nd_Semester_Notes.html": "SecondSemesterNotes",
+        "3rd_Semester_Notes.html": "ThirdSemesterNotes",
+        "4th_Semester_Notes.html": "FourthSemesterNotes",
+        "5th_Semester_Notes.html": "FifthSemesterNotes",
+        "6th_Semester_Notes.html": "SixthSemesterNotes",
+        "1st_Semester_Videos.html": "FirstSemesterVideos",
+        "2nd_Semester_Videos.html": "SecondSemesterVideos",
+        "3rd_Semester_Videos.html": "ThirdSemesterVideos",
+        "4th_Semester_Videos.html": "FourthSemesterVideos",
+        "5th_Semester_Videos.html": "FifthSemesterVideos",
+        "6th_Semester_Videos.html": "SixthSemesterVideos",
+        "SGPA_Calculator.html": "SGPA_Calculator",
+    };
+    // Get the current HTML page name
+    var currentPageName = window.location.pathname.split('/').pop();
+    // Check if the current page name exists in the mapping
+    if (pageClassMap.hasOwnProperty(currentPageName)) {
+        // Get the corresponding class name from the mapping
+        var className = pageClassMap[currentPageName];
+        // Add "active" class to elements with the corresponding class name
+        var menuElement = document.querySelector('.' + className);
+        if (menuElement) {
+            menuElement.classList.add('active');
+            // Add "active" class to parent elements of ".dropdown-menu"
+            var dropdownMenu = menuElement.closest('.dropdown-menu');
+            if (dropdownMenu) {
+                var dropdownToggle = dropdownMenu.closest('.dropdown').querySelector('.nav-link');
+                if (dropdownToggle) {
+                    dropdownToggle.classList.add('active');
+                }
+            }
+        }
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -249,6 +338,47 @@ var storedMode = localStorage.getItem('colorMode');
 if (storedMode) {
     setTheme(storedMode);
 }
+
+
+
+
+
+// short cut for theme
+document.addEventListener('keydown', function (event) {
+    // Check if Alt key is pressed
+    if (event.altKey) {
+        // Check if L is pressed for light mode
+        if (event.key === 'l' || event.key === 'L') {
+            // Prevent default behavior
+            event.preventDefault();
+            // Select Light mode option in the dropdown
+            document.getElementById('colorModeSelect').value = 'light';
+            // Apply light mode
+            setTheme('light');
+        }
+        // Check if D is pressed for dark mode
+        else if (event.key === 'd' || event.key === 'D') {
+            // Prevent default behavior
+            event.preventDefault();
+            // Select Dark mode option in the dropdown
+            document.getElementById('colorModeSelect').value = 'dark';
+            // Apply dark mode
+            setTheme('dark');
+        }
+        // collides with search function of nav bar
+        // Check if S is pressed for dark mode
+        // else if (event.key === 's' || event.key === 'S') {
+        //     // Prevent default behavior
+        //     event.preventDefault();
+        //     // Select Dark mode option in the dropdown
+        //     document.getElementById('colorModeSelect').value = 'system';
+        //     // Apply dark mode
+        //     setTheme('system');
+        // }
+    }
+});
+
+
 
 
 
@@ -497,51 +627,6 @@ closeIconElement.addEventListener("click", hideToast);
 
 
 
-
-
-
-// make nav element active dynamically according to its page name and class name
-// Mapping between page names and corresponding classes
-var pageClassMap = {
-    "1st_Semester_PYQs.html": "FirstSemesterPYQs",
-    "2nd_Semester_PYQs.html": "SecondSemesterPYQs",
-    "3rd_Semester_PYQs.html": "ThirdSemesterPYQs",
-    "4th_Semester_PYQs.html": "FourthSemesterPYQs",
-    "5th_Semester_PYQs.html": "FifthSemesterPYQs",
-    "6th_Semester_PYQs.html": "SixthSemesterPYQs",
-    "1st_Semester_Notes.html": "FirstSemesterNotes",
-    "2nd_Semester_Notes.html": "SecondSemesterNotes",
-    "3rd_Semester_Notes.html": "ThirdSemesterNotes",
-    "4th_Semester_Notes.html": "FourthSemesterNotes",
-    "5th_Semester_Notes.html": "FifthSemesterNotes",
-    "6th_Semester_Notes.html": "SixthSemesterNotes",
-    "1st_Semester_Videos.html": "FirstSemesterVideos",
-    "2nd_Semester_Videos.html": "SecondSemesterVideos",
-    "3rd_Semester_Videos.html": "ThirdSemesterVideos",
-    "4th_Semester_Videos.html": "FourthSemesterVideos",
-    "5th_Semester_Videos.html": "FifthSemesterVideos",
-    "6th_Semester_Videos.html": "SixthSemesterVideos",
-};
-// Get the current HTML page name
-var currentPageName = window.location.pathname.split('/').pop();
-// Check if the current page name exists in the mapping
-if (pageClassMap.hasOwnProperty(currentPageName)) {
-    // Get the corresponding class name from the mapping
-    var className = pageClassMap[currentPageName];
-    // Add "active" class to elements with the corresponding class name
-    var menuElement = document.querySelector('.' + className);
-    if (menuElement) {
-        menuElement.classList.add('active');
-        // Add "active" class to parent elements of ".dropdown-menu"
-        var dropdownMenu = menuElement.closest('.dropdown-menu');
-        if (dropdownMenu) {
-            var dropdownToggle = dropdownMenu.closest('.dropdown').querySelector('.nav-link');
-            if (dropdownToggle) {
-                dropdownToggle.classList.add('active');
-            }
-        }
-    }
-}
 
 
 

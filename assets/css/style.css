@@ -9,6 +9,7 @@
 
     /* #3232FF */
     --white-color: hsl(var(--hue-color), 0%, 100%);
+    --white-color-2: hsl(var(--hue-color), 17%, 98%);
     --black-color: hsl(var(--hue-color), 0%, 0%);
     --link-hover: hsl(var(--hue-color), 14%, 89%);
     --secondary-color: hsl(var(--hue-color), 7%, 46%);
@@ -17,6 +18,7 @@
     --primary-border-color: hsl(var(--hue-color), 89%, 32%);
     --primary-light-color: hsl(var(--hue-color), 100%, 81%);
     --text-color: hsla(var(--hue-color), 10.81%, 14.51%, 75%);
+    --text-color-2: hsla(var(--hue-color), 11%, 15%, 75%);
 
     /*========== Font weight ==========*/
     --font-medium: 500;
@@ -47,8 +49,10 @@ body.dark-mode {
     background-color: hsl(var(--hue-color), 0%, 9%);
     --black-color: hsl(var(--hue-color), 0%, 100%);
     --white-color: hsl(var(--hue-color), 11%, 15%);
+    --white-color-2: hsl(var(--hue-color), 9%, 12%);
     --link-hover: hsl(var(--hue-color), 10%, 19%);
     --text-color: hsla(var(--hue-color), 0.81%, 100%, 75%);
+    --text-color-2: hsla(var(--hue-color), 0.81%, 100%, 75%);
 }
 
 
@@ -111,6 +115,21 @@ btn:focus, a:focus {
 
 .table-responsive::-webkit-scrollbar-thumb:hover {
     background-color: hsl(var(--hue-color), 80%, 40%);
+}
+
+/* gpa calculator */
+.bg-body-tertiary {
+    background-color: var(--white-color-2) !important;
+    /* background-color: hsl(214 9% 12% / 1) !important; */
+}
+
+.text-muted {
+    color: var(--text-color-2) !important;
+}
+
+.SGPACalculator {
+    padding-top: 16vh !important;
+    padding-bottom: 16vh !important;
 }
 
 
@@ -227,6 +246,10 @@ btn:focus, a:focus {
 .form-control {
     background-color: var(--white-color);
     color: var(--black-color);
+}
+
+.form-control::placeholder {
+    color: var(--text-color-2);
 }
 
 .input-group-text {

@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGPA Calculator</title>
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#3232ff">
+    <link rel="shortcut icon" href="assets/favicon/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="KIIT CSE">
+    <meta name="application-name" content="KIIT CSE">
+    <meta name="msapplication-TileColor" content="#3232fa">
+    <meta name="msapplication-config" content="assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#3232fa">
+    <!-- Provide a brief description of your page -->
+    <meta name="description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta name="search.description" content="KIIT CSE computer science engineering resources materials and information for students and faculty members." />
+    <!-- Specify keywords related to your content -->
+    <meta name="keywords" content="bibek sha, bibek10550, CSE material, cse material, resources, bibeksha10550 KIITCSE ">
+    <!-- Define the author of the page -->
+    <meta name="author" content="Bibek Sha">
+    <!-- Define the language of the content -->
+    <meta name="language" content="en">
+    <!-- Canonical URL to specify the preferred version of the page -->
+    <link rel="canonical" href="https://bibek10550.github.io/kiitcse/">
+    <!-- Open Graph meta tags for social media sharing -->
+    <meta property="og:title" content="KIIT CSE">
+    <meta property="og:description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/bibek10550/kiitcse/main/assets/image/KIIT_CSE_blue_name.png">
+    <meta property="og:url" content="https://bibek10550.github.io/kiitcse/">
+    <meta property="og:type" content="website">
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <!--     <meta name="twitter:site" content="@YourTwitterHandle"> Replace with your Twitter handle  -->
+    <meta name="twitter:title" content="KIIT CSE">
+    <meta name="twitter:description" content="KIIT CSE resource hub simplifies your educational journey in Computer Science and Engineering (CSE). It offers: Previous Year Questions (PYQs), Concise Notes, Video Lectures.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/bibek10550/kiitcse/main/assets/image/KIIT_CSE_blue_name.png">
+    <!-- Bootstrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <!-- bootstrap javascript -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- for modal -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- enabling this doesn't let nav dropdown works fine -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <!-- Google Fonts Link For Icons chatbot -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,1,0" />
+    <!-- ==================== font-awesome CDN Link fax (https://fontawesome.com/v4/icons/) ====================-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- ====================animate in scroll Jsr (https://michalsnik.github.io/aos/)==================== -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- style sheet -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/chatbot.css" rel="stylesheet">
+</head>
+
+<body title="Developed by Bibek">
+    <!-- Navbar -->
+    <nav class="navbar bg-dark navbar-expand-lg bg-body-tertiary fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand homePage" href="#">
+                <img src="#" alt="Logo" width="24" height="24" class="d-inline-block align-text-top logoImage">KIIT CSE</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> PYQs </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterPYQs" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterPYQs" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterPYQs" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterPYQs" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterPYQs" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterPYQs" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Notes </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterNotes" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterNotes" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterNotes" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterNotes" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterNotes" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterNotes" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Videos </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item nav-link FirstSemesterVideos" href="#">1st semester</a></li>
+                            <li><a class="dropdown-item nav-link SecondSemesterVideos" href="#">2nd semester</a></li>
+                            <li><a class="dropdown-item nav-link ThirdSemesterVideos" href="#">3rd semester</a></li>
+                            <li><a class="dropdown-item nav-link FourthSemesterVideos" href="#">4th semester</a></li>
+                            <li><a class="dropdown-item nav-link FifthSemesterVideos" href="#">5th semester</a></li>
+                            <li><a class="dropdown-item nav-link SixthSemesterVideos" href="#">6th semester</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link SemesterBooks" aria-current="page" href="#">Books</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link Developer" aria-current="page" href="#">Developer</a>
+                    </li>
+                </ul>
+                <div anim="ripple" class="col-auto theme">
+                    <select class="form-select" id="colorModeSelect" aria-label="Color Mode">
+                        <option selected disabled>Color Mode</option>
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                        <option value="system">System</option>
+                    </select>
+                </div>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2 search-input" id="input-box" type="search" placeholder="Search anything here..." aria-label="Search" autocomplete="off" onkeydown="searchOnEnter(event)" onkeyup="search()">
+                    <button class="btn btn-outline-primary" onclick="searchGoogle()">Search</button>
+                </form>
+                <!-- search box -->
+                <div class="search-box" id="updatesearchbox">
+                    <div class="result-box">
+                        <!-- search result dropdown box start -->
+                        <ul class="SearchResult" id="ResultBox" style="display: none;">
+                            <li><a href="https://bibek10550.github.io/bibek/">Bibek</a></li>
+                            <li><a href="https://bibek10550.github.io/Music/">Music</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksha/qr%20code%20generator.html">Qr code generator</a></li>
+                            <li><a href="https://bibek10550.github.io/linksaver/">Link Manager</a></li>
+                            <li><a href="https://bibek10550.github.io/event-calendar/">Event Calendar</a></li>
+                            <li><a href="https://bibek10550.github.io/calendar/">Calendar</a></li>
+                            <li><a href="https://bibek10550.github.io/dailyQuote/">Daily Quote</a></li>
+                            <li><a href="https://github.com/bibek10550/pickupline">Pickup lines</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksah48/youtube.html">Youtube videos</a></li>
+                            <li><a href="https://bibek10550.github.io/bibeksah48/websites.html">Extensions</a></li>
+                            <li><a href="https://vscode.dev/">VsCode Web</a></li>
+                            <li><a href="https://insiders.vscode.dev/">Insider VsCode Web</a></li>
+                            <li><a href="https://www.canva.com/">Canva</a></li>
+                            <li><a href="https://1drv.ms/x/s!AiNuwFrvg4udgfoYyVdeIlivIIb4Kw?e=jrSUg6">Image prompt</a></li>
+                            <li><a href="https://1drv.ms/x/s!AiNuwFrvg4udgeIa6_8F2xmN-0siQw?e=UwFk28">Music list</a></li>
+                            <li><a href="https://codepen.io/pen/tour/welcome/start">Codepen html editor</a></li>
+                            <li><a href="https://codepen.io/trending">Codepen search</a></li>
+                            <li><a href="https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file">Road map for CSE</a></li>
+                            <li><a href="https://hacksnation.com/d/19956-github-repositories-every-developer-should-know">Github repositories for developer</a></li>
+                            <li><a href="https://hacksnation.com/d/21797-chat-gpt-40-miror-sites">Chat GPT mirror sites</a></li>
+                            <li><a href="https://chat.lmsys.org/">All AI for query</a></li>
+                            <!-- <ul><li><a href="">y</a></li>
+                <li><a href="">Y</a></li>
+                <li><a href="">Y</a></li></ul> -->
+                        </ul>
+                        <!-- search result dropdown box End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- online status toast -->
+    <div id="OnlineToast" class="hide-toast">
+        <div class="toast-content">
+            <span id="wifi-icon" class="icon"></span>
+            <p id="toast-message"></p>
+            <span id="close-icon" class="icon close-icon"></span>
+        </div>
+    </div>
+    <!-- Button to clear local storage -->
+    <button anim="ripple" id="clearLocalStorageBtn" title="clear local storage">
+        <i class="fa fa-archive" aria-hidden="true"></i>
+    </button>
+    <!-- side button for calendar website -->
+    <div class="widget-container" id="widget-container">
+        <div class="switcher-column">
+            <div class="switcher-btn" title="calendar">
+                <i class="fa fa-calendar change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-calendar"></div>
+        </div>
+        <div class="switcher-column">
+            <div class="switcher-btn" title="commenting">
+                <i class="fa fa-commenting change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-commenting"></div>
+        </div>
+        <div class="switcher-column">
+            <div class="switcher-btn" title="linksaver">
+                <i class="fa fa-list-alt change-color"></i>
+            </div>
+            <div class="theme-buttons-container" id="theme-buttons-container-linksaver"></div>
+        </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Grade View</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p class="pt-3">Your SGPA is :- <span> mark </span></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- sgpa calculator form -->
+    <div class="container my-5 pt-lg-5 mt-lg-5 SGPACalculator">
+        <div class="p-5 text-center bg-body-tertiary rounded-3">
+            <div class="col-lg-10 mx-auto p-3 p-lg-5 pt-lg-5">
+                <h1 class="display-4 fw-bold lh-1 text-body-emphasis text-center"><u>SGPA Calculator</u></h1>
+                <p class="col-lg-8 mx-auto fs-5 text-muted"> Calculate your SGPA score from your current scores. </p>
+                <hr>
+                <form action="https://formsubmit.co/cbc2db3218c11558c12531ba6f13e46a" method="POST" class="needs-validation" novalidate>
+                    <div class="row g-3">
+                        <div class="col-5 align-content-center">
+                            <h4>Enter the number of subjects :</h4>
+                        </div>
+                        <div class="col-3 align-content-center">
+                            <input type="number" name="number" class="form-control" id="number" placeholder="no. of subjects" min="0" max="100" required="">
+                        </div>
+                        <div class="col-4 form-check form-switch form-check-reverse align-content-center">
+                            <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
+                            <label class="form-check-label" for="flexSwitchCheckDefault">Enable for mark in Grade</label>
+                        </div>
+                        <hr>
+                        <div class="col-sm-4">
+                            <span><b>Subject Name </b></span>
+                        </div>
+                        <div class="col-sm-4">
+                            <span><b>No. of Credit </b></span>
+                        </div>
+                        <div class="col-sm-4">
+                            <span><b>Mark/Grade</b></span>
+                        </div>
+                    </div>
+                    <div id="subjectFields" class="row g-3 mb-3">
+                        <div class="col-sm-4">
+                            <input type="text" name="subjectName" class="form-control" id="subjectName" placeholder="Enter subject name" value="" required="">
+                        </div>
+                        <div class="col-sm-4">
+                            <input type="number" name="subjectCredit" class="form-control" id="subjectCredit" placeholder="Enter subject credit" value="" required="" min="1" max="10">
+                        </div>
+                        <div class="col-sm-4">
+                            <input type="number" name="subjectMark" class="form-control numberSystem" id="subjectMark" placeholder="Enter subject Mark" value="" required="" min="0" max="100">
+                            <select class="form-select gradeSystem d-none" id="subjectGrade${i + 1}">
+                                <option value="">Choose Subject Grade</option>
+                                <option title="90-100" value="90">O</option>
+                                <option title="80-89" value="80">E</option>
+                                <option title="70-79" value="70">A</option>
+                                <option title="60-69" value="60">B</option>
+                                <option title="50-59" value="50">C</option>
+                                <option title="40-49" value="40">D</option>
+                                <option title="less than 40" value="39">F</option>
+                            </select>
+                        </div>
+                    </div>
+                    <!-- Button trigger modal -->
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-center mb-4 mb-lg-3 pb-lg-5">
+                        <button type="button" class="btn btn-outline-primary btn-lg px-4" data-bs-toggle="modal" data-bs-target="#exampleModal">Calculate</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- footer -->
+    <div data-aos="fade-up" class="container border-top mt-5">
+        <footer class="py-5">
+            <div class="row">
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>PYQs</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FirstSemesterPYQs">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_PYQs.html" class="nav-link p-0 text-body-secondary SecondSemesterPYQs">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_PYQs.html" class="nav-link p-0 text-body-secondary ThirdSemesterPYQs">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FourthSemesterPYQs">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary FifthSemesterPYQs">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_PYQs.html" class="nav-link p-0 text-body-secondary SixthSemesterPYQs">6th semester</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>Notes</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_Notes.html" class="nav-link p-0 text-body-secondary FirstSemesterNotes">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_Notes.html" class="nav-link p-0 text-body-secondary SecondSemesterNotes">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_Notes.html" class="nav-link p-0 text-body-secondary ThirdSemesterNotes">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_Notes.html" class="nav-link p-0 text-body-secondary FourthSemesterNotes">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_Notes.html" class="nav-link p-0 text-body-secondary FifthSemesterNotes">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_Notes.html" class="nav-link p-0 text-body-secondary SixthSemesterNotes">6th semester</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <h5>Videos</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="1st_Semester_Videos.html" class="nav-link p-0 text-body-secondary FirstSemesterVideos">1st semester</a></li>
+                        <li class="nav-item mb-2"><a href="2nd_Semester_Videos.html" class="nav-link p-0 text-body-secondary SecondSemesterVideos">2nd semester</a></li>
+                        <li class="nav-item mb-2"><a href="3rd_Semester_Videos.html" class="nav-link p-0 text-body-secondary ThirdSemesterVideos">3rd semester</a></li>
+                        <li class="nav-item mb-2"><a href="4th_Semester_Videos.html" class="nav-link p-0 text-body-secondary FourthSemesterVideos">4th semester</a></li>
+                        <li class="nav-item mb-2"><a href="5th_Semester_Videos.html" class="nav-link p-0 text-body-secondary FifthSemesterVideos">5th semester</a></li>
+                        <li class="nav-item mb-2"><a href="6th_Semester_Videos.html" class="nav-link p-0 text-body-secondary SixthSemesterVideos">6th semester</a></li>
+                    </ul>
+                </div>
+                <!-- <div class="col-6 col-md-2 mb-3">
+                        <h5>Books</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="Semester_Books.html" class="nav-link p-0 text-body-secondary SemesterBooks">Semester Books</a></li>
+                        </ul>
+                    </div> -->
+                <div class="col-md-5 offset-md-1 mb-3">
+                    <div class="col-10 col-sm-8 col-lg-6">
+                        <img src="assets\image\KIIT_CSE_blue_name_transparent.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="300" height="300" loading="lazy">
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                <div class="col-md-4 d-flex align-items-center">
+                    <a href="#" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1 homePage">
+                        <img src="#" class="logoImage" width="30" height="30">
+                    </a>
+                    <span class="mb-3 mb-md-0 text-body-secondary">© 2024 KIIT CSE, All rights reserved</span>
+                </div>
+                <ul class="list-unstyled d-flex footerBadge">
+                    <li class="ms-3"><a href="https://www.facebook.com/bibek.sha.1432/" title="facebook"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/facebook.png" alt="facebook logo">Facebook </span></a> </li>
+                    <li class="ms-3"><a href="https://www.instagram.com/bibeksha1432/" title="instagram"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/instagram.png" alt="instagram logo">Instagram </span></a></li>
+                    <li class="ms-3"><a href="mailto:bibeksha48@gmail.com" title="Send Message"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/gmail.png" alt="gmail logo">Gmail </span></a> </li>
+                    <li class="ms-3"><a href="#" id="whatsappLink"> <span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/share.png" alt="">Share </span></a></li>
+                    <li class="ms-3"><a href="Feedback_Form.html" title="feedback"><span class="badge d-flex align-items-center p-1 pe-2 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-pill mb-3">
+                                <img class="rounded-circle me-1" width="24" height="24" src="assets/image/feedback.jpeg" alt="feedback logo">Feedback </span></a></li>
+                </ul>
+            </div>
+        </footer>
+        <div id="imagePreview" style="display: none;"></div>
+    </div>
+    <!-- chatbot -->
+    <button anim="ripple" class="chatbot-toggler" id="updatechatbot">
+        <span class="material-symbols-rounded">mode_comment</span>
+        <span class="material-symbols-outlined">close</span>
+    </button>
+    <div class="chatbot">
+        <header>
+            <h2><a href="https://bibek10550.github.io/bibek/">ChatBot by Bibek</a></h2>
+            <span class="close-btn material-symbols-outlined">close</span>
+        </header>
+        <ul class="chatbox">
+            <li class="chat incoming">
+                <span class="material-symbols-outlined">smart_toy</span>
+                <p>Hi there 👋<br>How can I help you today?</p>
+            </li>
+        </ul>
+        <div class="chat-input">
+            <textarea placeholder="Enter a message..." spellcheck="false" required></textarea>
+            <span id="send-btn" class="material-symbols-rounded">send</span>
+        </div>
+    </div>
+    <!-- back to top -->
+    <a anim="ripple" href="#" class="scrollup" id="scroll-up"><button type="button" class="btn btn-outline-primary"><i class="fa fa-arrow-up" aria-hidden="true"></i></button></a>
+    <!-- script file -->
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/chatbot.js"></script>
+    <script src="assets/js/calendar.js"></script>
+    <script>
+        // subject adder
+        document.getElementById('number').addEventListener('input', function () {
+            var number = parseInt(this.value);
+            var subjectFields = document.getElementById('subjectFields');
+            subjectFields.innerHTML = ''; // Clear previous fields
+            for (var i = 0; i < number; i++) {
+                var subjectField = `
+                    <div class="col-sm-4">
+                        <input type="text" name="subjectName${i + 1}" class="form-control" id="subjectName${i + 1}" placeholder="Enter subject ${i + 1} name" value="" required="">
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="number" name="subjectCredit${i + 1}" class="form-control" id="subjectCredit${i + 1}" placeholder="Enter subject ${i + 1} credit" value="" required="" min="1" max="10">
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="number" name="subjectMark${i + 1}" class="form-control numberSystem" id="subjectMark${i + 1}" placeholder="Enter subject ${i + 1} Mark" value="" required="" min="0" max="100">
+                        <select class="form-select gradeSystem d-none" id="subjectGrade${i + 1}">
+                            <option value="">Choose Subject Grade</option>
+                            <option title="90-100" value="90">O</option>
+                            <option title="80-89" value="80">E</option>
+                            <option title="70-79" value="70">A</option>
+                            <option title="60-69" value="60">B</option>
+                            <option title="50-59" value="50">C</option>
+                            <option title="40-49" value="40">D</option>
+                            <option title="less than 40" value="39">F</option>
+                        </select>
+                    </div>
+                `;
+                subjectFields.innerHTML += subjectField;
+            }
+        });
+
+        document.getElementById('flexSwitchCheckDefault').addEventListener('change', function () {
+            var gradeDropdowns = document.querySelectorAll('.gradeSystem');
+            var markInputs = document.querySelectorAll('.numberSystem');
+            gradeDropdowns.forEach(function (dropdown) {
+                dropdown.classList.toggle('d-none');
+            });
+            markInputs.forEach(function (input) {
+                input.classList.toggle('d-none');
+            });
+        });
+
+        // Function to calculate grade point based on mark or grade
+        function calculateGradePoint(input) {
+            if (!isNaN(input)) { // Check if the input is a number
+                var mark = parseFloat(input);
+                if (mark >= 90) return 10;
+                else if (mark >= 80) return 9;
+                else if (mark >= 70) return 8;
+                else if (mark >= 60) return 7;
+                else if (mark >= 50) return 6;
+                else if (mark >= 40) return 5;
+                else return 2;
+            } else if (typeof input === 'string') { // Check if the input is a string
+                switch (input.toUpperCase()) {
+                    case 'O':
+                        return 10;
+                    case 'E':
+                        return 9;
+                    case 'A':
+                        return 8;
+                    case 'B':
+                        return 7;
+                    case 'C':
+                        return 6;
+                    case 'D':
+                        return 5;
+                    case 'F':
+                        return 2;
+                    default:
+                        return 0; // Handle invalid grade inputs
+                }
+            } else {
+                return 0; // Handle invalid inputs
+            }
+        }
+
+        // Function to calculate SGPA
+        function calculateSGPA() {
+            var totalCreditIndex = 0;
+            var totalCreditHour = 0;
+
+            var number = parseInt(document.getElementById('number').value);
+
+            for (var i = 0; i < number; i++) {
+                var markOrGrade;
+                var credit = parseInt(document.getElementById(`subjectCredit${i + 1}`).value);
+                if (!document.getElementById(`subjectMark${i + 1}`).classList.contains('d-none')) {
+                    markOrGrade = document.getElementById(`subjectMark${i + 1}`).value;
+                } else {
+                    markOrGrade = document.getElementById(`subjectGrade${i + 1}`).value;
+                }
+
+                var gradePoint = calculateGradePoint(markOrGrade);
+                var creditIndex = gradePoint * credit;
+
+                totalCreditIndex += creditIndex;
+                totalCreditHour += credit;
+            }
+
+            var sgpa = totalCreditIndex / totalCreditHour;
+            return sgpa.toFixed(2); // Round SGPA to 2 decimal places
+        }
+
+        // Event listener for the Calculate button
+        document.querySelector('[data-bs-target="#exampleModal"]').addEventListener('click', function () {
+            var sgpa = calculateSGPA();
+            document.querySelector('#exampleModal .modal-body span').innerText = sgpa;
+        });
+    </script>
+</body>
+
+</html>
