@@ -251,19 +251,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+document.addEventListener("DOMContentLoaded", function () {
 
-// download status toast when downloading file and folder
-const downloadToastTriggers = document.querySelectorAll('.toast-trigger');
-const downloadToast = document.getElementById('downloadToast');
-downloadToastTriggers.forEach((trigger) => {
-    trigger.addEventListener('click', () => {
-        const toast = downloadToast.querySelector('.toast');
-        toast.classList.add('show'); // Show the toast
-        setTimeout(() => {
-            toast.classList.remove('show'); // Hide the toast after 5 seconds
-        }, 5000);
+    // download status toast when downloading file and folder
+    const downloadToastTriggers = document.querySelectorAll('.toast-trigger');
+    const downloadToast = document.getElementById('downloadToast');
+    downloadToastTriggers.forEach((trigger) => {
+        trigger.addEventListener('click', () => {
+            const toast = downloadToast.querySelector('.toast');
+            toast.classList.add('show'); // Show the toast
+            setTimeout(() => {
+                toast.classList.remove('show'); // Hide the toast after 5 seconds
+            }, 5000);
+        });
     });
-});
 
 
 
@@ -274,22 +275,22 @@ downloadToastTriggers.forEach((trigger) => {
 
 
 
-// modal pdf preview toast
-const modalToastTriggers = document.querySelectorAll('.modalToast-trigger');
-const modalToast = document.getElementById('modalToast');
-modalToastTriggers.forEach((trigger) => {
-    trigger.addEventListener('click', () => {
-        const toast = modalToast.querySelector('.toast');
-        toast.classList.add('show'); // Show the toast
-        setTimeout(() => {
-            toast.classList.remove('show'); // Hide the toast after 5 seconds
-        }, 5000);
+    // modal pdf preview toast
+    const modalToastTriggers = document.querySelectorAll('.modalToast-trigger');
+    const modalToast = document.getElementById('modalToast');
+    modalToastTriggers.forEach((trigger) => {
+        trigger.addEventListener('click', () => {
+            const toast = modalToast.querySelector('.toast');
+            toast.classList.add('show'); // Show the toast
+            setTimeout(() => {
+                toast.classList.remove('show'); // Hide the toast after 5 seconds
+            }, 5000);
+        });
     });
+
+
+
 });
-
-
-
-
 
 // pdf preview
 
@@ -506,7 +507,6 @@ window.generateNoteTableRows = generateNoteTableRows;
 
 
 
-
 // Initialize an empty object to store the book data
 let bookData = {};
 
@@ -537,6 +537,7 @@ function updateBookData(...entries) {
         });
     }
 }
+
 
 // Function to generate HTML elements for books based on book data
 function generateBookElements() {
@@ -571,7 +572,6 @@ function generateBookElements() {
         });
     }
 }
-
 
 
 

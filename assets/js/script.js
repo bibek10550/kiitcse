@@ -28,6 +28,10 @@ logoImages.forEach(function (logoImage) {
 
 
 
+
+
+
+
 // more section in nav bar
 document.addEventListener('DOMContentLoaded', function () {
     // Find the parent element where you want to insert the new HTML code
@@ -42,18 +46,24 @@ document.addEventListener('DOMContentLoaded', function () {
                 <li>
                     <hr class="dropdown-divider">
                 </li>
-                <li><a class="dropdown-item FeedbackForm" href="#">Feedback</a></li>
+                <li><a class="dropdown-item disabled" href="#">Admin</a></li>
             </ul>
         </li>
     `;
     // Insert the new HTML code after the last child of the navbar
     navbar.insertAdjacentHTML('beforeend', newHTML);
 
+});
 
 
-    
 
 
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
     // Update dropdown menu links to open the corresponding page when clicked according to its class name
     function setDropdownMenuHrefs(selector, href) {
         var dropdownMenus = document.querySelectorAll(selector);
@@ -84,6 +94,9 @@ document.addEventListener('DOMContentLoaded', function () {
     setDropdownMenuHrefs('.SemesterBooks', 'Semester_Books.html');
     setDropdownMenuHrefs('.Developer', 'Developer.html');
     setDropdownMenuHrefs('.homePage', 'index.html');
+
+
+
 
 
 
@@ -519,6 +532,43 @@ document.addEventListener('keydown', function (event) {
         }
     }
 });
+
+
+
+
+
+
+// add new search list
+document.addEventListener('DOMContentLoaded', function () {
+    // Find the parent element of the search results list
+    var searchResultsList = document.getElementById('ResultBox');
+
+    // Array of links to be added
+    var links = [
+        { href: 'https://bibek10550.github.io/kiitcse', text: 'KIIT CSE' },
+        // { href: 'https://example.com/2', text: 'Link 2' },
+        // { href: 'https://example.com/3', text: 'Link 3' },
+        // Add more links as needed
+    ];
+
+    // Loop through the links array
+    links.forEach(function (linkInfo) {
+        // Create a new list item element
+        var newItem = document.createElement('li');
+
+        // Create a new anchor element for the link
+        var newLink = document.createElement('a');
+        newLink.href = linkInfo.href;
+        newLink.textContent = linkInfo.text;
+
+        // Append the anchor element to the list item element
+        newItem.appendChild(newLink);
+
+        // Append the new list item to the search results list
+        searchResultsList.appendChild(newItem);
+    });
+});
+
 
 
 
