@@ -95,7 +95,8 @@ async function downloadFolderAsZip(folderName, button) {
 
 
 // file downloads
-async function downloadFiles(fileNames, button) {
+async function downloadFiless(fileNames, button) {      //modified for removing download option
+    // async function downloadFiles(fileNames, button) {
     // Store the original button text
     const originalButtonText = button.innerText;
 
@@ -108,7 +109,7 @@ async function downloadFiles(fileNames, button) {
 
         // Get the current HTML file name without the ".html" extension
         const fileName = window.location.pathname.split('/').pop().replace('.html', '');
-        console.log("file name:- " +fileName);
+        console.log("file name:- " + fileName);
 
         // Determine the URL object based on the HTML file name
         switch (fileName) {
