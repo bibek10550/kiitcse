@@ -193,6 +193,7 @@ btn:focus, a:focus {
 .btn-outline-primary {
     border-color: var(--primary-color);
     color: var(--primary-color);
+    background: var(--white-color);
 }
 
 .btn-outline-primary:hover {
