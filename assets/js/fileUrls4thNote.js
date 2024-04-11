@@ -28,6 +28,11 @@ const fileUrls4thNote = {
     "COA_19_Unit-5": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/19_Unit-5.pdf"],
     "COA_20_Memory1_pdf": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/20_Memory1_pdf.pdf"],
     "COA_21_Arithmetic_Logic_Unit_End_pdf": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/21_Arithmetic%20Logic%20Unit_End_pdf.pdf"],
+    "COA_22_IO": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/22_IO.pdf"],
+    "COA_23_IO_System": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/23_IO%20Systems.pdf"],
+    
+
+
 
     // DBMS Lab
     "DBMS_Lab_00_Handout": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS%20Lab/00_Handout.pdf"],
@@ -62,6 +67,12 @@ const fileUrls4thNote = {
     "DBMS_16_Normal_Forms": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/16_Normal%20Forms.pdf"],
     "DBMS_17_Important_Points_of_Normalization": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/17_Important%20Points%20of%20Normalization.pdf"],
     "DBMS_18_Transactions": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/18_Transactions.pdf"],
+    "DBMS_19_Schedules": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/19_Schedules.pdf"],
+    "DBMS_20_Concurrency_Control": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/20_Concurrency%20Control.pdf"],
+    "DBMS_21_Complete_Note": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Complete%20DBMS.pdf"],
+    // "DBMS_20_": [""],
+
+
 
     // DM 
     "DM_00_updated_course": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/00_updated%20course.txt"],
@@ -69,6 +80,9 @@ const fileUrls4thNote = {
     "DM_02_upto_mid_sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/02_upto%20mid%20sem.pdf"],
     "DM_03_post_midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/03_post%20midsem.pdf"],
     "DM_Note_for_2024_spring": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/DM%20Note%20for%202024%20spring.pdf"],
+    "DM_Complete_Note": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/maths%20dss_complete.pdf"],
+    // "DM_Note": [""],
+
 
     // OOP Java
     "OOP_00_Course_Planning": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/00_Course_Planning%20(3).doc"],
@@ -121,6 +135,8 @@ const fileUrls4thNote = {
     "OS_Unit-I": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Unit-I.pdf"],
     "OS_Unit-II_Process_Synchronization": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Unit-II%20Process%20syncronisation.pdf"],
     "OS_Unit-II": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Unit-II.pdf"],
+    "OS_Note_till_File_Management": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/OS%20Till%20File%20Management.pdf"],
+    // "OS_Unit-II": [""],
 
     // STW 
     "STW_Course_Handout_Spring_2024": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/STW/00_Course%20Handout-%20S%26TW%20-%20Spring%202024.doc"],
@@ -271,6 +287,8 @@ updateSubjectNoteData(
     "COA", "Unit-5", "COA_19_Unit-5",
     "COA", "Memory 1", "COA_20_Memory1_pdf",
     "COA", "Arithmetic Logic Unit End", "COA_21_Arithmetic_Logic_Unit_End_pdf",
+    "COA", "IO", "COA_22_IO",
+    "COA", "IO System", "COA_23_IO_System",
 
     // DBMS Lab
     "DBMS Lab", "Handout", "DBMS_Lab_00_Handout",
@@ -306,6 +324,9 @@ updateSubjectNoteData(
     "DBMS", "Normal Forms", "DBMS_16_Normal_Forms",
     "DBMS", "Important Points of Normalization", "DBMS_17_Important_Points_of_Normalization",
     "DBMS", "Transactions", "DBMS_18_Transactions",
+    "DBMS", "Schedules", "DBMS_19_Schedules",
+    "DBMS", "Concurrency Control", "DBMS_20_Concurrency_Control",
+    "DBMS", "Complete Note", "DBMS_21_Complete_Note",
 
     // DM 
     "DM", "updated course", "DM_00_updated_course",
@@ -313,6 +334,7 @@ updateSubjectNoteData(
     "DM", "up to mid-sem", "DM_02_upto_mid_sem",
     "DM", "post mid-sem", "DM_03_post_midsem",
     "DM", "Note for 2024 spring", "DM_Note_for_2024_spring",
+    "DM", "Complete Note", "DM_Complete_Note",
 
     //  OOPS java
     "OOP", "Course Planning", "OOP_00_Course_Planning",
@@ -364,7 +386,8 @@ updateSubjectNoteData(
     "OS", "Disk Structure and Scheduling", "OS_16_Disk_Structure_and_Scheduling",
     "OS", "Protection and Security", "OS_17_Protection_and_Security",
     "OS", "OS Slides Merged", "OS_OS_Slides_Merged",
-    "OS", "Os 1 till threads", "OS_Os_1_till_threads",
+    "OS", "OS 1 till threads", "OS_Os_1_till_threads",
+    "OS", "OS Note till File Management", "OS_Note_till_File_Management",
 
     // STW 
     "STW", "Introduction", "STW_Introduction",
