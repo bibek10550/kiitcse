@@ -3,49 +3,49 @@ const fileUrls6thNote = {
     // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibek10550/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
 
     // CC = Cloud Computing
-    "CC_Full_Slides": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CC/CC%20Full%20Slides.pdf'],
-    "CC_Full_Slides_II": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CC/cc_full_slides.pdf'],
+    "CC_Full_Slides": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CC/CC%20Full%20Slides.pdf'],
+    "CC_Full_Slides_II": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CC/cc_full_slides.pdf'],
 
 
     // CD =  Compiler Design
-    "CD_CD_Complete_notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CD/CD%20Complete%20notes.pdf"],
-    "CD_CD_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CD/CD%20Full%20Slides.pdf"],
-    "CD_CD_Notes_handwritten": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CD/CD_Notes_handwritten.pdf"],
+    "CD_CD_Complete_notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/CD%20Complete%20notes.pdf"],
+    "CD_CD_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/CD%20Full%20Slides.pdf"],
+    "CD_CD_Notes_handwritten": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/CD_Notes_handwritten.pdf"],
 
 
     // DA = Data Analysis
-    "DA_Chapter_II_Describing_the_Distribution_of_a_Variable": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/CHAPTER%20II%20(Describing%20the%20Distribution%20of%20a%20Variable).pdf"],
-    "DA_Chapter_III_Regression": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/CHAPTER%20III%20(Regression).pdf"],
-    "DA_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/DA%20full%20slides.pdf"],
-    "DA_Emperical_Laws": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/Emperical%20Laws.pdf"],
-    "DA_Stastical_Concepts": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/Stastical%20Concepts.pdf"],
+    "DA_Chapter_II_Describing_the_Distribution_of_a_Variable": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/CHAPTER%20II%20(Describing%20the%20Distribution%20of%20a%20Variable).pdf"],
+    "DA_Chapter_III_Regression": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/CHAPTER%20III%20(Regression).pdf"],
+    "DA_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/DA%20full%20slides.pdf"],
+    "DA_Emperical_Laws": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/Emperical%20Laws.pdf"],
+    "DA_Stastical_Concepts": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/Stastical%20Concepts.pdf"],
 
     // IOT = Internet of Things
-    "IOT_Chapter_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/IOT/Chapter-1.pdf"],
-    "IOT_Chapter_3": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/IOT/Chapter-3.pdf"],
-    "IOT_Chapter_5": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/IOT/Chapter-5.pdf"],
-    "IOT_Chapter_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/IOT/chapter-2.pdf"],
+    "IOT_Chapter_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Chapter-1.pdf"],
+    "IOT_Chapter_3": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Chapter-3.pdf"],
+    "IOT_Chapter_5": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Chapter-5.pdf"],
+    "IOT_Chapter_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/chapter-2.pdf"],
 
     // ML = Machine Learning
-    "ML_ML_Complete_Midsem_Pdf": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/ML%20Complete%20Midsem%20Pdf.pdf"],
-    "ML_ML_FULL_SLIDES_FINAL": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/ML_FULL_SLIDES_FINAL.pdf"],
-    "ML_Machine_Learning_Notes_1_20": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/Machine%20Learning%20-Notes-1-20.pdf"],
-    "ML_Machine_Learning_Notes_21_40": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/Machine%20Learning%20-Notes-21-40.pdf"],
-    "ML_Machine_Learning_Notes_41_67": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/Machine%20Learning%20-Notes-41-67.pdf"],
+    "ML_ML_Complete_Midsem_Pdf": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/ML%20Complete%20Midsem%20Pdf.pdf"],
+    "ML_ML_FULL_SLIDES_FINAL": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/ML_FULL_SLIDES_FINAL.pdf"],
+    "ML_Machine_Learning_Notes_1_20": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Machine%20Learning%20-Notes-1-20.pdf"],
+    "ML_Machine_Learning_Notes_21_40": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Machine%20Learning%20-Notes-21-40.pdf"],
+    "ML_Machine_Learning_Notes_41_67": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Machine%20Learning%20-Notes-41-67.pdf"],
 
     // NLP = Natural Language Processing
-    "NLP_Classification_In_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Classification%20In%20NLP.pdf"],
-    "NLP_Combined_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Combined_NLP.pdf"],
-    "NLP_Introduction_to_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Introduction%20to%20NLP.pdf"],
-    "NLP_NLP_Lect_2_Words_and_Morphology": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/NLP%20Lect%202%20Words%20and%20Morphology.pdf"],
-    "NLP_NLP_Lect_3_Language_Model": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/NLP%20Lect%203%20Language%20Model.pdf"],
-    "NLP_Noisy_Channel_Spelling": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Noisy%20Channel%20Spelling.pdf"],
-    "NLP_Text_processing_Tutorial": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Text_processing%20-Tutorial.pdf"],
-    "NLP_nlp_full_notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/nlp%20full%20notes.pdf"],
+    "NLP_Classification_In_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Classification%20In%20NLP.pdf"],
+    "NLP_Combined_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Combined_NLP.pdf"],
+    "NLP_Introduction_to_NLP": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Introduction%20to%20NLP.pdf"],
+    "NLP_NLP_Lect_2_Words_and_Morphology": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/NLP%20Lect%202%20Words%20and%20Morphology.pdf"],
+    "NLP_NLP_Lect_3_Language_Model": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/NLP%20Lect%203%20Language%20Model.pdf"],
+    "NLP_Noisy_Channel_Spelling": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Noisy%20Channel%20Spelling.pdf"],
+    "NLP_Text_processing_Tutorial": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Text_processing%20-Tutorial.pdf"],
+    "NLP_nlp_full_notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/nlp%20full%20notes.pdf"],
 
     // Software Project Management
-    "SPM_Full_Slides_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/SPM/SPM%20Full%20Slides%20(1).pdf"],
-    "SPM_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/SPM/SPM%20full%20slides.pdf"],
+    "SPM_Full_Slides_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/SPM/SPM%20Full%20Slides%20(1).pdf"],
+    "SPM_Full_Slides": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/SPM/SPM%20full%20slides.pdf"],
 
 
 

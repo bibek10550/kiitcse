@@ -135,26 +135,26 @@ const semesterBooks = {
 
     // 6th semester
     // Cloud Computing
-    "Cloud_Computing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CC/Books/CLOUD%20COMPUTING%20-%20Principles%20and%20Paradigms%20by%20Rajkumar%20Buyya.pdf'],
+    "Cloud_Computing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CC/Books/CLOUD%20COMPUTING%20-%20Principles%20and%20Paradigms%20by%20Rajkumar%20Buyya.pdf'],
 
     // Compiler Designer
-    "Compiler_Design": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/CD/Books/Compiler%20Design%20book.pdf'],
+    "Compiler_Design": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/Books/Compiler%20Design%20book.pdf'],
 
     // Data Analysis
-    "Data_Analysis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/DA/Books/Marco%20Bonzanini%20-%20Mastering%20Social%20Media%20Mining%20with%20Python-Packt%20Publishing%20(2016).pdf'],
+    "Data_Analysis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/Books/Marco%20Bonzanini%20-%20Mastering%20Social%20Media%20Mining%20with%20Python-Packt%20Publishing%20(2016).pdf'],
 
     // Internet of Things
-    "Internet_of_Things": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/IOT/Books/Internet%20of%20Things_A%20Hands-On%20Approach%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti.pdf'],
+    "Internet_of_Things": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Books/Internet%20of%20Things_A%20Hands-On%20Approach%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti.pdf'],
 
     // Machine Learning
-    "Machine_Learning": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/ML/Books/Applied%20Machine%20Learning%20by%20M%20Gopal%20(z-lib.org).pdf'],
+    "Machine_Learning": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Books/Applied%20Machine%20Learning%20by%20M%20Gopal%20(z-lib.org).pdf'],
 
     // Natural Language Processing
-    "Natural_Language_Processing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/NLP/Books/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20(%20PDFDrive%20).pdf'],
+    "Natural_Language_Processing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Books/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20(%20PDFDrive%20).pdf'],
 
 
     // Software Project Management
-    "Software_Project_Management": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20sem/SPM/Books/software-project-management.pdf'],
+    "Software_Project_Management": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/SPM/Books/software-project-management.pdf'],
 
 
 }
