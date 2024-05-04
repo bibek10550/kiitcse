@@ -11,7 +11,7 @@
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platfor## Feedback
+- Cross platfor Feedback
 - PYQs
 - Notes
 - Video Lectures
