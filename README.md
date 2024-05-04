@@ -22,9 +22,9 @@
 If you have any feedback, please reach out to us at <a href="https://bibek10550.github.io/kiitcse/Feedback_Form.html">Feedback</a>
 
 
-- 👨‍💻 All of my projects are available at [https://bibekchandsah.com.np](https://bibekchandsah.com.np)
+- 👨‍💻 All of my projects are available at [bibekchandsah.com.np](https://bibekchandsah.com.np)
 
-- 📝 I regularly write articles on [https://bibekchandsah.com.np](https://bibekchandsah.com.np)
+- 📝 I regularly write articles on [bibekchandsah.com.np](https://bibekchandsah.com.np)
 
 - 📫 How to reach me **bibeksha48@gmail.com**
 
