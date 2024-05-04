@@ -19,12 +19,12 @@
 
 
 ## Feedback
-If you have any feedback, please reach out to us at <a href="https://bibek10550.github.io/kiitcse/Feedback_Form.html">Feedback</a>
+If you have any feedback, please reach out to us at <a href="https://bibek10550.github.io/bibek10550/feedback.html">Feedback</a>
 
 
-- 👨‍💻 All of my projects are available at [bibekchandsah.com.np](https://bibekchandsah.com.np)
+- 👨‍💻 All of my projects are available at [bibekchandsah.com.np](https://bibek10550.github.io/bibek10550)
 
-- 📝 I regularly write articles on [bibekchandsah.com.np](https://bibekchandsah.com.np)
+- 📝 I regularly write articles on [bibekchandsah.com.np](https://bibek10550.github.io/bibek10550)
 
 - 📫 How to reach me **bibeksha48@gmail.com**
 
@@ -43,7 +43,7 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 
 ## Screenshots
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
-<img src="https://bibek10550.github.io/kiitcse/assets/image/KIIT_CSE_blue_name_transparent.png" alt="BCS"/>
+<img src="https://bibek10550.github.io/bibek10550/assets/images/porjects/kiitcse" alt="kiitcse"/>
 
 ## Logo
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
