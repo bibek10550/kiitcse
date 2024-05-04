@@ -50,5 +50,7 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 ![Logo](https://bibek10550.github.io/kiitcse/assets/image/KIIT_CSE_blue_name_transparent.png)
 ![Logo](https://bibek10550.github.io/kiitcse/assets/favicon/apple-touch-icon.png)
 
+<img src="assets/favicon/apple-touch-icon.png" alt="Logo BCS"  style="border-radius: 50%;"/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek10550&" alt="bibek10550" /></p>
