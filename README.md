@@ -28,7 +28,7 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 
 - 📫 How to reach me **bibeksha48@gmail.com**
 
-- 📄 Know about my experiences [https://bibek10550.github.io/bibek](https://bibek10550.github.io/bibek)
+- 📄 Know about my experiences [bibek](https://bibek10550.github.io/bibek)
 
 ## Authors
 
