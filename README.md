@@ -6,9 +6,9 @@
 
 ## Website
 <h1>👉🏻 <a href="https://bibek10550.github.io/kiitcse/">KIITCSE</a></h1>
-<a href="https://raw.githubusercontent.com/bibek10550/software/main/KIIT%20CSE.apk">Android</a>
-<a href="https://raw.githubusercontent.com/bibek10550/software/main/KIIT%20CSE.exe">Windows</a>
-<a href="https://raw.githubusercontent.com/bibek10550/software/main/KIITCSE-linux-x64.zip">Linux</a>
+<h3>👉🏻 <a href="https://raw.githubusercontent.com/bibek10550/software/main/KIIT%20CSE.apk">Android</a></h3>
+<h3>👉🏻 <a href="https://raw.githubusercontent.com/bibek10550/software/main/KIIT%20CSE.exe">Windows</a></h3>
+<h3>👉🏻 <a href="https://raw.githubusercontent.com/bibek10550/software/main/KIITCSE-linux-x64.zip">Linux</a></h3>
 
 ## Features
 - Light/dark mode toggle
