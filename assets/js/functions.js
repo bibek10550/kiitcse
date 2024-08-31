@@ -95,8 +95,8 @@ async function downloadFolderAsZip(folderName, button) {
 
 
 // file downloads
-// async function downloadFiless(fileNames, button) {      //modified for removing download option
-    async function downloadFiles(fileNames, button) {
+async function downloadFiless(fileNames, button) {      //modified for removing download option
+ //   async function downloadFiles(fileNames, button) {
     // Store the original button text
     const originalButtonText = button.innerText;
 
