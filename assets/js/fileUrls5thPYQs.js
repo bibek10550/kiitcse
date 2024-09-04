@@ -2,42 +2,76 @@ const fileUrls5thPYQs = {
     // sample
     // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibek10550/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
 
+    // DAA = Design & Algorithm Analysis
+    "DAA_PYQs_2015_Autumn_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2015%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2015_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2015%20Autumn%20Mid%20Sem.pdf"],
+    "DAA_PYQs_2016_Autumn_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2016%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2016_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2016%20Autumn%20Mid%20Sem.pdf"],
+    "DAA_PYQs_2016_Autumn_Re_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2016%20Autumn%20Re-Mid%20Sem.pdf"],
+    "DAA_PYQs_2017_Spring_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2017%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2017_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2017%20Spring%20Mid%20Sem.pdf"],
+    "DAA_PYQs_2017_Spring_Re_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2017%20Spring%20Re-Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2018_Spring_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2018%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2018_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2018%20Spring%20Mid%20Sem.pdf"],
+    "DAA_PYQs_2018_Spring_Re_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2018%20Spring%20RE-Mid%20Sem.pdf"],
+    "DAA_PYQs_2019_Spring_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2019%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2019_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2019%20Spring%20Mid%20Sem.doc"],
+    "DAA_PYQs_2020_Online_Autumn_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2020%20Online%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DAA_PYQs_2021_Autumn_Online_Re_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2021%20Autumn%20%20Online%20Re-Mid%20Sem.pdf"],
+    "DAA_PYQs_2021_Online_Autumn_Mid_Semester_SOLN": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/PYQs/2021%20Online%20Autumn%20Mid%20Sem%20Soln.pdf"],
+
+    // SE = Software Engineering
+    "SE_PYQs_2015_Mid_Semester_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2015%20Mid%20Sem%20(2).pdf"],
+    "SE_PYQs_2015_Mid_Semester_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2015%20Mid%20Sem.pdf"],
+    "SE_PYQs_2016_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2016%20Mid%20Sem.pdf"],
+    "SE_PYQs_2018_Autumn_Mid_Semester_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2018%20Autumn%20Mid%20Sem%20Soln.docx"],
+    "SE_PYQs_2018_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
+    "SE_PYQs_2018_Autumn_Re_Mid_Semester_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2018%20Autumn%20Re-Mid%20Sem.docx"],
+    "SE_PYQs_2018_Autumn_Re_Mid_Semester_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2018%20Autumn%20Re-Mid%20Sem.pdf"],
+    "SE_PYQs_2019_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2019%20Mid%20Sem.pdf"],
+    "SE_PYQs_2020_Online_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2020%20Online%20Autumn%20Mid%20Sem.docx"],
+    "SE_PYQs_2021_Online_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/PYQs/2021%20Online%20Spring%20Mid%20Sem.docx"],
+
+
+    // CD = Compiler Design
+    "CD_PYQs_2017_Supp_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CD/PYQs/2017%20Supp%20Mid%20Sem.pdf"],
+    "CD_PYQs_2018_Supp_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CD/PYQs/2018%20Supp%20Mid%20Sem.pdf"],
+    "CD_PYQs_2020_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CD/PYQs/2020%20Spring%20%20Mid%20Semester.pdf"],
+    "CD_PYQs_2022_Spring_Mid_Sem_Evaluation": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CD/PYQs/2022%20Spring%20Mid%20Sem%20Evaluation.pdf"],
+    "CD_PYQs_2023_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CD/PYQs/2023%20Spring%20End%20Semester.pdf"],
 
 
     // BD = Big Data
-    "BD_PYQs_2022_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2022%20Spring%20%20End%20%20Semester.pdf"],
-
-    "BD_PYQs_2023_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Autumn%20%20Mid%20Semester.pdf"],
-
-    "BD_PYQs_2023_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Spring%20End%20Semester.pdf"],
-
-    "BD_PYQs_2023_Sring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Sring%20Mid%20Semester.pdf"],
+    // "BD_PYQs_2022_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2022%20Spring%20%20End%20%20Semester.pdf"],
+    // "BD_PYQs_2023_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Autumn%20%20Mid%20Semester.pdf"],
+    // "BD_PYQs_2023_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Spring%20End%20Semester.pdf"],
+    // "BD_PYQs_2023_Sring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/BD/PYQs/2023%20Sring%20Mid%20Semester.pdf"],
 
     // DataMIning Data Warehousing
-    "DMDW_PYQs_2015_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2015%20Autumn%20End%20Sem.PDF"],
-
-    "DMDW_PYQs_2015_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2015%20Autumn%20Mid%20Sem.pdf"],
-
-    "DMDW_PYQs_2015_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2015%20Spring%20End%20Sem.PDF"],
-
-    "DMDW_PYQs_2016_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2016%20Autumn%20End%20Sem.pdf"],
-
-    "DMDW_PYQs_2016_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2016%20Spring%20End%20Sem.pdf"],
-
-    "DMDW_PYQs_2016_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2016%20Spring%20Mid%20Sem.pdf"],
-
-    "DMDW_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
-
-    "DMDW_PYQs_2018_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2018%20Spring%20End%20Sem.pdf"],
-
-    "DMDW_PYQs_2019_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/2019%20Spring%20Mid%20Sem.pdf"],
-
-    "DMDW_PYQs_DMDW_Ques_Bank": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/PYQs/DMDW%20Ques%20Bank.pdf"],
+    "DMDW_PYQs_2013_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2013%20Spring%20End%20Sem.pdf"],
+    "DMDW_PYQs_2014_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2014%20Spring%20End%20Sem.pdf"],
+    "DMDW_PYQs_2015_Autumn_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2015%20Autumn%20End%20Sem.PDF"],
+    "DMDW_PYQs_2015_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2015%20Autumn%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2015_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2015%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2015_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2015%20Spring%20End%20Sem.PDF"],
+    "DMDW_PYQs_2016_Autumn_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2016%20Autumn%20End%20Sem.pdf"],
+    "DMDW_PYQs_2016_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2016%20Spring%20End%20Sem.pdf"],
+    "DMDW_PYQs_2016_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2016%20Spring%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2017_Autumn_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2017%20Autumn%20End%20Sem.pdf"],
+    "DMDW_PYQs_2018_Autumn_End_Semester_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2018%20Autumn%20End%20%20Sem.pdf"],
+    "DMDW_PYQs_2018_Autumn_End_Semester_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2018%20Autumn%20End%20Sem%20(2).pdf"],
+    "DMDW_PYQs_2018_Autumn_End_Semester_3": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2018%20Autumn%20End%20Sem.pdf"],
+    "DMDW_PYQs_2018_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2018_Spring_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2018%20Spring%20End%20Sem.pdf"],
+    "DMDW_PYQs_2019_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2019%20Autumn%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2019_Spring_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2019%20Spring%20Mid%20Sem.pdf"],
+    "DMDW_PYQs_2020_Online_Autumn_End_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/2020%20Online%20Autumn%20End%20sem.pdf"],
+    "DMDW_Ques_Bank": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/DMDW%20Ques%20Bank.pdf"],
+    "DMDW_PYQs_Practice_Questions_Set_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/Practice%20%20Questions%20Set%201.pdf"],
 
 
     // HPC = High Performance Computer
     "HPC_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
-
     "HPC_PYQs_2021_Online_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2021%20(Online)%20Autumn%20End%20Sem.pdf"],
 
 
@@ -148,23 +182,71 @@ function updateSubjectData(...entries) {
 subjectData = {};
 // Example usage:
 updateSubjectData(
+
+    // DAA = Design & Analysis of Algorithm
+    "DAA", 2015, "Mid Semester", "Autumn Mid Semester Solution", "DAA_PYQs_2015_Autumn_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2015_Autumn_Mid_Semester_SOLN",
+    "DAA", 2015, "Mid Semester", "Autumn Mid Semester", "DAA_PYQs_2015_Autumn_Mid_Semester", "", "Not Available", "DAA_PYQs_2015_Autumn_Mid_Semester",
+    "DAA", 2016, "Mid Semester", "Autumn Mid Semester Solution", "DAA_PYQs_2016_Autumn_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2016_Autumn_Mid_Semester_SOLN",
+    "DAA", 2016, "Mid Semester", "Autumn Mid Semester", "DAA_PYQs_2016_Autumn_Mid_Semester", "", "Not Available", "DAA_PYQs_2016_Autumn_Mid_Semester",
+    "DAA", 2016, "Mid Semester", "Autumn Re-Mid Semester", "DAA_PYQs_2016_Autumn_Re_Mid_Semester", "", "Not Available", "DAA_PYQs_2016_Autumn_Re_Mid_Semester",
+    "DAA", 2017, "Mid Semester", "Spring Mid Semester Solution", "DAA_PYQs_2017_Spring_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2017_Spring_Mid_Semester_SOLN",
+    "DAA", 2017, "Mid Semester", "Spring Mid Semester", "DAA_PYQs_2017_Spring_Mid_Semester", "", "Not Available", "DAA_PYQs_2017_Spring_Mid_Semester",
+    "DAA", 2017, "Mid Semester", "Spring Re-Mid Semester Solution", "DAA_PYQs_2017_Spring_Re_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2017_Spring_Re_Mid_Semester_SOLN",
+    "DAA", 2018, "Mid Semester", "Spring Mid Semester Solution", "DAA_PYQs_2018_Spring_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2018_Spring_Mid_Semester_SOLN",
+    "DAA", 2018, "Mid Semester", "Spring Mid Semester", "DAA_PYQs_2018_Spring_Mid_Semester", "", "Not Available", "DAA_PYQs_2018_Spring_Mid_Semester",
+    "DAA", 2018, "Mid Semester", "Spring Re-Mid Semester", "DAA_PYQs_2018_Spring_Re_Mid_Semester", "", "Not Available", "DAA_PYQs_2018_Spring_Re_Mid_Semester",
+    "DAA", 2019, "Mid Semester", "Spring Mid Semester Solution", "DAA_PYQs_2019_Spring_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2019_Spring_Mid_Semester_SOLN",
+    "DAA", 2019, "Mid Semester", "Spring Mid Semester", "DAA_PYQs_2019_Spring_Mid_Semester", "", "Not Available", "DAA_PYQs_2019_Spring_Mid_Semester",
+    "DAA", 2020, "Mid Semester", "Online Autumn Mid Semester Solution", "DAA_PYQs_2020_Online_Autumn_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2020_Online_Autumn_Mid_Semester_SOLN",
+    "DAA", 2021, "Mid Semester", "Autumn Online Re-Mid Semester", "DAA_PYQs_2021_Autumn_Online_Re_Mid_Semester", "", "Not Available", "DAA_PYQs_2021_Autumn_Online_Re_Mid_Semester",
+    "DAA", 2021, "Mid Semester", "Online Autumn Mid Semester Solution", "DAA_PYQs_2021_Online_Autumn_Mid_Semester_SOLN", "Solution", "Available", "DAA_PYQs_2021_Online_Autumn_Mid_Semester_SOLN",
+
+    // SE = Software Engineering
+    "SE", 2015, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2015_Mid_Semester_1", "", "Not Available", "SE_PYQs_2015_Mid_Semester_1",
+    "SE", 2015, "Mid Semester", "", "SE_PYQs_2015_Mid_Semester_2", "", "Not Available", "SE_PYQs_2015_Mid_Semester_2",
+    "SE", 2016, "Mid Semester", "", "SE_PYQs_2016_Mid_Semester", "", "Not Available", "SE_PYQs_2016_Mid_Semester",
+    "SE", 2018, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2018_Autumn_Mid_Semester_Soln", "Solution", "Available", "SE_PYQs_2018_Autumn_Mid_Semester_Soln",
+    "SE", 2018, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2018_Autumn_Mid_Semester", "", "Not Available", "SE_PYQs_2018_Autumn_Mid_Semester",
+    "SE", 2018, "Mid Semester", "Autumn Re-Mid Semester", "SE_PYQs_2018_Autumn_Re_Mid_Semester_1", "", "Not Available", "SE_PYQs_2018_Autumn_Re_Mid_Semester_1",
+    "SE", 2018, "Mid Semester", "Autumn Re-Mid Semester", "SE_PYQs_2018_Autumn_Re_Mid_Semester_2", "", "Not Available", "SE_PYQs_2018_Autumn_Re_Mid_Semester_2",
+    "SE", 2019, "Mid Semester", "Mid Semester", "SE_PYQs_2019_Mid_Semester", "", "Not Available", "SE_PYQs_2019_Mid_Semester",
+    "SE", 2020, "Mid Semester", "Online Autumn Mid Semester", "SE_PYQs_2020_Online_Autumn_Mid_Semester", "", "Not Available", "SE_PYQs_2020_Online_Autumn_Mid_Semester",
+    "SE", 2021, "Mid Semester", "Online Spring Mid Semester", "SE_PYQs_2021_Online_Spring_Mid_Semester", "", "Not Available", "SE_PYQs_2021_Online_Spring_Mid_Semester",
+
+    // CD = Compiler Design
+    "CD", 2017, "Mid Semester", "Supplementary Mid Semester", "CD_PYQs_2017_Supp_Mid_Semester", "", "Not Available", "CD_PYQs_2017_Supp_Mid_Semester",
+    "CD", 2018, "Mid Semester", "Supplementary Mid Semester", "CD_PYQs_2018_Supp_Mid_Semester", "", "Not Available", "CD_PYQs_2018_Supp_Mid_Semester",
+    "CD", 2020, "Mid Semester", "Spring Mid Semester", "CD_PYQs_2020_Spring_Mid_Semester", "", "Not Available", "CD_PYQs_2020_Spring_Mid_Semester",
+    "CD", 2022, "Mid Semester", "Spring Mid Semester Evaluation", "CD_PYQs_2022_Spring_Mid_Sem_Evaluation", "Solution", "Available", "CD_PYQs_2022_Spring_Mid_Sem_Evaluation",
+    "CD", 2023, "End Semester", "Spring End Semester", "CD_PYQs_2023_Spring_End_Semester", "", "Not Available", "CD_PYQs_2023_Spring_End_Semester",
+
     // BD = Big Data 
-    "BD", 2022, "Mid Semester", "Spring End Semester", "BD_PYQs_2022_Spring_End_Semester", "", "Not Available", "BD_PYQs_2022_Spring_End_Semester",
-    "BD", 2023, "Mid Semester", "Autumn Mid Semester", "BD_PYQs_2023_Autumn_Mid_Semester", "", "Not Available", "BD_PYQs_2023_Autumn_Mid_Semester",
-    "BD", 2023, "End Semester", "Spring End Semester", "BD_PYQs_2023_Spring_End_Semester", "", "Not Available", "BD_PYQs_2023_Spring_End_Semester",
-    "BD", 2023, "Mid Semester", "Spring Mid Semester", "BD_PYQs_2023_Sring_Mid_Semester", "", "Not Available", "BD_PYQs_2023_Sring_Mid_Semester",
+    // "BD", 2022, "Mid Semester", "Spring End Semester", "BD_PYQs_2022_Spring_End_Semester", "", "Not Available", "BD_PYQs_2022_Spring_End_Semester",
+    // "BD", 2023, "Mid Semester", "Autumn Mid Semester", "BD_PYQs_2023_Autumn_Mid_Semester", "", "Not Available", "BD_PYQs_2023_Autumn_Mid_Semester",
+    // "BD", 2023, "End Semester", "Spring End Semester", "BD_PYQs_2023_Spring_End_Semester", "", "Not Available", "BD_PYQs_2023_Spring_End_Semester",
+    // "BD", 2023, "Mid Semester", "Spring Mid Semester", "BD_PYQs_2023_Sring_Mid_Semester", "", "Not Available", "BD_PYQs_2023_Sring_Mid_Semester",
 
     // DMDW = Data Mining & Data Warehousing
-    "DMDW", 2015, "End Semester", "Autumn End Semester", "DMDW_PYQs_2015_Autumn_End_Sem", "", "Not Available", "DMDW_PYQs_2015_Autumn_End_Sem",
-    "DMDW", 2015, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2015_Autumn_Mid_Sem", "", "Not Available", "DMDW_PYQs_2015_Autumn_Mid_Sem",
-    "DMDW", 2015, "End Semester", "Spring End Semester", "DMDW_PYQs_2015_Spring_End_Sem", "", "Not Available", "DMDW_PYQs_2015_Spring_End_Sem",
-    "DMDW", 2016, "End Semester", "Autumn End Semester", "DMDW_PYQs_2016_Autumn_End_Sem", "", "Not Available", "DMDW_PYQs_2016_Autumn_End_Sem",
-    "DMDW", 2016, "End Semester", "Spring End Semester", "DMDW_PYQs_2016_Spring_End_Sem", "", "Not Available", "DMDW_PYQs_2016_Spring_End_Sem",
-    "DMDW", 2016, "Mid Semester", "Spring Mid Semester", "DMDW_PYQs_2016_Spring_Mid_Sem", "", "Not Available", "DMDW_PYQs_2016_Spring_Mid_Sem",
-    "DMDW", 2018, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2018_Autumn_Mid_Sem", "", "Not Available", "DMDW_PYQs_2018_Autumn_Mid_Sem",
-    "DMDW", 2018, "End Semester", "Spring End Semester", "DMDW_PYQs_2018_Spring_End_Sem", "", "Not Available", "DMDW_PYQs_2018_Spring_End_Sem",
-    "DMDW", 2019, "Mid Semester", "Spring Mid Semester", "DMDW_PYQs_2019_Spring_Mid_Sem", "", "Not Available", "DMDW_PYQs_2019_Spring_Mid_Sem",
-    "DMDW", "", "End Semester", "Question bank", "DMDW_PYQs_DMDW_Ques_Bank", "Other", "Available", "DMDW_PYQs_DMDW_Ques_Bank",
+    "DMDW", 2013, "End Semester", "Spring End Semester", "DMDW_PYQs_2013_Spring_End_Semester", "", "Not Available", "DMDW_PYQs_2013_Spring_End_Semester",
+    "DMDW", 2014, "End Semester", "Spring End Semester", "DMDW_PYQs_2014_Spring_End_Semester", "", "Not Available", "DMDW_PYQs_2014_Spring_End_Semester",
+    "DMDW", 2015, "End Semester", "Autumn End Semester", "DMDW_PYQs_2015_Autumn_End_Semester", "", "Not Available", "DMDW_PYQs_2015_Autumn_End_Semester",
+    "DMDW", 2015, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2015_Autumn_Mid_Semester", "", "Not Available", "DMDW_PYQs_2015_Autumn_Mid_Semester",
+    "DMDW", 2015, "Mid Semester", "Mid Semester", "DMDW_PYQs_2015_Mid_Semester", "", "Not Available", "DMDW_PYQs_2015_Mid_Semester",
+    "DMDW", 2015, "End Semester", "Spring End Semester", "DMDW_PYQs_2015_Spring_End_Semester", "", "Not Available", "DMDW_PYQs_2015_Spring_End_Semester",
+    "DMDW", 2016, "End Semester", "Autumn End Semester", "DMDW_PYQs_2016_Autumn_End_Semester", "", "Not Available", "DMDW_PYQs_2016_Autumn_End_Semester",
+    "DMDW", 2016, "End Semester", "Spring End Semester", "DMDW_PYQs_2016_Spring_End_Semester", "", "Not Available", "DMDW_PYQs_2016_Spring_End_Semester",
+    "DMDW", 2016, "Mid Semester", "Spring Mid Semester", "DMDW_PYQs_2016_Spring_Mid_Semester", "", "Not Available", "DMDW_PYQs_2016_Spring_Mid_Semester",
+    "DMDW", 2017, "End Semester", "Autumn End Semester", "DMDW_PYQs_2017_Autumn_End_Semester", "", "Not Available", "DMDW_PYQs_2017_Autumn_End_Semester",
+    "DMDW", 2018, "End Semester", "Autumn End Semester", "DMDW_PYQs_2018_Autumn_End_Semester_1", "", "Not Available", "DMDW_PYQs_2018_Autumn_End_Semester_1",
+    "DMDW", 2018, "End Semester", "Autumn End Semester", "DMDW_PYQs_2018_Autumn_End_Semester_2", "", "Not Available", "DMDW_PYQs_2018_Autumn_End_Semester_2",
+    "DMDW", 2018, "End Semester", "Autumn End Semester", "DMDW_PYQs_2018_Autumn_End_Semester_3", "", "Not Available", "DMDW_PYQs_2018_Autumn_End_Semester_3",
+    "DMDW", 2018, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2018_Autumn_Mid_Semester", "", "Not Available", "DMDW_PYQs_2018_Autumn_Mid_Semester",
+    "DMDW", 2018, "End Semester", "Spring End Semester", "DMDW_PYQs_2018_Spring_End_Semester", "", "Not Available", "DMDW_PYQs_2018_Spring_End_Semester",
+    "DMDW", 2019, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2019_Autumn_Mid_Semester", "", "Not Available", "DMDW_PYQs_2019_Autumn_Mid_Semester",
+    "DMDW", 2019, "Mid Semester", "Spring Mid Semester", "DMDW_PYQs_2019_Spring_Mid_Semester", "", "Not Available", "DMDW_PYQs_2019_Spring_Mid_Semester",
+    "DMDW", 2020, "End Semester", "Online Autumn End Semester", "DMDW_PYQs_2020_Online_Autumn_End_Semester", "", "Not Available", "DMDW_PYQs_2020_Online_Autumn_End_Semester",
+    "DMDW", "", "End Semester", "", "DMDW_Ques_Bank", "Other", "Available", "DMDW_Ques_Bank",
+    "DMDW", "", "End Semester", "", "DMDW_PYQs_Practice_Questions_Set_1", "Other", "Available", "DMDW_PYQs_Practice_Questions_Set_1",
 
     // HPC = High Performance Computer
     "HPC", 2020, "End Semester", "Autumn End Semester", "HPC_PYQs_2020_Online_Autumn_End_Sem_Soln", "Solution", "Available", "HPC_PYQs_2020_Online_Autumn_End_Sem_Soln",
