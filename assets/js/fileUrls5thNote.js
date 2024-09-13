@@ -62,8 +62,24 @@ const fileUrls5thNote = {
     "CN_Routing": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/19.Routing.pdf"],
     "CN_Data_Link_Layer": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/20.DataLinkLayer.pdf"],
     "CN_Computer_Network_Image": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/Computer%20Network.jpeg"],
+    "CN_Notes_till_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/CN%20Notes%20till%20Midsem.pdf"],
+
 
     // EE = Engineering Economics
+    "EE_Lesson_Plan_Final_2024": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/1_LESSON%20PLAN%20FINAL%202024.pdf"],
+    "EE_Introduction_to_Engg_Economics": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/2_Introduction%20to%20Engg.%20Economics.pptx.pdf"],
+    "EE_Analysis_of_Market_Demand": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/Analysis%20of%20Market%20Demand.pptx.pdf"],
+    "EE_Change_in_Both_Demand_and_Supply_Curves": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/CHANGE%20IN%20BOTH%20DEMAND%20AND%20SUPPLY%20CURVES.pdf"],
+    "EE_Cost_Revenue_Dominated_Cash_Flow": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/COST-REVENUE%20DOMINATED%20CASH%20FLOW.pdf"],
+    "EE_Demand_Analysis_and_Types": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/Demand%20Analysis%20and%20Types.pptx.pdf"],
+    "EE_Demand_Forecasting_Theory": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/Demand%20Forecasting%20Theory.pptx.pdf"],
+    "EE_IC_Analysis_R": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/IC%20ANALYSIS%20R.pdf"],
+    "EE_Interest_Formulas_and_Application": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/INTEREST%20FORMULAS%20AND%20APPLICATION.pdf"],
+    "EE_Demand_Analysis": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/demand%20analysis.pptx"],
+    "EE_Demand_Forecasting": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/demand%20forecasting.pptx"],
+    "EE_Eco_Comp_Notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/eco%20comp%20notes.pdf"],
+    "EE_Elasticity_Analysis": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/EE/elasticity%20analysis.pdf"],
+
 
 
     // DMDW =DataMining Data Warehousing
@@ -161,6 +177,11 @@ const fileUrls5thNote = {
     "DOS_U2_L6_Asynchronous_Transfer_Mode_ATM_Networks": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U2_L6_Asynchronous%20Transfer%20Mode%20(ATM)%20Networks.pptx"],
     "DOS_U3_L13_Clock_Synchronization": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L13_Clock_Synchronization.pptx"],
     "DOS_UNIT_1_Practise_Questions": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/UNIT_1_Practise%20Questions.docx"],
+    "DOS_U3_L14_Clock_Synchronization_Algorithms": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L14_Clock_Synchronization_Algorithms.pptx"],
+    "DOS_U3_L15_Mutual_Exclusion": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L15-Mutual%20Exclusion.pptx"],
+    "DOS_U3_L16_Election_Algorithms": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L16_Election_Algorithms.pptx"],
+    "DOS_U3_L17_Atomic_Transactions": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L17_Atomic_Transactions.pptx"],
+    "DOS_U3_L18_AT_Implementation": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DOS/U3_L18_AT_Implimentation.pptx"],
 
     // CI = Computer Intelligence
     "CI_Unit1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CI/Unit-1.pdf"],
@@ -295,6 +316,7 @@ updateSubjectNoteData(
     // Computer Network
     "Computer Network", "Complete Pdf", "CN_Computer_Network",
     "Computer Network", "Computer Networks Complete", "CN_Computer_Networks_Complete",
+    "Computer Network", "Notes till Midsem", "CN_Notes_till_Midsem",
     "Computer Network", "Lesson Plan 2024", "CN_LessonPlan_2024",
     "Computer Network", "Lecturer Notes", "CN_Lecturer_Notes",
     "Computer Network", "Why Computer Networks", "CN_Why_Computer_Networks",
@@ -318,6 +340,7 @@ updateSubjectNoteData(
     "Computer Network", "Routing", "CN_Routing",
     "Computer Network", "Data Link Layer", "CN_Data_Link_Layer",
     "Computer Network", "Computer Network Image", "CN_Computer_Network_Image",
+
 
     // Data Mining Data Warehousing
     "Data Mining Data Warehousing", "Full notes", "DMDW_DataMining_DataWarehousing",
@@ -381,6 +404,20 @@ updateSubjectNoteData(
     "Software Engineering", "Hands on Projects", "SE_Hands_on_Projects",
 
     // Engineering Economics
+    "EE", "Eco Comp Notes", "EE_Eco_Comp_Notes",
+    "EE", "Lesson Plan Final 2024", "EE_Lesson_Plan_Final_2024",
+    "EE", "Introduction to Engg Economics", "EE_Introduction_to_Engg_Economics",
+    "EE", "Analysis of Market Demand", "EE_Analysis_of_Market_Demand",
+    "EE", "Change in Both Demand and Supply Curves", "EE_Change_in_Both_Demand_and_Supply_Curves",
+    "EE", "Cost-Revenue Dominated Cash Flow", "EE_Cost_Revenue_Dominated_Cash_Flow",
+    "EE", "Demand Analysis and Types", "EE_Demand_Analysis_and_Types",
+    "EE", "Demand Forecasting Theory", "EE_Demand_Forecasting_Theory",
+    "EE", "IC Analysis R", "EE_IC_Analysis_R",
+    "EE", "Interest Formulas and Application", "EE_Interest_Formulas_and_Application",
+    "EE", "Demand Analysis", "EE_Demand_Analysis",
+    "EE", "Demand Forecasting", "EE_Demand_Forecasting",
+    "EE", "Elasticity Analysis", "EE_Elasticity_Analysis",
+
 
     // Artificial Intelligence
 
@@ -419,6 +456,11 @@ updateSubjectNoteData(
     "Distributive Operating System", "U2 L6 Asynchronous Transfer Mode (ATM) Networks", "DOS_U2_L6_Asynchronous_Transfer_Mode_ATM_Networks",
     "Distributive Operating System", "Numericals Unit II", "DOS_Numericals_Unit_II",
     "Distributive Operating System", "U3 L13 Clock Synchronization", "DOS_U3_L13_Clock_Synchronization",
+    "Distributive Operating System", "U3 L14 Clock Synchronization Algorithms", "DOS_U3_L14_Clock_Synchronization_Algorithms",
+    "Distributive Operating System", "U3 L15 Mutual Exclusion", "DOS_U3_L15_Mutual_Exclusion",
+    "Distributive Operating System", "U3 L16 Election Algorithms", "DOS_U3_L16_Election_Algorithms",
+    "Distributive Operating System", "U3 L17 Atomic Transactions", "DOS_U3_L17_Atomic_Transactions",
+    "Distributive Operating System", "U3 L18 AT Implementation", "DOS_U3_L18_AT_Implementation",
 
 );
 

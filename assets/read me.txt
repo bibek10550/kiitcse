@@ -245,10 +245,47 @@ data-paper="" : solution or "" from drop down list
 	},
 
 
+chatgpt links
+---------------------------------------------------------------------------------
 PYQs js to html = https://chat.openai.com/c/a132433c-42f6-4ad2-8754-d0f6448b18a0
+https://chatgpt.com/c/5ec129cd-8ac5-400c-94c1-c00228360b6a
+
 note js to html = https://chat.openai.com/c/dad9b3e1-c65e-4d83-8377-03ba3d9b4a27
+https://chatgpt.com/c/35122ff4-0900-436b-afb4-f883dcdee176
+
 user snippet = https://chat.openai.com/c/8c9600db-071b-49aa-b26e-523169507212
 
 
+link to pyqs
+-------------------------------------------------------------------------
+"DMDW_PYQs_Practice_Questions_Set_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/Practice%20%20Questions%20Set%201.pdf"],
+"HPC_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
+"HPC_PYQs_2021_Online_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2021%20(Online)%20Autumn%20End%20Sem.pdf"],
 
-test
+
+"DMDW", "", "End Semester", "", "DMDW_PYQs_Practice_Questions_Set_1", "Other", "Available", "DMDW_PYQs_Practice_Questions_Set_1",
+"HPC", 2020, "End Semester", "Autumn End Semester", "HPC_PYQs_2020_Online_Autumn_End_Sem_Soln", "Solution", "Available", "HPC_PYQs_2020_Online_Autumn_End_Sem_Soln",
+"HPC", 2021, "End Semester", "Autumn End Semester", "HPC_PYQs_2021_Online_Autumn_End_Sem", "", "Not Available", "HPC_PYQs_2021_Online_Autumn_End_Sem",
+
+
+
+link to notes
+--------------------------------------------------------------------------
+"DAA_Introduction": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/1.Introdction.pdf"],
+"DAA_Recursion": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/2.%20Recursion%20(1).pdf"],
+
+"Design & Analysis of Algorithm", "Introduction", "DAA_Introduction",
+"Design & Analysis of Algorithm", "Recursion", "DAA_Recursion",
+
+
+exam modal
+----------------------------------------------------------------------------
+Mid Semester
+End Semester
+Other | Solution
+
+2024 Autumn Mid Sem 
+2024 Online Autumn Mid Sem
+2024 Autumn Re-Mid Sem
+
+
