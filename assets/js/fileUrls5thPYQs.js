@@ -300,8 +300,8 @@ updateSubjectData(
 
     // SE = Software Engineering
     "SE", 2015, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2015_Mid_Semester_1", "", "Not Available", "SE_PYQs_2015_Mid_Semester_1",
-    "SE", 2015, "Mid Semester", "", "SE_PYQs_2015_Mid_Semester_2", "", "Not Available", "SE_PYQs_2015_Mid_Semester_2",
-    "SE", 2016, "Mid Semester", "", "SE_PYQs_2016_Mid_Semester", "", "Not Available", "SE_PYQs_2016_Mid_Semester",
+    "SE", 2015, "Mid Semester", "Mid Semester", "SE_PYQs_2015_Mid_Semester_2", "", "Not Available", "SE_PYQs_2015_Mid_Semester_2",
+    "SE", 2016, "Mid Semester", "Mid Semester", "SE_PYQs_2016_Mid_Semester", "", "Not Available", "SE_PYQs_2016_Mid_Semester",
     "SE", 2018, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2018_Autumn_Mid_Semester_Soln", "Solution", "Available", "SE_PYQs_2018_Autumn_Mid_Semester_Soln",
     "SE", 2018, "Mid Semester", "Autumn Mid Semester", "SE_PYQs_2018_Autumn_Mid_Semester", "", "Not Available", "SE_PYQs_2018_Autumn_Mid_Semester",
     "SE", 2018, "Mid Semester", "Autumn Re-Mid Semester", "SE_PYQs_2018_Autumn_Re_Mid_Semester_1", "", "Not Available", "SE_PYQs_2018_Autumn_Re_Mid_Semester_1",
@@ -382,8 +382,8 @@ updateSubjectData(
     "DMDW", 2019, "Mid Semester", "Autumn Mid Semester", "DMDW_PYQs_2019_Autumn_Mid_Semester", "", "Not Available", "DMDW_PYQs_2019_Autumn_Mid_Semester",
     "DMDW", 2019, "Mid Semester", "Spring Mid Semester", "DMDW_PYQs_2019_Spring_Mid_Semester", "", "Not Available", "DMDW_PYQs_2019_Spring_Mid_Semester",
     "DMDW", 2020, "End Semester", "Online Autumn End Semester", "DMDW_PYQs_2020_Online_Autumn_End_Semester", "", "Not Available", "DMDW_PYQs_2020_Online_Autumn_End_Semester",
-    "DMDW", "", "End Semester", "", "DMDW_Ques_Bank", "Other", "Available", "DMDW_Ques_Bank",
-    "DMDW", "", "End Semester", "", "DMDW_PYQs_Practice_Questions_Set_1", "Other", "Available", "DMDW_PYQs_Practice_Questions_Set_1",
+    "DMDW", "", "End Semester", "Ques_Bank", "DMDW_Ques_Bank", "Other", "Available", "DMDW_Ques_Bank",
+    "DMDW", "", "End Semester", "Practice_Questions_Set_1", "DMDW_PYQs_Practice_Questions_Set_1", "Other", "Available", "DMDW_PYQs_Practice_Questions_Set_1",
     "DMDW", 2021, "End Semester", "Online Autumn End Semester", "DMDW_PYQs_2021_Online_Autumn_End_Sem", "", "Not Available", "DMDW_PYQs_2021_Online_Autumn_End_Sem",
     "DMDW", 2021, "End Semester", "Online Spring End Semester", "DMDW_PYQs_2021_Online_Spring_End_Sem", "", "Not Available", "DMDW_PYQs_2021_Online_Spring_End_Sem",
     "DMDW", 2022, "End Semester", "Autumn End Semester Doc", "DMDW_PYQs_2022_Autumn_End_Sem_Doc", "", "Not Available", "DMDW_PYQs_2022_Autumn_End_Sem_Doc",

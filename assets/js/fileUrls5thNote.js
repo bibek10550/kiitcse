@@ -404,19 +404,19 @@ updateSubjectNoteData(
     "Software Engineering", "Hands on Projects", "SE_Hands_on_Projects",
 
     // Engineering Economics
-    "EE", "Eco Comp Notes", "EE_Eco_Comp_Notes",
-    "EE", "Lesson Plan Final 2024", "EE_Lesson_Plan_Final_2024",
-    "EE", "Introduction to Engg Economics", "EE_Introduction_to_Engg_Economics",
-    "EE", "Analysis of Market Demand", "EE_Analysis_of_Market_Demand",
-    "EE", "Change in Both Demand and Supply Curves", "EE_Change_in_Both_Demand_and_Supply_Curves",
-    "EE", "Cost-Revenue Dominated Cash Flow", "EE_Cost_Revenue_Dominated_Cash_Flow",
-    "EE", "Demand Analysis and Types", "EE_Demand_Analysis_and_Types",
-    "EE", "Demand Forecasting Theory", "EE_Demand_Forecasting_Theory",
-    "EE", "IC Analysis R", "EE_IC_Analysis_R",
-    "EE", "Interest Formulas and Application", "EE_Interest_Formulas_and_Application",
-    "EE", "Demand Analysis", "EE_Demand_Analysis",
-    "EE", "Demand Forecasting", "EE_Demand_Forecasting",
-    "EE", "Elasticity Analysis", "EE_Elasticity_Analysis",
+    "Engineering Economics", "Eco Comp Notes", "EE_Eco_Comp_Notes",
+    "Engineering Economics", "Lesson Plan Final 2024", "EE_Lesson_Plan_Final_2024",
+    "Engineering Economics", "Introduction to Engg Economics", "EE_Introduction_to_Engg_Economics",
+    "Engineering Economics", "Analysis of Market Demand", "EE_Analysis_of_Market_Demand",
+    "Engineering Economics", "Change in Both Demand and Supply Curves", "EE_Change_in_Both_Demand_and_Supply_Curves",
+    "Engineering Economics", "Cost-Revenue Dominated Cash Flow", "EE_Cost_Revenue_Dominated_Cash_Flow",
+    "Engineering Economics", "Demand Analysis and Types", "EE_Demand_Analysis_and_Types",
+    "Engineering Economics", "Demand Forecasting Theory", "EE_Demand_Forecasting_Theory",
+    "Engineering Economics", "IC Analysis R", "EE_IC_Analysis_R",
+    "Engineering Economics", "Interest Formulas and Application", "EE_Interest_Formulas_and_Application",
+    "Engineering Economics", "Demand Analysis", "EE_Demand_Analysis",
+    "Engineering Economics", "Demand Forecasting", "EE_Demand_Forecasting",
+    "Engineering Economics", "Elasticity Analysis", "EE_Elasticity_Analysis",
 
 
     // Artificial Intelligence
