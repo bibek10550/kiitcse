@@ -288,4 +288,4 @@ Other | Solution
 2024 Online Autumn Mid Sem
 2024 Autumn Re-Mid Sem
 
-
+add the reload button or make sure the current clicked pdf loads, it shows the previously opened pdf
