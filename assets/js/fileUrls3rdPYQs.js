@@ -1,70 +1,70 @@
 const fileUrls3rdPYQs = {
     // sample
-    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibek10550/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
+    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibekchandsah/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
 
     // AFL
 
-    "AFL_PYQs_2013_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2013%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2013_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2013%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2014_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2014%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2014_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2014%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2014_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2014%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2014_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2014%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2015_Back_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20(back)%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2015_Back_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20(back)%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2015_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2015_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2015_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2015_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2015%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2017_End_Solution": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20End%20Solution.pdf"],
+    "AFL_PYQs_2017_End_Solution": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20End%20Solution.pdf"],
 
-    "AFL_PYQs_2017_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2017_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2017_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2017_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2017%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2018_Back_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20(back)%20Autumn%20End%20Sem.docx"],
+    "AFL_PYQs_2018_Back_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20(back)%20Autumn%20End%20Sem.docx"],
 
-    "AFL_PYQs_2018_Autumn_End_Sem_Solution": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Sem%20Solution.pdf"],
+    "AFL_PYQs_2018_Autumn_End_Sem_Solution": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Sem%20Solution.pdf"],
 
-    "AFL_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Sem.pdf"],
+    "AFL_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2018_Autumn_End_Semester_Solution": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Semester%20Solution.pdf"],
+    "AFL_PYQs_2018_Autumn_End_Semester_Solution": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20End%20Semester%20Solution.pdf"],
 
-    "AFL_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2018_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2018_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2018%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2019_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Autumn%20End%20Sem%20Soln.pdf"],
+    "AFL_PYQs_2019_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "AFL_PYQs_2019_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2019_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2019_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2019_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2019%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2020_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2020%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2020_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2020%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2020_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2020%20Spring%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2020_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2020%20Spring%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2021_Online_Spring_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20(Online)%20Spring%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2021_Online_Spring_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20(Online)%20Spring%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2021_Online_Spring_Mid_Sem_doc": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.doc"],
+    "AFL_PYQs_2021_Online_Spring_Mid_Sem_doc": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.doc"],
 
-    "AFL_PYQs_2021_Supp_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20Supp%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2021_Supp_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2021%20Supp%20Mid%20Sem.pdf"],
 
-    "AFL_PYQs_2022_Online_Spring_End_Sem_docx": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2022%20(Online)%20Spring%20End%20Sem.docx"],
+    "AFL_PYQs_2022_Online_Spring_End_Sem_docx": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2022%20(Online)%20Spring%20End%20Sem.docx"],
 
-    "AFL_PYQs_2022_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2022%20Mid%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2022_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2022%20Mid%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2023_End_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20End%20Sem%20Sol.pdf"],
+    "AFL_PYQs_2023_End_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20End%20Sem%20Sol.pdf"],
 
-    "AFL_PYQs_2023_End_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20End%20Sem%20Soln.pdf"],
+    "AFL_PYQs_2023_End_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20End%20Sem%20Soln.pdf"],
 
-    "AFL_PYQs_2023_Mid_Sem_Solution": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Mid%20Sem%20Solution.pdf"],
+    "AFL_PYQs_2023_Mid_Sem_Solution": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Mid%20Sem%20Solution.pdf"],
 
-    "AFL_PYQs_2023_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Spring%20End%20Sem.pdf"],
+    "AFL_PYQs_2023_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Spring%20End%20Sem.pdf"],
 
-    "AFL_PYQs_2023_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Spring%20Mid%20Sem.pdf"],
+    "AFL_PYQs_2023_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/PYQs/2023%20Spring%20Mid%20Sem.pdf"],
 
 
 
@@ -72,150 +72,150 @@ const fileUrls3rdPYQs = {
 
 
     // DS 
-    "DS_PYQs_2012_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2012%20End%20Sem.pdf"],
+    "DS_PYQs_2012_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2012%20End%20Sem.pdf"],
 
-    "DS_PYQs_2013_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2013%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2013_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2013%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2014_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2014%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2014_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2014%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2014_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2014%20Mid%20Sem.pdf"],
+    "DS_PYQs_2014_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2014%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2015_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2015%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2015_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2015%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2015_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2015%20Mid%20Sem.pdf"],
+    "DS_PYQs_2015_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2015%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2016_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2016_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2016_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2016_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2016_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2016_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Autumn%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2016_Supp_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Supp%20End%20Sem.pdf"],
+    "DS_PYQs_2016_Supp_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2016%20Supp%20End%20Sem.pdf"],
 
-    "DS_PYQs_2017_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2017_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2017_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2017_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2017%20Autumn%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2018_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2018_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2019_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2019_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2019_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2019_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2019_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DS_PYQs_2019_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20Mid%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2019_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2019_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2019%20Autumn%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2020_Online_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20(Online)%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2020_Online_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20(Online)%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2020_Mid_Sem_Sol": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20Mid%20Sem%20Sol.pdf"],
+    "DS_PYQs_2020_Mid_Sem_Sol": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20Mid%20Sem%20Sol.pdf"],
 
-    "DS_PYQs_2020_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20Mid%20Sem.pdf"],
+    "DS_PYQs_2020_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2020%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2021_Online_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2021_Online_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2021_Online_Spring_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Spring%20End%20Sem%20Soln.pdf"],
+    "DS_PYQs_2021_Online_Spring_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Spring%20End%20Sem%20Soln.pdf"],
 
-    "DS_PYQs_2021_Online_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.pdf"],
+    "DS_PYQs_2021_Online_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2022_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20End%20Sem.pdf"],
+    "DS_PYQs_2022_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20End%20Sem.pdf"],
 
-    "DS_PYQs_2022_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2022_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20Mid%20Sem.pdf"],
 
-    "DS_PYQs_2022_Autumn_Mid_Semester": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20Mid%20Semester.pdf"],
+    "DS_PYQs_2022_Autumn_Mid_Semester": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2022%20Autumn%20Mid%20Semester.pdf"],
 
-    "DS_PYQs_2023_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2023%20Autumn%20Mid%20Sem.pdf"],
+    "DS_PYQs_2023_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/PYQs/2023%20Autumn%20Mid%20Sem.pdf"],
 
 
     // DSD 
 
-    "DSD_PYQs_2010_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2010%20End%20Sem.pdf"],
-    "DSD_PYQs_2010_Supp_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2010%20Supp%20End%20Sem.pdf"],
-    "DSD_PYQs_2011_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20Autumn%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2011_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20End%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2011_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20End%20Sem.pdf"],
-    "DSD_PYQs_2011_Spring_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20Spring%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2012_End_Sem_2_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem%20(2)%20Soln.pdf"],
-    "DSD_PYQs_2012_End_Sem_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem%20(2).pdf"],
-    "DSD_PYQs_2012_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem.pdf"],
-    "DSD_PYQs_2012_Supp_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20Supp%20End%20Sem.pdf"],
-    "DSD_PYQs_2013_Spring_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20End%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2013_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20End%20Sem.pdf"],
-    "DSD_PYQs_2013_Spring_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2013_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2014_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20End%20Sem.pdf"],
-    "DSD_PYQs_2014_Spring_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2014_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2014_Supp_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Supp%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2014_Supp_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Supp%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2015_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Autumn%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2015_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2015_Spring_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20End%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2015_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20End.pdf"],
-    "DSD_PYQs_2015_Spring_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2015_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2015_Supp_Spring_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Supp%20Spring%20End%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2015_Supp_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Supp%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2010_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2010%20End%20Sem.pdf"],
+    "DSD_PYQs_2010_Supp_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2010%20Supp%20End%20Sem.pdf"],
+    "DSD_PYQs_2011_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2011_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20End%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2011_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20End%20Sem.pdf"],
+    "DSD_PYQs_2011_Spring_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2011%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2012_End_Sem_2_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem%20(2)%20Soln.pdf"],
+    "DSD_PYQs_2012_End_Sem_2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem%20(2).pdf"],
+    "DSD_PYQs_2012_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20End%20Sem.pdf"],
+    "DSD_PYQs_2012_Supp_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2012%20Supp%20End%20Sem.pdf"],
+    "DSD_PYQs_2013_Spring_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20End%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2013_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2013_Spring_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2013_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2013%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2014_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2014_Spring_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2014_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2014_Supp_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Supp%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2014_Supp_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2014%20Supp%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2015_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2015_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2015_Spring_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20End%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2015_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20End.pdf"],
+    "DSD_PYQs_2015_Spring_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2015_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2015_Supp_Spring_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Supp%20Spring%20End%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2015_Supp_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2015%20Supp%20Spring%20End%20Sem.pdf"],
 
-    "DSD_PYQs_2016_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20End%20Sem.pdf"],
-    "DSD_PYQs_2016_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2016_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2016_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2017_Autumn_End_Sem_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20End%20Sem%20(2).pdf"],
-    "DSD_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20End%20Sem.pdf"],
-    "DSD_PYQs_2017_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2017_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Spring%20End%20Sem.pdf"],
-    "DSD_PYQs_2017_Spring_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Spring%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2017_Supp_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Supp%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2018_Autumn_End_Sem_docx": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20End%20Sem.docx"],
-    "DSD_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20End%20Sem.pdf"],
-    "DSD_PYQs_2018_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2018_Supp_End_Sem_2_PDF": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Supp%20End%20Sem%20(2).PDF"],
-    "DSD_PYQs_2018_Supp_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Supp%20End%20Sem.pdf"],
-    "DSD_PYQs_2019_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Autumn%20Mid%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2019_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2019_Spring_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20End%20Sem%20Soln.pdf"],
-    "DSD_PYQs_2019_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20End%20Sem.pdf"],
-    "DSD_PYQs_2019_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20Mid%20Sem.pdf"],
-    "DSD_PYQs_2020_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2020%20Spring%20End%20Sem.pdf"],
-    "DSD_PYQs_2023_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2023%20Autumn%20Mid%20Sem.pdf"],
-    "DSD_Digital_Electronics_Qpaper_Solution": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/Digital_Electronics_Qpaper_Solution.pdf"],
-    "DSD_Question_Bank_Unit_1_2_3_docx": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/Question%20Bank%20(Unit%201%2C2%2C3).docx"],
+    "DSD_PYQs_2016_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20End%20Sem.pdf"],
+    "DSD_PYQs_2016_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2016_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2016_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2016%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2017_Autumn_End_Sem_2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20End%20Sem%20(2).pdf"],
+    "DSD_PYQs_2017_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20End%20Sem.pdf"],
+    "DSD_PYQs_2017_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2017_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2017_Spring_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Spring%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2017_Supp_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2017%20Supp%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2018_Autumn_End_Sem_docx": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20End%20Sem.docx"],
+    "DSD_PYQs_2018_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20End%20Sem.pdf"],
+    "DSD_PYQs_2018_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2018_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2018_Supp_End_Sem_2_PDF": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Supp%20End%20Sem%20(2).PDF"],
+    "DSD_PYQs_2018_Supp_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2018%20Supp%20End%20Sem.pdf"],
+    "DSD_PYQs_2019_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Autumn%20Mid%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2019_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2019_Spring_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20End%20Sem%20Soln.pdf"],
+    "DSD_PYQs_2019_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2019_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2019%20Spring%20Mid%20Sem.pdf"],
+    "DSD_PYQs_2020_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2020%20Spring%20End%20Sem.pdf"],
+    "DSD_PYQs_2023_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/2023%20Autumn%20Mid%20Sem.pdf"],
+    "DSD_Digital_Electronics_Qpaper_Solution": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/Digital_Electronics_Qpaper_Solution.pdf"],
+    "DSD_Question_Bank_Unit_1_2_3_docx": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/PYQs/Question%20Bank%20(Unit%201%2C2%2C3).docx"],
 
 
     // IEC 
-    "IEC_2021_Online_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2021%20(Online)%20Spring%20End%20Sem.pdf"],
-    "IEC_2021_Online_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.pdf"],
-    "IEC_2022_Online_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2022%20(Online)%20Spring%20Mid%20Sem.pdf"],
-    "IEC_2022_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2022%20Autumn%20End%20Sem.pdf"],
-    "IEC_2023_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2023%20Mid%20Sem.pdf"],
+    "IEC_2021_Online_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2021%20(Online)%20Spring%20End%20Sem.pdf"],
+    "IEC_2021_Online_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2021%20(Online)%20Spring%20Mid%20Sem.pdf"],
+    "IEC_2022_Online_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2022%20(Online)%20Spring%20Mid%20Sem.pdf"],
+    "IEC_2022_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2022%20Autumn%20End%20Sem.pdf"],
+    "IEC_2023_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/PYQs/2023%20Mid%20Sem.pdf"],
 
     // IND4.0
-    "IND4.0_PYQs_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/11_Question%20Bank.pdf"],
-    "IND4.0_PYQs_2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/11_question%20bank%20answers.pdf"],
-    "IND4.0_PYQs_3": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/2023%20Autumn%20Mid%20Semester.pdf"],
-    "IND4.0_PYQs_4": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/IND(4.0)-Question%20Bank.pdf"],
-    "IND4.0_PYQs_5": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/question%20bank.docx"],
-    "IND4.0_PYQs_6": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/question%20bank.pdf"],
+    "IND4.0_PYQs_1": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/11_Question%20Bank.pdf"],
+    "IND4.0_PYQs_2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/11_question%20bank%20answers.pdf"],
+    "IND4.0_PYQs_3": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/2023%20Autumn%20Mid%20Semester.pdf"],
+    "IND4.0_PYQs_4": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/IND(4.0)-Question%20Bank.pdf"],
+    "IND4.0_PYQs_5": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/question%20bank.docx"],
+    "IND4.0_PYQs_6": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/PYQs/question%20bank.pdf"],
 
 
     // PS 
-    "PS_2019_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2019%20Autumn%20Mid%20Sem.docx"],
-    "PS_2020_Online_Autumn_Mid_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2020%20(Online)%20Autumn%20Mid%20Sem%20Soln.docx"],
-    "PS_2020_Spring_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2020%20Spring%20Mid%20Sem.docx"],
-    "PS_2021_Online_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2021%20(Online)%20Autumn%20Mid%20Sem.docx"],
-    "PS_2022_Autumn_Mid_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2022%20Autumn%20Mid%20Sem.docx", "https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2022%20Autumn%20Mid%20Sem.pdf"],
-    "PS_2023_Spring_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2023%20Spring%20End%20Sem.pdf"],
-    "PS_Previous_Year_Question": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/Previous%20year%20question%20PS_MA2011.pdf"],
+    "PS_2019_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2019%20Autumn%20Mid%20Sem.docx"],
+    "PS_2020_Online_Autumn_Mid_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2020%20(Online)%20Autumn%20Mid%20Sem%20Soln.docx"],
+    "PS_2020_Spring_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2020%20Spring%20Mid%20Sem.docx"],
+    "PS_2021_Online_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2021%20(Online)%20Autumn%20Mid%20Sem.docx"],
+    "PS_2022_Autumn_Mid_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2022%20Autumn%20Mid%20Sem.docx", "https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2022%20Autumn%20Mid%20Sem.pdf"],
+    "PS_2023_Spring_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/2023%20Spring%20End%20Sem.pdf"],
+    "PS_Previous_Year_Question": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/PYQs/Previous%20year%20question%20PS_MA2011.pdf"],
 
 
 
@@ -233,8 +233,8 @@ const fileUrls3rdPYQs = {
 
 
 const folderUrls3rdPYQs = {
-    // https://api.github.com/repos/bibek10550/
-    // dbms: 'https://api.github.com/repos/bibek10550/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
+    // https://api.github.com/repos/bibekchandsah/
+    // dbms: 'https://api.github.com/repos/bibekchandsah/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
 
 
     // Add more folder URLs here

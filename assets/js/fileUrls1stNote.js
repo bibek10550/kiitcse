@@ -1,227 +1,227 @@
 const fileUrls1stNote = {
-    // https://raw.githubusercontent.com/bibek10550
-    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibek10550/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
+    // https://raw.githubusercontent.com/bibekchandsah
+    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibekchandsah/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
 
     // C Lab
-    "C_Language_Lab-1_computer_programming_language": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-1_computer%20programming%20language.pdf'],
+    "C_Language_Lab-1_computer_programming_language": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-1_computer%20programming%20language.pdf'],
 
-    "C_Language_Lab-2_number_system": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-2_number%20system.pdf'],
+    "C_Language_Lab-2_number_system": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-2_number%20system.pdf'],
 
-    "C_Language_Lab-3_C_Operator_precedence_table": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-3_C%20Operator%20precedence%20table.pdf'],
+    "C_Language_Lab-3_C_Operator_precedence_table": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-3_C%20Operator%20precedence%20table.pdf'],
 
-    "C_Language_Lab-3_operator_and_expression": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-3_operator%20and%20expression.pdf'],
+    "C_Language_Lab-3_operator_and_expression": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-3_operator%20and%20expression.pdf'],
 
-    "C_Language_Lab-4_control_statement": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-4_control%20statement.pdf'],
+    "C_Language_Lab-4_control_statement": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-4_control%20statement.pdf'],
 
-    "C_Language_Lab-5_control_statement": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-5_control%20statement.pdf'],
+    "C_Language_Lab-5_control_statement": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-5_control%20statement.pdf'],
 
-    "C_Language_Lab-6_control_statement": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-6_control%20statement.pdf'],
+    "C_Language_Lab-6_control_statement": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-6_control%20statement.pdf'],
 
-    "C_Language_Lab-7_control_statement": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-7_control%20statement.pdf'],
+    "C_Language_Lab-7_control_statement": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-7_control%20statement.pdf'],
 
-    "C_Language_Lab-8_array_&_string": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-8_array%20%26%20string.pdf'],
+    "C_Language_Lab-8_array_&_string": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-8_array%20%26%20string.pdf'],
 
-    "C_Language_Lab-9_array_&_string": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-9_array%20%26%20string.pdf'],
+    "C_Language_Lab-9_array_&_string": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-9_array%20%26%20string.pdf'],
 
-    "C_Language_Lab-10_array_and_string": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-10_array%20and%20string.pdf'],
+    "C_Language_Lab-10_array_and_string": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-10_array%20and%20string.pdf'],
 
-    "C_Language_Lab-11_multidimentional_Array": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-11_multidimentional%20Array.pdf'],
+    "C_Language_Lab-11_multidimentional_Array": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-11_multidimentional%20Array.pdf'],
 
-    "C_Language_Lab-12_functionsy": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-12_functionsy.pdf'],
+    "C_Language_Lab-12_functionsy": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Lab-12_functionsy.pdf'],
 
 
 
 
 
     // Bio-Medical
-    "Bio-Medical_Engineering_00_syllabus": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/00_syllabus.pdf'],
+    "Bio-Medical_Engineering_00_syllabus": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/00_syllabus.pdf'],
 
-    "Bio-Medical_Engineering_01_cell_structure": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/01_cell%20structure.pdf'],
+    "Bio-Medical_Engineering_01_cell_structure": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/01_cell%20structure.pdf'],
 
-    "Bio-Medical_Engineering_02_human_body_system": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/02_human%20body%20system.pdf'],
+    "Bio-Medical_Engineering_02_human_body_system": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/02_human%20body%20system.pdf'],
 
-    "Bio-Medical_Engineering_03_human_nervous_system": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/03_human%20nervous%20system.pdf'],
+    "Bio-Medical_Engineering_03_human_nervous_system": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/03_human%20nervous%20system.pdf'],
 
-    "Bio-Medical_Engineering_04_human_respiratory_system": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/04_human%20respiratory%20system.pdf'],
+    "Bio-Medical_Engineering_04_human_respiratory_system": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/04_human%20respiratory%20system.pdf'],
 
-    "Bio-Medical_Engineering_05_action_potential": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/05_action%20potential.pdf'],
+    "Bio-Medical_Engineering_05_action_potential": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/05_action%20potential.pdf'],
 
-    "Bio-Medical_Engineering_06_Major_Organ_Systems": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/06_Major%20Organ%20Systems.pdf'],
+    "Bio-Medical_Engineering_06_Major_Organ_Systems": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/06_Major%20Organ%20Systems.pdf'],
 
-    "Bio-Medical_Engineering_08_&_09_bio_med": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/08%20%26%2009%20bio%20med.pdf'],
+    "Bio-Medical_Engineering_08_&_09_bio_med": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/08%20%26%2009%20bio%20med.pdf'],
 
-    "Bio-Medical_Engineering_11_BMI_sensors": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/11%20BMI%20sensors.pdf'],
+    "Bio-Medical_Engineering_11_BMI_sensors": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/11%20BMI%20sensors.pdf'],
 
-    "Bio-Medical_Engineering_12_Transducer": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/12_Transducer.pdf'],
+    "Bio-Medical_Engineering_12_Transducer": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/12_Transducer.pdf'],
 
-    "Bio-Medical_Engineering_13_EEG_Class": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/13%20EEG%20Class.pdf'],
+    "Bio-Medical_Engineering_13_EEG_Class": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/13%20EEG%20Class.pdf'],
 
-    "Bio-Medical_Engineering_14_ECG_signal": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/14_ECG%20signal.pdf'],
+    "Bio-Medical_Engineering_14_ECG_signal": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/14_ECG%20signal.pdf'],
 
-    "Bio-Medical_Engineering_15_ECG_signal(1)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/15_ECG%20signal(1).pdf'],
+    "Bio-Medical_Engineering_15_ECG_signal(1)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/15_ECG%20signal(1).pdf'],
 
-    "Bio-Medical_Engineering_17_Medical_Imaging-1": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/17_Medical%20Imaging-1..pdf'],
+    "Bio-Medical_Engineering_17_Medical_Imaging-1": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/17_Medical%20Imaging-1..pdf'],
 
-    "Bio-Medical_Engineering_18_Medical_Imaging_CT_scan": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/18_Medical%20Imaging_CT%20scan-1.pdf"],
-    "Bio-Medical_Engineering_21_Bioinformatics": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/21_Bioinformatics.pdf"],
-    "Bio-Medical_Engineering_21_Noise_Electrical_safety_issues": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/21_Noise%20%26%20Electrical%20safety%20issues.pdf"],
-    "Bio-Medical_Engineering_22_EEG_Class": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/22_EEG%20Class(1).pdf"],
-    "Bio-Medical_Engineering_23_EMG_class": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/23_EMG%20class(1).pdf"],
-    "Bio-Medical_Engineering_24_Medical_Imaging": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/24_Medical%20Imaging(1).pdf"],
+    "Bio-Medical_Engineering_18_Medical_Imaging_CT_scan": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/18_Medical%20Imaging_CT%20scan-1.pdf"],
+    "Bio-Medical_Engineering_21_Bioinformatics": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/21_Bioinformatics.pdf"],
+    "Bio-Medical_Engineering_21_Noise_Electrical_safety_issues": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/21_Noise%20%26%20Electrical%20safety%20issues.pdf"],
+    "Bio-Medical_Engineering_22_EEG_Class": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/22_EEG%20Class(1).pdf"],
+    "Bio-Medical_Engineering_23_EMG_class": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/23_EMG%20class(1).pdf"],
+    "Bio-Medical_Engineering_24_Medical_Imaging": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/24_Medical%20Imaging(1).pdf"],
 
 
 
 
 
     // ED and Graph
-    "ED_and_graph_00_auto_cad": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/00_auto%20cad.pdf'],
-    "ED_and_graph_01_EG_lesson_plan": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/01_EG%20lesson%20plan.pdf'],
-    "ED_and_graph_01_introduction": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/01_introduction.pdf'],
-    "ED_and_graph_02_EG_questions_updated": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_EG%20questions(updated).pdf'],
-    "ED_and_graph_02_EG_questions": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_EG%20questions.pdf'],
-    "ED_and_graph_02_lettering": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_lettering.pdf'],
-    "ED_and_graph_03_projection_of_lines": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/03_projection%20of%20lines.pdf'],
-    "ED_and_graph_04_projection_of_point_and_line": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/04_projection%20of%20point%20and%20line.pdf'],
-    "ED_and_graph_05_projection_of_solid": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/05_projection%20of%20solid.pdf'],
-    "ED_and_graph_06_projections_of_plane": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/06_projections%20of%20plane.pdf'],
+    "ED_and_graph_00_auto_cad": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/00_auto%20cad.pdf'],
+    "ED_and_graph_01_EG_lesson_plan": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/01_EG%20lesson%20plan.pdf'],
+    "ED_and_graph_01_introduction": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/01_introduction.pdf'],
+    "ED_and_graph_02_EG_questions_updated": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_EG%20questions(updated).pdf'],
+    "ED_and_graph_02_EG_questions": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_EG%20questions.pdf'],
+    "ED_and_graph_02_lettering": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/02_lettering.pdf'],
+    "ED_and_graph_03_projection_of_lines": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/03_projection%20of%20lines.pdf'],
+    "ED_and_graph_04_projection_of_point_and_line": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/04_projection%20of%20point%20and%20line.pdf'],
+    "ED_and_graph_05_projection_of_solid": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/05_projection%20of%20solid.pdf'],
+    "ED_and_graph_06_projections_of_plane": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/06_projections%20of%20plane.pdf'],
 
 
 
 
 
     // Environmental Science
-    "EVS_00_mid-sem_syllabus(2022)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/00_mid-sem%20syllabus(2022).pdf'],
-    "EVS_01_unit01": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/01_unit1.pdf'],
-    "EVS_01_unit1": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/01_unit1.pptx'],
-    "EVS_02_unit2": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/02_unit2.pdf'],
-    "EVS_03_unit3": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/03_unit3.pdf'],
-    "EVS_04_unit4(Green_Chemistry)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/04_unit4%20(Green%20Chemistry).pdf'],
-    "EVS_05_Reverse_Osmosis_Electrodialysis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/05_Reverse%20Osmosis%20Electrodialysis.pdf'],
-    "EVS_06_Water_Purification_Technologies": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/06_Water%20Purification%20Technologies.pdf'],
+    "EVS_00_mid-sem_syllabus(2022)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/00_mid-sem%20syllabus(2022).pdf'],
+    "EVS_01_unit01": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/01_unit1.pdf'],
+    "EVS_01_unit1": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/01_unit1.pptx'],
+    "EVS_02_unit2": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/02_unit2.pdf'],
+    "EVS_03_unit3": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/03_unit3.pdf'],
+    "EVS_04_unit4(Green_Chemistry)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/04_unit4%20(Green%20Chemistry).pdf'],
+    "EVS_05_Reverse_Osmosis_Electrodialysis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/05_Reverse%20Osmosis%20Electrodialysis.pdf'],
+    "EVS_06_Water_Purification_Technologies": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/06_Water%20Purification%20Technologies.pdf'],
 
 
 
     // Life Science
-    "LifeScience_01_course_handout": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/01_course%20handout.pdf'],
+    "LifeScience_01_course_handout": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/01_course%20handout.pdf'],
 
-    "LifeScience_02_need_of_biology_for_engineering": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/02_need%20of%20biology%20for%20engineering.pdf'],
+    "LifeScience_02_need_of_biology_for_engineering": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/02_need%20of%20biology%20for%20engineering.pdf'],
 
-    "LifeScience_03_biodiversity_microbes": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/03_biodiversity%20microbes.pdf'],
+    "LifeScience_03_biodiversity_microbes": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/03_biodiversity%20microbes.pdf'],
 
-    "LifeScience_04_cell_structure": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_cell%20structure.pdf'],
+    "LifeScience_04_cell_structure": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_cell%20structure.pdf'],
 
-    "LifeScience_04_chemical_basis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_chemical%20basis.pdf'],
+    "LifeScience_04_chemical_basis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_chemical%20basis.pdf'],
 
-    "LifeScience_04_organic_compounds": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_organic%20compounds.pdf'],
+    "LifeScience_04_organic_compounds": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/04_organic%20compounds.pdf'],
 
-    "LifeScience_05_cell_differentiation_&_stem_cell": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/05_cell%20differentiation%20%26%20stem%20cell.pdf'],
+    "LifeScience_05_cell_differentiation_&_stem_cell": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/05_cell%20differentiation%20%26%20stem%20cell.pdf'],
 
-    "LifeScience_05_protein_synthesis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/05_protein%20synthesis.pdf'],
+    "LifeScience_05_protein_synthesis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/05_protein%20synthesis.pdf'],
 
-    "LifeScience_06_Metabolism_and_Homeostasis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/06_Metabolism%20and%20Homeostasis.pdf'],
+    "LifeScience_06_Metabolism_and_Homeostasis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/06_Metabolism%20and%20Homeostasis.pdf'],
 
-    "LifeScience_06_photosynthesis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/06_photosynthesis.pdf'],
+    "LifeScience_06_photosynthesis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/06_photosynthesis.pdf'],
 
-    "LifeScience_07_enzymes": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/07_enzymes.pdf'],
+    "LifeScience_07_enzymes": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/07_enzymes.pdf'],
 
-    "LifeScience_08_biosensor": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/08_biosensor.pdf'],
+    "LifeScience_08_biosensor": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/08_biosensor.pdf'],
 
-    "LifeScience_09_Molecular_Machines": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/09_Molecular%20Machines.pdf'],
+    "LifeScience_09_Molecular_Machines": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/09_Molecular%20Machines.pdf'],
 
-    "LifeScience_10_nervous_system": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/10_nervous%20system.pdf'],
+    "LifeScience_10_nervous_system": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/10_nervous%20system.pdf'],
 
 
 
 
 
     // Diff Eqn and Linear Alg
-    "Diff_Eqn_and_Linear_Alg_01_Course_handout": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/01_Course%20handout.pdf'],
+    "Diff_Eqn_and_Linear_Alg_01_Course_handout": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/01_Course%20handout.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_02_syllbus": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/02_syllbus.pdf'],
+    "Diff_Eqn_and_Linear_Alg_02_syllbus": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/02_syllbus.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.1": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.1.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.1": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.1.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.3": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.3.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.3": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.3.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.4": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.4.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.4": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.4.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.5": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.5.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.5": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.5.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.6": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.6.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_1.6": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_1.6.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_Modeling_Problem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_Modeling%20Problem.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-1_sec_Modeling_Problem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-1_sec_Modeling%20Problem.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.1": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.1.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.1": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.1.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.10": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.10.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.10": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.10.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.2": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.2.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.2": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.2.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.3,2.5&_2.6": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.3%2C%202.5%20%26%202.6.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.3,2.5&_2.6": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.3%2C%202.5%20%26%202.6.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.7": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.7.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.7": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.7.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.9": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.9.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-2_sec_2.9": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-2_sec_2.9.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-7": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-7.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-7": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-7.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1(1)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1(1).pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1(1)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1(1).pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1(2)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1(2).pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1(2)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1(2).pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1,_8.3,_8.4,_8.5": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1%2C8.3%2C8.4%2C8.5.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.1,_8.3,_8.4,_8.5": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.1%2C8.3%2C8.4%2C8.5.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.3,_8.5": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.3%2C%208.5.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.3,_8.5": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.3%2C%208.5.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.4": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.4.pdf'],
+    "Diff_Eqn_and_Linear_Alg_Chapter-8_sec_8.4": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Chapter-8_sec_8.4.pdf'],
 
-    "Diff_Eqn_and_Linear_Alg_single_slit": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/single%20slit.txt'],
+    "Diff_Eqn_and_Linear_Alg_single_slit": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/single%20slit.txt'],
 
-    "Diff_Eqn_and_Linear_Alg_special_function": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/special%20function.pdf'],
+    "Diff_Eqn_and_Linear_Alg_special_function": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/special%20function.pdf'],
 
 
 
 
 
     // Optimization Technique
-    "Optimization_Technique_01_introduction_to_OT": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/01_introduction%20to%20OT.pdf'],
+    "Optimization_Technique_01_introduction_to_OT": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/01_introduction%20to%20OT.pdf'],
 
-    "Optimization_Technique_02_graphical_method": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/02_graphical%20method.pdf'],
+    "Optimization_Technique_02_graphical_method": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/02_graphical%20method.pdf'],
 
-    "Optimization_Technique_02_optimization_technique": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/02_optimization%20technique.pdf'],
+    "Optimization_Technique_02_optimization_technique": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/02_optimization%20technique.pdf'],
 
 
 
 
 
     // Physics
-    "Physics_01_course_handout": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/01_course%20handou.pdf'],
+    "Physics_01_course_handout": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/01_course%20handou.pdf'],
 
-    "Physics_02_damped_harmonic_oscillation": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/02_damped%20harmonic%20oscillation.pdf'],
+    "Physics_02_damped_harmonic_oscillation": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/02_damped%20harmonic%20oscillation.pdf'],
 
-    "Physics_03_forced_oscillation": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/03_forced%20oscillation.pdf'],
+    "Physics_03_forced_oscillation": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/03_forced%20oscillation.pdf'],
 
-    "Physics_04_coupled_oscillation": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/04_coupled%20oscillation.pdf'],
+    "Physics_04_coupled_oscillation": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/04_coupled%20oscillation.pdf'],
 
-    "Physics_05_wave_and_interference": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/05_wave%20and%20interference.pdf'],
+    "Physics_05_wave_and_interference": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/05_wave%20and%20interference.pdf'],
 
-    "Physics_06_wedge_shaped_thin_film": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/06_wedge%20shaped%20thin%20film.pdf'],
+    "Physics_06_wedge_shaped_thin_film": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/06_wedge%20shaped%20thin%20film.pdf'],
 
-    "Physics_07_diffraction_and_single_slit": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/07_diffraction%20and%20single%20slit.pdf'],
+    "Physics_07_diffraction_and_single_slit": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/07_diffraction%20and%20single%20slit.pdf'],
 
-    "Physics_08_Plane_diffraction_grating": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/08_Plane%20diffraction%20grating.pdf'],
+    "Physics_08_Plane_diffraction_grating": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/08_Plane%20diffraction%20grating.pdf'],
 
-    "Physics_09_Quantum_mechanics(1)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(1).pdf'],
+    "Physics_09_Quantum_mechanics(1)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(1).pdf'],
 
-    "Physics_09_Quantum_mechanics(2)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(2).pdf'],
+    "Physics_09_Quantum_mechanics(2)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(2).pdf'],
 
-    "Physics_09_Quantum_mechanics(3)": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(3).pdf'],
+    "Physics_09_Quantum_mechanics(3)": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/09_Quantum%20mechanics(3).pdf'],
 
-    "Physics_10_one_dimensional_potential_box": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/10_one%20dimensional%20potential%20box.pdf'],
+    "Physics_10_one_dimensional_potential_box": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/10_one%20dimensional%20potential%20box.pdf'],
 
-    "Physics_11_laser_modified": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/11_laser%20modified.pdf'],
+    "Physics_11_laser_modified": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/11_laser%20modified.pdf'],
 
-    "Physics_12_optical_fibre": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/12_optical%20fibre.pdf'],
+    "Physics_12_optical_fibre": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/12_optical%20fibre.pdf'],
 
 
     // Add more file URLs here
@@ -230,51 +230,51 @@ const fileUrls1stNote = {
 
 
 const folderUrls1stNote = {
-    // https://api.github.com/repos/bibek10550/
-    // dbms: 'https://api.github.com/repos/bibek10550/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
+    // https://api.github.com/repos/bibekchandsah/
+    // dbms: 'https://api.github.com/repos/bibekchandsah/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
 
     //  C language:
-    C_language_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book',
-    C_language_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Other%20Materials',
+    C_language_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book',
+    C_language_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Other%20Materials',
 
     // Bio-Medical
-    Bio_Medical_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Assignment',
-    Bio_Medical_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Book',
-    Bio_Medical_Other_Material: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Other%20Material',
+    Bio_Medical_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Assignment',
+    Bio_Medical_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Book',
+    Bio_Medical_Other_Material: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Other%20Material',
 
     // ED_and_graph
-    ED_and_graph_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Assignment',
-    ED_and_graph_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Book',
-    ED_and_graph_Auto_CAD_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/auto%20cad%20(Assignment)',
+    ED_and_graph_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Assignment',
+    ED_and_graph_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Book',
+    ED_and_graph_Auto_CAD_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/auto%20cad%20(Assignment)',
 
     // Environmental Science
-    EVS_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/Assignment',
-    EVS_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/Other%20Materials',
-    EVS_PYQs: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs',
+    EVS_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/Assignment',
+    EVS_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/Other%20Materials',
+    EVS_PYQs: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs',
 
     // Life Science
-    LifeScience_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/Assignment',
-    LifeScience_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/Other%20Materials',
-    LifeScience_PYQs: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs',
-    LifeScience_Last_Day_of_Exam: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/last%20day%20of%20exam',
+    LifeScience_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/Assignment',
+    LifeScience_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/Other%20Materials',
+    LifeScience_PYQs: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs',
+    LifeScience_Last_Day_of_Exam: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/last%20day%20of%20exam',
 
     // Diff Eqn and Linear Alg
-    Diff_Eqn_and_Linear_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Assignment',
-    Diff_Eqn_and_Linear_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book',
-    Diff_Eqn_and_Linear_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Other%20Materials',
-    Diff_Eqn_and_Linear_PYQs: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs',
+    Diff_Eqn_and_Linear_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Assignment',
+    Diff_Eqn_and_Linear_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book',
+    Diff_Eqn_and_Linear_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Other%20Materials',
+    Diff_Eqn_and_Linear_PYQs: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs',
 
     // Optimization_Technique
-    Optimization_Technique_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Assignment',
-    Optimization_Technique_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Book',
-    Optimization_Technique_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Other%20Materials',
-    Optimization_Technique_PYQs: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs',
+    Optimization_Technique_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Assignment',
+    Optimization_Technique_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Book',
+    Optimization_Technique_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Other%20Materials',
+    Optimization_Technique_PYQs: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs',
 
     // Physics
-    Physics_Assignment: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Assignment',
-    Physics_Book: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Book',
-    Physics_Other_Materials: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Other%20Materials',
-    Physics_PYQs: 'https://github.com/bibek10550/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs',
+    Physics_Assignment: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Assignment',
+    Physics_Book: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Book',
+    Physics_Other_Materials: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Other%20Materials',
+    Physics_PYQs: 'https://github.com/bibekchandsah/files/tree/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs',
 
 
     // Add more folder URLs here    fileUrls1stSemesterNotes

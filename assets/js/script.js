@@ -545,7 +545,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Array of links to be added
     var links = [
-        { href: 'https://bibek10550.github.io/kiitcse', text: 'KIIT CSE' },
+        { href: 'https://bibekchandsah.github.io/kiitcse', text: 'KIIT CSE' },
         // { href: 'https://example.com/2', text: 'Link 2' },
         // { href: 'https://example.com/3', text: 'Link 3' },
         // Add more links as needed
@@ -718,7 +718,7 @@ function setWhatsappLink() {
         });
     } else {
         console.log("pc devices");
-        whatsappLink.href = 'whatsapp://send?text=Go%20to%20KIIT%20CSE-%20https://bibek10550.github.io/kiitcse/%20KIIT%20CSE%20is%20resource%20hub%20which%20simplifies%20your%20educational%20journey%20in%20Computer%20Science%20and%20Engineering%20(CSE).%20It%20offers:%20Previous%20Year%20Questions%20(PYQs),%20Concise%20Notes,%20Video%20Lectures.';
+        whatsappLink.href = 'whatsapp://send?text=Go%20to%20KIIT%20CSE-%20https://bibekchandsah.github.io/kiitcse/%20KIIT%20CSE%20is%20resource%20hub%20which%20simplifies%20your%20educational%20journey%20in%20Computer%20Science%20and%20Engineering%20(CSE).%20It%20offers:%20Previous%20Year%20Questions%20(PYQs),%20Concise%20Notes,%20Video%20Lectures.';
 
         // Hide image preview if it's visible
         imagePreview.style.display = 'none';

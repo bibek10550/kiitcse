@@ -1,15 +1,15 @@
 const fileUrls1stPYQs = {
     // sample
-    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibek10550/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
+    // "dbms_solution_spring_end_semester_2023": ['https://raw.githubusercontent.com/bibekchandsah/files/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS/DBMS%20Solution%20(Spring%20End%20sem%202023).doc'],
 
     // Environmental Science
-    "EVS_PYQs_2015_Autumn_EndSem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2015%20Autumn%20Endsem.pdf'],
-    "EVS_PYQs_2015_Autumn_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2015%20Autumn%20Midsem.pdf"],
-    "EVS_PYQs_2016_Autumn_EndSem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Autumn%20Endsem.pdf'],
-    "EVS_PYQs_2016_Autumn_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Autumn%20Midsem.pdf"],
-    "EVS_PYQs_2016_Spring_EndSem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Spring%20Endsem.pdf'],
-    "EVS_PYQs_2022_Autumn_Mid_Sem_Que": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2022%20Autumn%20Mid%20Sem%20Que.jpg'],
-    "EVS_PYQs_2022_Autumn_Mid_Sem_Ans": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2022%20autumn%20mid%20sem%20ans.pdf'],
+    "EVS_PYQs_2015_Autumn_EndSem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2015%20Autumn%20Endsem.pdf'],
+    "EVS_PYQs_2015_Autumn_Midsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2015%20Autumn%20Midsem.pdf"],
+    "EVS_PYQs_2016_Autumn_EndSem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Autumn%20Endsem.pdf'],
+    "EVS_PYQs_2016_Autumn_Midsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Autumn%20Midsem.pdf"],
+    "EVS_PYQs_2016_Spring_EndSem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2016%20Spring%20Endsem.pdf'],
+    "EVS_PYQs_2022_Autumn_Mid_Sem_Que": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2022%20Autumn%20Mid%20Sem%20Que.jpg'],
+    "EVS_PYQs_2022_Autumn_Mid_Sem_Ans": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/EVS/PYQs/2022%20autumn%20mid%20sem%20ans.pdf'],
 
 
 
@@ -18,34 +18,34 @@ const fileUrls1stPYQs = {
 
 
     // Life Science
-    "LifeScience_PYQs_2022_autumn_mid-sem_ans": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/2022%20autumn%20mid-sem%20ans.pdf'],
+    "LifeScience_PYQs_2022_autumn_mid-sem_ans": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/2022%20autumn%20mid-sem%20ans.pdf'],
 
-    "LifeScience_PYQs_2022_autumn_mid-sem_que": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/2022%20autumn%20mid-sem%20que.jpg'],
+    "LifeScience_PYQs_2022_autumn_mid-sem_que": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/2022%20autumn%20mid-sem%20que.jpg'],
 
-    "LifeScience_PYQs_mid-sem_que": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/mid-sem%20que.pdf'],
+    "LifeScience_PYQs_mid-sem_que": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/LifeScience/PYQs/mid-sem%20que.pdf'],
 
 
 
 
 
     // Diff Eqn and Linear Alg
-    "Diff_Eqn_and_Linear_PYQs_2015_mid_sem_evaluation": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2015%20mid%20sem%20evaluation.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2015_mid_sem_evaluation": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2015%20mid%20sem%20evaluation.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_2016_mid_sem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2016%20mid%20sem.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2016_mid_sem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2016%20mid%20sem.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_2018_autumn_mid_sem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2018%20autumn%20mid%20sem.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2018_autumn_mid_sem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2018%20autumn%20mid%20sem.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_2019_autumn_mid_sem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2019%20autumn%20mid%20seme.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2019_autumn_mid_sem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2019%20autumn%20mid%20seme.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_2021_online_autumn_mid_sem": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2021%20(online)%20autumn%20mid%20sem.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2021_online_autumn_mid_sem": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2021%20(online)%20autumn%20mid%20sem.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_2022_autumn_mid_sem_que": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2022%20autumn%20mid%20sem%20que.jpg'],
+    "Diff_Eqn_and_Linear_PYQs_2022_autumn_mid_sem_que": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2022%20autumn%20mid%20sem%20que.jpg'],
 
-    "Diff_Eqn_and_Linear_PYQs_2022_autumn_mid_sem_ans": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2022%20autumn%20mid-sem%20ans.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_2022_autumn_mid_sem_ans": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/2022%20autumn%20mid-sem%20ans.pdf'],
 
-    "Diff_Eqn_and_Linear_PYQs_end_sem_long_question": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/end%20sem%20long%20question.jpg'],
+    "Diff_Eqn_and_Linear_PYQs_end_sem_long_question": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/end%20sem%20long%20question.jpg'],
 
-    "Diff_Eqn_and_Linear_PYQs_math_mid_sem_manual_solution": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/math%20mid-sem%20manual%20solution.pdf'],
+    "Diff_Eqn_and_Linear_PYQs_math_mid_sem_manual_solution": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/PYQs/math%20mid-sem%20manual%20solution.pdf'],
 
 
 
@@ -72,8 +72,8 @@ const fileUrls1stPYQs = {
 
 
     // Optimization Technique
-    "OT_PYQs_2022_autumn_mid_sem_que_soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs/2022%20autumn%20mid%20sem%20que%20soln.pdf"],
-    "OT_PYQs_2022_autumn_mid_sem_que": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs/2022%20autumn%20mid%20sem%20que.jpg"],
+    "OT_PYQs_2022_autumn_mid_sem_que_soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs/2022%20autumn%20mid%20sem%20que%20soln.pdf"],
+    "OT_PYQs_2022_autumn_mid_sem_que": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/PYQs/2022%20autumn%20mid%20sem%20que.jpg"],
 
 
 
@@ -81,20 +81,20 @@ const fileUrls1stPYQs = {
 
 
     // Physics
-    "Physics_PYQs_2014_Autumn_Endsem_Set-2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem%20Set-2.pdf"],
-    "Physics_PYQs_2014_Autumn_Endsem_Supplementary": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem%20Supplementary.pdf"],
-    "Physics_PYQs_2014_Autumn_Endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem.pdf"],
-    "Physics_PYQs_2014_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Midsem.pdf"],
-    "Physics_PYQs_2014_Spring_Endsem_Set-2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem%20Set-2.pdf"],
-    "Physics_PYQs_2014_Spring_Endsem_Set-3": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem%20Set-3.pdf"],
-    "Physics_PYQs_2014_Spring_Endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem.pdf"],
-    "Physics_PYQs_2015_Autumn_Endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2015%20Autumn%20Endsem.pdf"],
-    "Physics_PYQs_2016_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Midsem.pdf"],
-    "Physics_PYQs_2016_Spring_endsem_Set-2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Spring%20endsem%20Set-2.pdf"],
-    "Physics_PYQs_2016_Spring_endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Spring%20endsem.pdf"],
-    "Physics_PYQs_2017_Spring_Endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2017%20Spring%20Endsem.pdf"],
-    "Physics_PYQs_2022_autumn_mid_sem_que": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2022%20autumn%20mid%20sem%20que.jpg"],
-    "Physics_PYQs_2022_Autumn_Endsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/Physics.pdf"],
+    "Physics_PYQs_2014_Autumn_Endsem_Set-2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem%20Set-2.pdf"],
+    "Physics_PYQs_2014_Autumn_Endsem_Supplementary": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem%20Supplementary.pdf"],
+    "Physics_PYQs_2014_Autumn_Endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Autumn%20Endsem.pdf"],
+    "Physics_PYQs_2014_Midsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Midsem.pdf"],
+    "Physics_PYQs_2014_Spring_Endsem_Set-2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem%20Set-2.pdf"],
+    "Physics_PYQs_2014_Spring_Endsem_Set-3": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem%20Set-3.pdf"],
+    "Physics_PYQs_2014_Spring_Endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2014%20Spring%20Endsem.pdf"],
+    "Physics_PYQs_2015_Autumn_Endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2015%20Autumn%20Endsem.pdf"],
+    "Physics_PYQs_2016_Midsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Midsem.pdf"],
+    "Physics_PYQs_2016_Spring_endsem_Set-2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Spring%20endsem%20Set-2.pdf"],
+    "Physics_PYQs_2016_Spring_endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2016%20Spring%20endsem.pdf"],
+    "Physics_PYQs_2017_Spring_Endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2017%20Spring%20Endsem.pdf"],
+    "Physics_PYQs_2022_autumn_mid_sem_que": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/2022%20autumn%20mid%20sem%20que.jpg"],
+    "Physics_PYQs_2022_Autumn_Endsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/PYQs/Physics.pdf"],
 
 
 
@@ -109,8 +109,8 @@ const fileUrls1stPYQs = {
 
 
 const folderUrls1stPYQs = {
-    // https://api.github.com/repos/bibek10550/
-    // dbms: 'https://api.github.com/repos/bibek10550/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
+    // https://api.github.com/repos/bibekchandsah/
+    // dbms: 'https://api.github.com/repos/bibekchandsah/files/contents/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/PYQS',
 
 
     // Add more folder URLs here

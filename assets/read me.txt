@@ -98,7 +98,7 @@ videoAlt = subject name + "by" + videoAuthor
 
 
 
-<iframe src="https://docs.google.com/gview?url=https%3A%2F%2Fgithub.com%2Fbibek10550%2Ffiles%2Fraw%2Fmain%2Ftrash%2Fbin%2Fdownload%2FKIIT%25202022%2FB.Tech%25201st%2520semester%2FBio-Medical%2520Engineering%2FBook%2FBook.pdf&amp;embedded=true" width="100%" height="100%" id="myframe"></iframe>
+<iframe src="https://docs.google.com/gview?url=https%3A%2F%2Fgithub.com%2Fbibekchandsah%2Ffiles%2Fraw%2Fmain%2Ftrash%2Fbin%2Fdownload%2FKIIT%25202022%2FB.Tech%25201st%2520semester%2FBio-Medical%2520Engineering%2FBook%2FBook.pdf&amp;embedded=true" width="100%" height="100%" id="myframe"></iframe>
 
 
 
@@ -258,9 +258,9 @@ user snippet = https://chat.openai.com/c/8c9600db-071b-49aa-b26e-523169507212
 
 link to pyqs
 -------------------------------------------------------------------------
-"DMDW_PYQs_Practice_Questions_Set_1": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/Practice%20%20Questions%20Set%201.pdf"],
-"HPC_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
-"HPC_PYQs_2021_Online_Autumn_End_Sem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2021%20(Online)%20Autumn%20End%20Sem.pdf"],
+"DMDW_PYQs_Practice_Questions_Set_1": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DMDW/PYQs/Practice%20%20Questions%20Set%201.pdf"],
+"HPC_PYQs_2020_Online_Autumn_End_Sem_Soln": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2020%20(Online)%20Autumn%20End%20Sem%20Soln.pdf"],
+"HPC_PYQs_2021_Online_Autumn_End_Sem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/HPC/PYQs/2021%20(Online)%20Autumn%20End%20Sem.pdf"],
 
 
 "DMDW", "", "End Semester", "", "DMDW_PYQs_Practice_Questions_Set_1", "Other", "Available", "DMDW_PYQs_Practice_Questions_Set_1",
@@ -271,8 +271,8 @@ link to pyqs
 
 link to notes
 --------------------------------------------------------------------------
-"DAA_Introduction": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/1.Introdction.pdf"],
-"DAA_Recursion": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/2.%20Recursion%20(1).pdf"],
+"DAA_Introduction": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/1.Introdction.pdf"],
+"DAA_Recursion": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DAA/2.%20Recursion%20(1).pdf"],
 
 "Design & Analysis of Algorithm", "Introduction", "DAA_Introduction",
 "Design & Analysis of Algorithm", "Recursion", "DAA_Recursion",

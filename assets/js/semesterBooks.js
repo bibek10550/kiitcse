@@ -1,25 +1,25 @@
 const semesterBooks = {
     //  1st Semester
     // Bio_Medical
-    "bio_medical": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Book/Book.pdf'],
+    "bio_medical": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Bio-Medical%20Engineering/Book/Book.pdf'],
 
     // C_Language
-    "C_Language_Ansi_C": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/Book%20of%20C%20language%20(Ansi_C).pdf'],
-    "Let_Us_C": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/Book%20of%20C%20language%20(Let%20Us%20C%20).pdf'],
-    "Data_Structure_Using_C": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/data-structures-using-c-2nd.pdf'],
+    "C_Language_Ansi_C": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/Book%20of%20C%20language%20(Ansi_C).pdf'],
+    "Let_Us_C": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/Book%20of%20C%20language%20(Let%20Us%20C%20).pdf'],
+    "Data_Structure_Using_C": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/C%20Language/Book/data-structures-using-c-2nd.pdf'],
 
     // ED_and_Graph
-    "ED_and_Graph": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Book/BOOK%20ED%20%26%20Graphics.pdf'],
+    "ED_and_Graph": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/ED%20%26%20Graphics/Book/BOOK%20ED%20%26%20Graphics.pdf'],
 
     // Advance Engineering Mathematics
-    "Advance_Engineering_Mathematics": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book/Book(Advance%20Engineering%20Math).pdf'],
-    "Advance_Engineering_Mathematics_Solution": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book/advance%20engineering%20math%20ans.pdf'],
+    "Advance_Engineering_Mathematics": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book/Book(Advance%20Engineering%20Math).pdf'],
+    "Advance_Engineering_Mathematics_Solution": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Math/Book/advance%20engineering%20math%20ans.pdf'],
 
     // Optimization Technique
-    "Optimization_Technique": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Book/ot%20book.pdf'],
+    "Optimization_Technique": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/OT/Book/ot%20book.pdf'],
 
     // Physics
-    "Engineering_Physics": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Book/Book%20(Engineering%20physics).pdf'],
+    "Engineering_Physics": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%201st%20semester/Physics/Book/Book%20(Engineering%20physics).pdf'],
 
 
 
@@ -27,47 +27,47 @@ const semesterBooks = {
 
     //  2nd Semester
     // BEE
-    "BEE_VKMehta": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Electrical%20(BEE)/Book/003_Ebook_v.k%20mehta.pdf'],
-    "BEE_Electric_Circuit": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Electrical%20(BEE)/Book/BEE%20BOOK%20.pdf'],
+    "BEE_VKMehta": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Electrical%20(BEE)/Book/003_Ebook_v.k%20mehta.pdf'],
+    "BEE_Electric_Circuit": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Electrical%20(BEE)/Book/BEE%20BOOK%20.pdf'],
 
     // English 
-    "Effective_Technical_Communication": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/English/Books/04_(Text%20Book)%20Effective%20Technical%20Communication%20BOOK.pdf'],
-    "Technical_Communication": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/English/Books/Technical%20Communication%20Book.pdf'],
+    "Effective_Technical_Communication": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/English/Books/04_(Text%20Book)%20Effective%20Technical%20Communication%20BOOK.pdf'],
+    "Technical_Communication": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/English/Books/Technical%20Communication%20Book.pdf'],
 
     // Chemistry
-    "Engineering_Chemistry": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Chemistry/Books/Chemistry.pdf'],
+    "Engineering_Chemistry": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Chemistry/Books/Chemistry.pdf'],
 
     // Workshop
-    "Workshop": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/workshop/Books/Workshop.pdf'],
+    "Workshop": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/workshop/Books/Workshop.pdf'],
 
     // Numerical Analysis
-    "Numerical_Analysis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Maths/Books/Book(Introductory%20methods%20of%20numerical%20analysis%20by%20S.S.%20Sastry).pdf'],
+    "Numerical_Analysis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%202nd%20semester/Maths/Books/Book(Introductory%20methods%20of%20numerical%20analysis%20by%20S.S.%20Sastry).pdf'],
 
 
 
     // 3rd Semester
     // AFl 
-    "Formal_Language_and_Automata": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/00_Text%20Book.pdf'],
-    "Introduction_to_formal_and_Language": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/An%20Introduction%20to%20Formal%20Languages%20and%20Automata%20by%20Peter%20Linz.pdf'],
-    "Formal_Language_and_Automata_Solution": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/02_Solution%20manual.pdf'],
-    "Introduction_to_Automata_Theory": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/John%20E.%20Hopcroft_%20Rajeev%20Motwani_%20Jeffrey%20D.%20Ullman%20-%20Introduction%20to%20Automata%20Theory%2C%20Languages%2C%20and%20Computation-Prentice%20Hall%20(2006).pdf'],
+    "Formal_Language_and_Automata": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/00_Text%20Book.pdf'],
+    "Introduction_to_formal_and_Language": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/An%20Introduction%20to%20Formal%20Languages%20and%20Automata%20by%20Peter%20Linz.pdf'],
+    "Formal_Language_and_Automata_Solution": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/02_Solution%20manual.pdf'],
+    "Introduction_to_Automata_Theory": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/AFL/Books/John%20E.%20Hopcroft_%20Rajeev%20Motwani_%20Jeffrey%20D.%20Ullman%20-%20Introduction%20to%20Automata%20Theory%2C%20Languages%2C%20and%20Computation-Prentice%20Hall%20(2006).pdf'],
 
     // DS
-    "Fundamental_Of_Data_Structure": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/Books/Fundamentals-of-Data-Structures-in-C-Ellis-Horowitz-Sartaj-Sahni.pdf'],
-    "Data_Structure_Algorithm": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/Books/Data%20Structures%20and%20Algorithms%20-%20Narasimha%20Karumanchi.pdf'],
+    "Fundamental_Of_Data_Structure": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/Books/Fundamentals-of-Data-Structures-in-C-Ellis-Horowitz-Sartaj-Sahni.pdf'],
+    "Data_Structure_Algorithm": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DS/Books/Data%20Structures%20and%20Algorithms%20-%20Narasimha%20Karumanchi.pdf'],
 
     // DSD 
-    "DSD_Digital_System_Design": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/Books/M.%20Morris%20R.%20Mano%2C%20Michael%20D.%20Ciletti%20-%20Digital%20Design_%20With%20an%20Introduction%20to%20the%20Verilog%20HDL%2C%20VHDL%2C%20and%20SystemVerilog-Pearson%20(2017).pdf'],
+    "DSD_Digital_System_Design": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/DSD/Books/M.%20Morris%20R.%20Mano%2C%20Michael%20D.%20Ciletti%20-%20Digital%20Design_%20With%20an%20Introduction%20to%20the%20Verilog%20HDL%2C%20VHDL%2C%20and%20SystemVerilog-Pearson%20(2017).pdf'],
 
     // IEC 
-    "IEC_HASS_ELECTIVE-2": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/Books/02_HASS%20ELECTIVE-2-by-R.-R.-Paul).pdf"],
-    "IEC_Economic_Development": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/Books/Economic%20DevelopmentMichael%20P.%20Todaro%20.pdf"],
+    "IEC_HASS_ELECTIVE-2": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/Books/02_HASS%20ELECTIVE-2-by-R.-R.-Paul).pdf"],
+    "IEC_Economic_Development": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IEC/Books/Economic%20DevelopmentMichael%20P.%20Todaro%20.pdf"],
 
     // IND4.0
-    "Industry_Evaluation": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/Books/THE%204TH%20INDUSTRIAL%20REVOLUTION.pdf"],
+    "Industry_Evaluation": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/IND4.0/Books/THE%204TH%20INDUSTRIAL%20REVOLUTION.pdf"],
 
     // PS 
-    "Probability_and_Static": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/Books/Probability%20and%20Statistics%20for%20Engineering%20and%20the%20Sciences%20(2015%2C%20Cengage%20Learning)%20-%20libgen.lc9th-edn-Jay%20L.%20Devore%20-%20.pdf"],
+    "Probability_and_Static": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%203rd%20semester/PS/Books/Probability%20and%20Statistics%20for%20Engineering%20and%20the%20Sciences%20(2015%2C%20Cengage%20Learning)%20-%20libgen.lc9th-edn-Jay%20L.%20Devore%20-%20.pdf"],
 
 
 
@@ -79,82 +79,82 @@ const semesterBooks = {
 
     // 4th semester
     // COA
-    "COA_Books_Computer_Organization_and_Architecture": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer%20Organization%20and%20Architecture%2010th%20-%20William%20Stallings.pdf"],
-    "COA_Books_Computer_organization_and_embedded_systems": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer%20organization%20and%20embedded%20systems%20by%20Carl%20Hamacher%2C%20Zvonko%20Vranesic%2C%20Safwat%20Zaky%2C%20Naraig%20Manjikian.pdf"],
-    "COA_Books_Computer_Organization_5th_Edition": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer_Organization_5th_Edition.pdf"],
-    "COA_Books_GSK_Comp_Organisation_notes": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/GSK_Comp%20Organisation%20notes.pdf"],
-    "COA_Books_computer-system-architecture": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/computer-system-architecture-morris-mano-third-edition.pdf"],
+    "COA_Books_Computer_Organization_and_Architecture": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer%20Organization%20and%20Architecture%2010th%20-%20William%20Stallings.pdf"],
+    "COA_Books_Computer_organization_and_embedded_systems": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer%20organization%20and%20embedded%20systems%20by%20Carl%20Hamacher%2C%20Zvonko%20Vranesic%2C%20Safwat%20Zaky%2C%20Naraig%20Manjikian.pdf"],
+    "COA_Books_Computer_Organization_5th_Edition": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/Computer_Organization_5th_Edition.pdf"],
+    "COA_Books_GSK_Comp_Organisation_notes": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/GSK_Comp%20Organisation%20notes.pdf"],
+    "COA_Books_computer-system-architecture": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/COA/Books/computer-system-architecture-morris-mano-third-edition.pdf"],
 
 
     // DBMS 
-    "DBMS_Book_Database_system_concepts": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/01_Database%20system%20concepts%20by%20Henry%20F.%20Korth%20(2).pdf"],
-    "DBMS_Book_Complete_DBMS_Theory_Midsem": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/Complete%20DBMS%20Theory%20Midsem.pdf"],
-    "DBMS_Book_Fundamentals_of_Database_Systems": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/Fundamentals%20of%20Database%20Systems%20by%20Ramez%20Elmasri%20and%20Shamkant%20B.%20Navathe.pdf"],
-    "DBMS_Book_The-Manga-guide-to-databases": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/The-Manga-guide-to-databases%5B1%5D.pdf"],
+    "DBMS_Book_Database_system_concepts": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/01_Database%20system%20concepts%20by%20Henry%20F.%20Korth%20(2).pdf"],
+    "DBMS_Book_Complete_DBMS_Theory_Midsem": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/Complete%20DBMS%20Theory%20Midsem.pdf"],
+    "DBMS_Book_Fundamentals_of_Database_Systems": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/Fundamentals%20of%20Database%20Systems%20by%20Ramez%20Elmasri%20and%20Shamkant%20B.%20Navathe.pdf"],
+    "DBMS_Book_The-Manga-guide-to-databases": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DBMS/Book/The-Manga-guide-to-databases%5B1%5D.pdf"],
 
 
     // DM 
-    "DM_Discrete_Mathematics": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/Book/Discrete-Mathematics-and-Its-Applications.pdf"],
+    "DM_Discrete_Mathematics": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/DM/Book/Discrete-Mathematics-and-Its-Applications.pdf"],
 
 
     // OOP Java
-    "OOP_Book_Java_The_Complete_Reference_Eleventh_Edition": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/00_Herbert%20Schildt%20-%20Java_%20The%20Complete%20Reference%2C%20Eleventh%20Edition.%2011-McGraw-Hill%20Education%20(2019).pdf"],
-    "OOP_Book_Java_the_Complete_Reference": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/Java%20the%20Complete%20Reference.pdf"],
-    "OOP_Book_Object_Oriented_Programming_with_C++": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/Object_Oriented_Programming%20with%20C%2B%2B%20-%20Copy.pdf"],
+    "OOP_Book_Java_The_Complete_Reference_Eleventh_Edition": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/00_Herbert%20Schildt%20-%20Java_%20The%20Complete%20Reference%2C%20Eleventh%20Edition.%2011-McGraw-Hill%20Education%20(2019).pdf"],
+    "OOP_Book_Java_the_Complete_Reference": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/Java%20the%20Complete%20Reference.pdf"],
+    "OOP_Book_Object_Oriented_Programming_with_C++": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OOP/Book/Object_Oriented_Programming%20with%20C%2B%2B%20-%20Copy.pdf"],
 
 
     // OS 
-    "OS_Book_01_Abraham": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Book/01_Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne%20-%20Operating%20System%20Concepts-Wiley%20(2012).pdf"],
-    "OS_Book_Operating_System_Concepts": ["https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Book/Operating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf"],
+    "OS_Book_01_Abraham": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Book/01_Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne%20-%20Operating%20System%20Concepts-Wiley%20(2012).pdf"],
+    "OS_Book_Operating_System_Concepts": ["https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%204th%20semester/OS/Book/Operating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin.pdf"],
 
 
 
     // 5th semester
     // Computer Intelligence
-    "Computational_Intelligence": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CI/Books/Computational%20Intelligence%20NeuroFuzzyApproach.pdf'],
+    "Computational_Intelligence": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CI/Books/Computational%20Intelligence%20NeuroFuzzyApproach.pdf'],
 
     // Artificial Intelligence
-    "Artificial_Intelligence": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/AI/Books/Artificial%20Intelligence%20A%20Modern%20Approach%20%20Pearson%20(Stuart%20Russell%2C%20Peter%20Norvig).pdf'],
+    "Artificial_Intelligence": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/AI/Books/Artificial%20Intelligence%20A%20Modern%20Approach%20%20Pearson%20(Stuart%20Russell%2C%20Peter%20Norvig).pdf'],
 
     // Computer Network
-    "Computer_Network": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/Books/Computer%20Networks%20-%20A%20Top-Down%20Approach%20Firouz%20Mosharraf%20Behrouz%20A%20Forouzan.pdf'],
+    "Computer_Network": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/CN/Books/Computer%20Networks%20-%20A%20Top-Down%20Approach%20Firouz%20Mosharraf%20Behrouz%20A%20Forouzan.pdf'],
 
     // Cryptography
-    "Cryptography": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/Cryptography/Books/Cryptography%20Book.pdf'],
+    "Cryptography": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/Cryptography/Books/Cryptography%20Book.pdf'],
 
     // Data Analysis Algorithm
-    "DataAnalysis_Algorithm": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/D%26AA/Books/Introduction%20to%20Algorithms%2C%20T.%20H.%20Cormen3rd%20%20Edition.pdf'],
+    "DataAnalysis_Algorithm": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/D%26AA/Books/Introduction%20to%20Algorithms%2C%20T.%20H.%20Cormen3rd%20%20Edition.pdf'],
 
     // Data Mining Data Warehousing
-    "DataMining_DataWarehousing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/Books/Data-Mining.-Concepts-and-Techniques%20By%20Han%20and%20Kamber.pdf'],
+    "DataMining_DataWarehousing": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/DM%26DW/Books/Data-Mining.-Concepts-and-Techniques%20By%20Han%20and%20Kamber.pdf'],
 
     // Software Engineering
-    "Software_Engineering": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/Books/Fundamentals%20of%20Software%20Engineering%2C%205th%20Edition%20(Mall%2C%20Rajib).pdf'],
+    "Software_Engineering": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%205th%20semester/SE/Books/Fundamentals%20of%20Software%20Engineering%2C%205th%20Edition%20(Mall%2C%20Rajib).pdf'],
 
 
 
     // 6th semester
     // Cloud Computing
-    "Cloud_Computing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CC/Books/CLOUD%20COMPUTING%20-%20Principles%20and%20Paradigms%20by%20Rajkumar%20Buyya.pdf'],
+    "Cloud_Computing": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CC/Books/CLOUD%20COMPUTING%20-%20Principles%20and%20Paradigms%20by%20Rajkumar%20Buyya.pdf'],
 
     // Compiler Designer
-    "Compiler_Design": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/Books/Compiler%20Design%20book.pdf'],
+    "Compiler_Design": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/CD/Books/Compiler%20Design%20book.pdf'],
 
     // Data Analysis
-    "Data_Analysis": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/Books/Marco%20Bonzanini%20-%20Mastering%20Social%20Media%20Mining%20with%20Python-Packt%20Publishing%20(2016).pdf'],
+    "Data_Analysis": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/DA/Books/Marco%20Bonzanini%20-%20Mastering%20Social%20Media%20Mining%20with%20Python-Packt%20Publishing%20(2016).pdf'],
 
     // Internet of Things
-    "Internet_of_Things": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Books/Internet%20of%20Things_A%20Hands-On%20Approach%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti.pdf'],
+    "Internet_of_Things": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/IOT/Books/Internet%20of%20Things_A%20Hands-On%20Approach%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti.pdf'],
 
     // Machine Learning
-    "Machine_Learning": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Books/Applied%20Machine%20Learning%20by%20M%20Gopal%20(z-lib.org).pdf'],
+    "Machine_Learning": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/ML/Books/Applied%20Machine%20Learning%20by%20M%20Gopal%20(z-lib.org).pdf'],
 
     // Natural Language Processing
-    "Natural_Language_Processing": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Books/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20(%20PDFDrive%20).pdf'],
+    "Natural_Language_Processing": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/NLP/Books/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20(%20PDFDrive%20).pdf'],
 
 
     // Software Project Management
-    "Software_Project_Management": ['https://github.com/bibek10550/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/SPM/Books/software-project-management.pdf'],
+    "Software_Project_Management": ['https://github.com/bibekchandsah/files/blob/main/trash/bin/download/KIIT%202022/B.Tech%206th%20semester/SPM/Books/software-project-management.pdf'],
 
 
 }
