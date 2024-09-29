@@ -11,7 +11,7 @@ let apiKey = localStorage.getItem('apiKey'); // Retrieve the API key from local 
 // Function to prompt for API key if not already stored
 const promptForApiKey = () => {
     if (!apiKey) {
-        apiKey = prompt('Open "https://aistudio.google.com/" Create APi key and Enter your API key here:');
+        apiKey = prompt('Open "https://aistudio.google.com/", Create APi key and Enter your API key:');
         if (apiKey) {
             localStorage.setItem('apiKey', apiKey); // Save the API key in local storage
         } else {
