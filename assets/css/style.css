@@ -955,3 +955,19 @@ a {
         margin-bottom: 10px;
     }
 }
+
+
+
+
+
+/* visit counter */
+.visitcount span {
+    padding: 10px !important;
+}
+
+.visitcount img {
+    position: absolute;
+    clip: rect(0, 120px, 50px, 80px);
+    scale: 1.3;
+    margin: 10px;
+}
