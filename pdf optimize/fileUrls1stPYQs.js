@@ -122,6 +122,92 @@ const folderUrls1stPYQs = {
 
 
 // pdf preview
+// document.addEventListener("DOMContentLoaded", function () {
+//     var buttons = document.querySelectorAll(".clickLink");
+
+//     buttons.forEach(function (button) {
+//         button.addEventListener("click", function () {
+//             var linkKey = this.getAttribute('data-id');
+//             let link;
+//             // if (fileUrls[linkKey]) {
+//             //     link = fileUrls[linkKey][0];}
+//             if (fileUrls1stPYQs[linkKey]) {
+//                 link = fileUrls1stPYQs[linkKey][0];
+//             } else {
+//                 console.error("URL not found for key: " + linkKey);
+//                 return;
+//             }
+
+//             // Check if the URL is from GitHub and contains "blob"
+//             if (link.includes("github.com") && link.includes("blob")) {
+//                 // Replace "blob" with "raw"
+//                 link = link.replace("blob", "raw");
+//             }
+
+//             // var googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
+//             // document.getElementById("myframe").src = googleDocsURL;
+
+//             // If the URL is not from GitHub, keep it unchanged
+//             var googleDocsURL;
+//             if (link.includes("github.com")) {
+//                 googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
+//             } else {
+//                 googleDocsURL = link;
+//             }
+// //             document.getElementById("myframe").src = googleDocsURL;
+
+// //             // Set modal title
+// //             var modalTitle = this.getAttribute('data-id');
+// //             document.getElementById("modalTitle").innerText = modalTitle;
+
+// //             // Update download button text
+// //             var downloadButton = document.getElementById("modalDownload");
+// //             downloadButton.textContent = "Download";
+// //             downloadButton.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+// //         });
+// //     });
+// // });
+
+//             // Clear the iframe content before setting the new source
+//             var iframe = document.getElementById("myframe");
+//             iframe.src = ''; // Clear iframe content to avoid showing old content
+//             iframe.src = googleDocsURL; // Set the new content
+
+
+
+//             // Set modal title
+//             var modalTitle = this.getAttribute('data-id');
+//             document.getElementById("modalTitle").innerText = modalTitle;
+
+//             // Update download button text
+//             var downloadButton = document.getElementById("modalDownload");
+//             downloadButton.textContent = "Download";
+//             downloadButton.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+
+//             // Store the current link for refresh purpose
+//             var refreshButton = document.querySelector(".pdfRefresh");
+//             refreshButton.setAttribute("data-link", googleDocsURL); // Set data-link to the refresh button
+//         });
+//     });
+
+//     // Handle the .pdfRefresh button click
+//     var refreshButton = document.querySelector(".pdfRefresh");
+//     refreshButton.addEventListener("click", function () {
+//         var googleDocsURL = this.getAttribute("data-link");
+//         if (googleDocsURL) {
+//             document.getElementById("myframe").src = googleDocsURL;
+//         } else {
+//             console.error("No URL found to refresh.");
+//         }
+//     });
+// });
+
+
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", function () {
     var buttons = document.querySelectorAll(".clickLink");
 
@@ -129,8 +215,6 @@ document.addEventListener("DOMContentLoaded", function () {
         button.addEventListener("click", function () {
             var linkKey = this.getAttribute('data-id');
             let link;
-            // if (fileUrls[linkKey]) {
-            //     link = fileUrls[linkKey][0];}
             if (fileUrls1stPYQs[linkKey]) {
                 link = fileUrls1stPYQs[linkKey][0];
             } else {
@@ -138,58 +222,69 @@ document.addEventListener("DOMContentLoaded", function () {
                 return;
             }
 
-            // Check if the URL is from GitHub and contains "blob"
+            // Prepare URL for Google Docs Viewer
             if (link.includes("github.com") && link.includes("blob")) {
-                // Replace "blob" with "raw"
                 link = link.replace("blob", "raw");
             }
+            var googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
 
-            // var googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
-            // document.getElementById("myframe").src = googleDocsURL;
+            // Clear and load content for the first modal
+            // var iframe1 = document.getElementById("myframe1");
+            // iframe1.src = ''; // Clear the previous content
+            // iframe1.src = googleDocsURL; // Load the new content
 
-            // If the URL is not from GitHub, keep it unchanged
-            var googleDocsURL;
-            if (link.includes("github.com")) {
-                googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
-            } else {
-                googleDocsURL = link;
-            }
-            // document.getElementById("myframe").src = googleDocsURL;
+            document.getElementById("myframe").src = googleDocsURL;
 
-            // Clear the iframe content before setting the new source
-            var iframe = document.getElementById("myframe");
-            iframe.src = ''; // Clear iframe content to avoid showing old content
-            iframe.src = googleDocsURL; // Set the new content
+            var modalTitle1 = document.getElementById("modalTitle");
+            modalTitle1.innerText = "Modal 1: " + linkKey; // Update modal title
 
+            // Set download button action for the first modal
+            var downloadButton1 = document.getElementById("modalDownload");
+            downloadButton1.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
 
+            // Store the link for refreshing in the first modal
+            var refreshButton1 = document.getElementById("pdfRefresh");
+            refreshButton1.setAttribute("data-link", googleDocsURL);
 
-            // Set modal title
-            var modalTitle = this.getAttribute('data-id');
-            document.getElementById("modalTitle").innerText = modalTitle;
+            // Repeat the same process for the second modal (using the same link for simplicity)
+            // var iframe2 = document.getElementById("myframe2");
+            // iframe2.src = ''; // Clear the previous content
+            // iframe2.src = googleDocsURL; // Load the new content
 
-            // Update download button text
-            var downloadButton = document.getElementById("modalDownload");
-            downloadButton.textContent = "Download";
-            downloadButton.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+            document.getElementById("myframe").src = googleDocsURL;
 
-            // Store the current link for refresh purpose
-            var refreshButton = document.querySelector(".pdfRefresh");
-            refreshButton.setAttribute("data-link", googleDocsURL); // Set data-link to the refresh button
+            var modalTitle2 = document.getElementById("modalTitle");
+            modalTitle2.innerText = "Modal 2: " + linkKey; // Update modal title
+
+            var downloadButton2 = document.getElementById("modalDownload");
+            downloadButton2.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+
+            var refreshButton2 = document.getElementById("pdfRefresh");
+            refreshButton2.setAttribute("data-link", googleDocsURL);
         });
     });
 
-    // Handle the .pdfRefresh button click
-    var refreshButton = document.querySelector(".pdfRefresh");
-    refreshButton.addEventListener("click", function () {
-        var googleDocsURL = this.getAttribute("data-link");
-        if (googleDocsURL) {
-            document.getElementById("myframe").src = googleDocsURL;
-        } else {
-            console.error("No URL found to refresh.");
-        }
-    });
-});
+    // Handle refresh buttons for both modals
+    var refreshButton1 = document.getElementById("pdfRefresh");
+    if (refreshButton1) {
+        refreshButton1.addEventListener("click", function () {
+            var googleDocsURL = this.getAttribute("data-link");
+            if (googleDocsURL) {
+                document.getElementById("myframe").src = googleDocsURL;
+            }
+        });
+    }
 
+    var refreshButton2 = document.getElementById("pdfRefresh");
+    if (refreshButton2) {
+        refreshButton2.addEventListener("click", function () {
+            var googleDocsURL = this.getAttribute("data-link");
+            if (googleDocsURL) {
+                document.getElementById("myframe").src = googleDocsURL;
+            }
+        });
+    }
+});
 
 
 
@@ -296,3 +391,7 @@ updateSubjectData(
 generateTableRows();
 // Accessing the JSON object:
 // // console.log(subjectData);
+
+
+
+

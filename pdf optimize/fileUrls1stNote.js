@@ -292,6 +292,55 @@ const folderUrls1stNote = {
 
 
 // pdf preview
+// document.addEventListener("DOMContentLoaded", function () {
+//     var buttons = document.querySelectorAll(".clickLink");
+
+//     buttons.forEach(function (button) {
+//         button.addEventListener("click", function () {
+//             var linkKey = this.getAttribute('data-id');
+//             let link;
+//             if (fileUrls1stNote[linkKey]) {
+//                 link = fileUrls1stNote[linkKey][0];
+//             } else {
+//                 console.error("URL not found for key: " + linkKey);
+//                 return;
+//             }
+
+//             // Check if the URL is from GitHub and contains "blob"
+//             if (link.includes("github.com") && link.includes("blob")) {
+//                 // Replace "blob" with "raw"
+//                 link = link.replace("blob", "raw");
+//             }
+
+//             // var googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
+//             // document.getElementById("myframe").src = googleDocsURL;
+
+//             // If the URL is not from GitHub, keep it unchanged
+//             var googleDocsURL;
+//             if (link.includes("github.com")) {
+//                 googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
+//             } else {
+//                 googleDocsURL = link;
+//             }
+//             document.getElementById("myframe").src = googleDocsURL;
+
+//             // Set modal title
+//             var modalTitle = this.getAttribute('data-id');
+//             document.getElementById("modalTitle").innerText = modalTitle;
+
+//             // Update download button text
+//             var downloadButton = document.getElementById("modalDownload");
+//             downloadButton.textContent = "Download";
+//             downloadButton.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+//         });
+//     });
+// });
+
+
+
+
+
+// pdf preview
 document.addEventListener("DOMContentLoaded", function () {
     var buttons = document.querySelectorAll(".clickLink");
 
@@ -312,16 +361,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 link = link.replace("blob", "raw");
             }
 
-            // var googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
-            // document.getElementById("myframe").src = googleDocsURL;
-
-            // If the URL is not from GitHub, keep it unchanged
             var googleDocsURL;
             if (link.includes("github.com")) {
                 googleDocsURL = "https://docs.google.com/gview?url=" + encodeURIComponent(link) + "&embedded=true";
             } else {
                 googleDocsURL = link;
             }
+
             // document.getElementById("myframe").src = googleDocsURL;
 
             // Clear the iframe content before setting the new source
@@ -357,6 +403,8 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+
 
 
 

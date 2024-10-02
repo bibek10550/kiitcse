@@ -112,7 +112,14 @@ document.addEventListener("DOMContentLoaded", function () {
             } else {
                 googleDocsURL = link;
             }
-            document.getElementById("myframe").src = googleDocsURL;
+            // document.getElementById("myframe").src = googleDocsURL;
+
+            // Clear the iframe content before setting the new source
+            var iframe = document.getElementById("myframe");
+            iframe.src = ''; // Clear iframe content to avoid showing old content
+            iframe.src = googleDocsURL; // Set the new content
+
+
 
             // Set modal title
             var modalTitle = this.getAttribute('data-id');
@@ -122,11 +129,24 @@ document.addEventListener("DOMContentLoaded", function () {
             var downloadButton = document.getElementById("modalDownload");
             downloadButton.textContent = "Download";
             downloadButton.setAttribute("onclick", "downloadFiles(['" + linkKey + "'], this)");
+
+            // Store the current link for refresh purpose
+            var refreshButton = document.querySelector(".pdfRefresh");
+            refreshButton.setAttribute("data-link", googleDocsURL); // Set data-link to the refresh button
         });
     });
+
+    // Handle the .pdfRefresh button click
+    var refreshButton = document.querySelector(".pdfRefresh");
+    refreshButton.addEventListener("click", function () {
+        var googleDocsURL = this.getAttribute("data-link");
+        if (googleDocsURL) {
+            document.getElementById("myframe").src = googleDocsURL;
+        } else {
+            console.error("No URL found to refresh.");
+        }
+    });
 });
-
-
 
 
 

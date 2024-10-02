@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>1st Semester PYQs</title>
+    <title>1st Semester Notes</title>
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
@@ -62,8 +62,8 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <!-- style sheet -->
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/chatbot.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <link href="chatbot.css" rel="stylesheet">
 </head>
 
 <body>
@@ -264,86 +264,44 @@
     <form class="row gy-5 gx-5 mt-5 align-items-center justify-content-center">
         <div class="col-auto">
             <label class="visually-hidden" for="subjectSelect">Subject</label>
-            <select class="form-select filter" id="subjectSelect">
+            <select class="form-select noteFilter" id="subjectSelect">
                 <option value="">Choose Subject</option>
                 <option title="C Language" value="C Lab">C Lab</option>
                 <option title="Bio Medical" value="Bio-Medical">Bio-Medical</option>
                 <option title="ED & Graph" value="ED and Graph">ED and Graph</option>
-                <option title="Environmental Science" value="Environmental Science">Environmental Science</option>
+                <option title="Environmental Science" value="EVS">Environmental Science</option>
                 <option title="Life Science" value="Life Science">Life Science</option>
                 <option title="Differential Equations and Linear Algebra" value="Diff Eqn and Linear Alg">Diff Eqn and Linear Alg</option>
                 <option title="Optimization Technique" value="Optimization Technique">Optimization Technique</option>
                 <option title="Physics" value="Physics">Physics</option>
             </select>
         </div>
-        <div class="col-auto">
-            <label class="visually-hidden" for="yearSelect">Year</label>
-            <select class="form-select filter" id="yearSelect">
-                <option value="">Choose Year</option>
-                <option value="2024">2024</option>
-                <option value="2023">2023</option>
-                <option value="2022">2022</option>
-                <option value="2021">2021</option>
-                <option value="2020">2020</option>
-                <option value="2019">2019</option>
-                <option value="2018">2018</option>
-                <option value="2017">2017</option>
-                <option value="2016">2016</option>
-                <option value="2015">2015</option>
-                <option value="2014">2014</option>
-                <option value="2013">2013</option>
-            </select>
-        </div>
-        <div class="col-auto">
-            <label class="visually-hidden" for="examSelect">Exam</label>
-            <select class="form-select filter" id="examSelect">
-                <option value="">Choose Exam</option>
-                <option value="Mid Semester">Mid Semester</option>
-                <option value="End Semester">End Semester</option>
-            </select>
-        </div>
-        <div class="col-auto">
-            <label class="visually-hidden" for="paperSelect">Paper</label>
-            <select class="form-select filter" id="paperSelect">
-                <option value="">Choose Paper</option>
-                <option value="Solution">Solution</option>
-                <option value="Other">Other</option>
-            </select>
+        <div class="col-sm-6 input-group w-auto">
+            <span class="input-group-text" id="basic-addon1">Topic</span>
+            <input type="text" autocomplete="off" class="form-control" aria-label="topic" aria-describedby="basic-addon1" id="noteTopicInput">
         </div>
         <div class="col-auto">
             <label class="visually-hidden" for="resetbutton">Reset</label>
-            <input class="btn btn-primary" type="reset" value="Reset" id="resetButton">
+            <input class="btn btn-primary" type="reset" value="Reset" id="noteResetButton">
         </div>
     </form>
     <!--  Table -->
     <div data-aos="fade-up" class="table-responsive mt-4">
         <table id="dataTable" class="table table-bordered table-hover caption-top align-middle">
-            <caption>CSE 1st Semester PYQs</caption>
+            <caption>CSE 1st Semester Notes</caption>
             <thead>
                 <tr>
                     <th scope="col">Subject</th>
-                    <th scope="col">Year</th>
-                    <th scope="col">Exam</th>
-                    <th scope="col">Questions</th>
-                    <th scope="col">Solutions</th>
+                    <th scope="col">Topic</th>
                 </tr>
             </thead>
             <tbody class="table-group-divider">
-                <!-- ============ Environmental Science =========== -->
-                <!-- <tr data-subject="Environmental Science" data-year="2015" data-exam="End Semester" data-paper="">
-                    <th scope="row">Environmental Science</th>
-                    <td>2015</td>
-                    <td>End Semester</td>
-                    <td class="download_section align-middle">Autumn End Sem <div class="btn-group" role="group" aria-label="Download Section">
-                            <button type="button" class="clickLink btn btn-primary btn-sm modalToast-trigger" data-toggle="modal" href="#myModal" data-id="EVS_PYQs_2015_Autumn_EndSem">Preview</button>
-                            <button type="button" class="btn btn-primary btn-sm download-file toast-trigger" onclick="downloadFiles(['EVS_PYQs_2015_Autumn_EndSem'], this)">Download</button>
-                        </div>
-                    </td>
-                    <td class="solution_sections text-center">
-                        <span>Not Available</span>
-                        <div class="btn-group" role="group" aria-label="Basic example">
-                            <button type="button" class="clickLink btn btn-primary btn-sm modalToast-trigger" data-toggle="modal" href="#myModal" data-id="EVS_PYQs_2015_Autumn_EndSem">Preview</button>
-                            <button type="button" class="btn btn-primary btn-sm download-file toast-trigger" onclick="downloadFiles(['EVS_PYQs_2015_Autumn_EndSem'], this)">Download</button>
+                <!-- ==================== C Lab ==================== -->
+                <!-- <tr data-subject="C Lab">
+                    <th scope="row">C Lab</th>
+                    <td class="download_section align-middle">Lab 1 Programming Language <div class="btn-group" role="group" aria-label="Download Section">
+                            <button type="button" class="clickLink btn btn-primary btn-sm modalToast-trigger" data-toggle="modal" href="#myModal" data-id="C_Language_Lab-1_computer_programming_language">Preview</button>
+                            <button type="button" class="btn btn-primary btn-sm download-file toast-trigger" onclick="downloadFiles(['C_Language_Lab-1_computer_programming_language'], this)">Download</button>
                         </div>
                     </td>
                 </tr> -->
@@ -422,7 +380,7 @@
         </footer>
         <div id="imagePreview" style="display: none;"></div>
     </div>
-    <!-- Total Visit Count -->
+     <!-- Total Visit Count -->
     <div class="visitCountContainer">
     <!-- dynamic page visit counter 👇🏻-->
     </div>
@@ -450,12 +408,12 @@
     <!-- back to top -->
     <a anim="ripple" href="#" class="scrollup" id="scroll-up"><button type="button" class="btn btn-outline-primary"><i class="fa fa-arrow-up" aria-hidden="true"></i></button></a>
     <!-- script file -->
-    <script src="assets/js/script.js"></script>
-    <script src="assets/js/material.js"></script>
-    <script src="assets/js/chatbot.js"></script>
-    <script src="assets/js/calendar.js"></script>
-    <script src="assets/js/functions.js"></script>
-    <script src="assets/js/fileUrls1stPYQs.js"></script>
+    <script src="script.js"></script>
+    <script src="material.js"></script>
+    <script src="chatbot.js"></script>
+    <script src="calendar.js"></script>
+    <script src="functions.js"></script>
+    <script src="fileUrls1stNote.js"></script>
     <script>
     </script>
 </body>
